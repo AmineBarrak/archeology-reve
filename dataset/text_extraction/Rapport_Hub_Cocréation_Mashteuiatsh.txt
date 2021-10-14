@@ -1,0 +1,1753 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+Projet Hub Saguenay―Lac-Saint-Jean 
+
+Journées de co-création des pôles locaux 
+
+ 
+
+ 
+
+Rapport synthèse de la journée de co-création de 
+
+Mashteuiatsh 
+
+ 
+
+ 
+
+ 
+
+Présenté à l’équipe du 
+
+Hub Saguenay–Lac-Saint-Jean 
+
+Et aux participants 
+
+ 
+
+ 
+
+Réalisé par 
+
+Anissa Duval, éco-conseillère diplômée, 
+
+ 
+
+ 
+
+Avec la collaboration de 
+
+Catherine Lemay-Bélisle, éco-conseillère diplômée 
+
+ 
+
+ 
+
+Sous la direction de 
+
+Olivier Riffon, professeur en éco-conseil 
+
+ 
+
+ 
+
+ 
+
+Université du Québec à Chicoutimi 
+
+ 
+
+21 janvier 2020 
+
+
+
+ 
+
+ii 
+
+ 
+
+Table des matières 
+
+ Introduction .................................................................................................................. 4 1
+
+1.1 Une philosophie de collaboration au service de l’innovation ......................................... 4 
+
+1.2 Les journées de co-création dans la feuille de route du Hub ........................................ 4 
+
+ Méthodologie ................................................................................................................ 6 2
+
+2.1 Éléments clés du processus de co-création utilisés ...................................................... 6 
+
+2.2 Traitement des données ............................................................................................... 8 
+
+ Résultats ...................................................................................................................... 8 3
+
+3.1 Définitions de la collaboration ....................................................................................... 9 
+
+3.2 Vision ..........................................................................................................................11 
+
+3.3 Chantiers prioritaires ...................................................................................................11 
+
+3.3.1 Identification des projets porteurs pour les différents chantiers ............................12 
+
+3.3.2 Acteurs à mobiliser ..............................................................................................15 
+
+3.4 Cartographie partielle des acteurs et de leurs projets de collaboration en cours à 
+
+Mashteuiatsh ...............................................................................................................18 
+
+3.5 Attentes face au Hub ...................................................................................................20 
+
+ Conclusion ..................................................................................................................21 4
+
+Liste des annexes 
+
+Annexe 1 ― Programmation de la journée de co-création ........................................................25 
+
+Annexe 2 ― Photographies des affiches de l’atelier « Définitions de la collaboration ».............26 
+
+Annexe 3 ― Photographies des affiches de l’atelier de vision ...................................................27 
+
+Annexe 4 ― Tableau de synthèse des chantiers ......................................................................29 
+
+Annexe 5 ― Fichier à part – Cartographie partielle de l’écosystème des acteurs sur le territoire 
+
+de Mashteuiatsh (photo en haute résolution) ............................................................................30 
+
+Annexe 6 ― Liste brute des attentes des participants face au Hub Saguenay―Lac-Saint-Jean
+
+ .................................................................................................................................................31 
+
+ 
+
+Liste des photos 
+
+Photo 1 : Patrick Moisan et Sébastien Harvey (de gauche à droite) présentant aux participants 
+
+la démarche du Hub. .................................................................................................................. 6 
+
+ 
+
+
+
+ 
+
+iii 
+
+ 
+
+Liste des figures 
+
+Figure 1 : Les éléments de définition de la collaboration – Équipe 1 .........................................10 
+
+Figure 2 : Les éléments de définition de la collaboration– Équipe 2 ..........................................10 
+
+Figure 3 : Cartographie partielle de l’écosystème des acteurs sur le territoire de Mashteuiatsh 
+
+(photo en basse résolution). ......................................................................................................19 
+
+Figure 4 : Attentes face au Hub par thématiques ......................................................................20 
+
+Liste des graphiques 
+
+Graphique 1 des projets porteurs du chantier A — Autonomie : politique/économique..............13 
+
+Graphique 2 des projets porteurs du chantier B — Mobilisation : vision commune/communauté
+
+ .................................................................................................................................................13 
+
+Graphique 3 des projets porteurs du chantier C — Partenariats : inclusif/collaboration .............13 
+
+Graphique 4 des projets porteurs du chantier D — Territoire : culture/environnement...............14 
+
+Graphique 5 des projets porteurs du chantier E — Éducation & Formation : 
+
+connaissances/expertises .........................................................................................................14 
+
+Graphique 6 des projets porteurs du chantier F — Main-d’œuvre : 
+
+Développement/formation/employabilité ...................................................................................15 
+
+Liste des tableaux 
+
+Tableau 1 : Éléments de vision classés par thématique ............................................................11 
+
+Tableau 2 : Les six grands chantiers prioritaires identifiés à Mashteuiatsh ................................12 
+
+Tableau 3 : Acteurs susceptibles de contribuer au chantier A — Autonomie : 
+
+politique/économique ................................................................................................................15 
+
+Tableau 4 : Acteurs susceptibles de contribuer au chantier B — Mobilisation : vision 
+
+commune/communauté .............................................................................................................16 
+
+Tableau 5 : Acteurs susceptibles de contribuer au chantier C — Partenariats : 
+
+inclusif/collaboration ..................................................................................................................16 
+
+Tableau 6 : Acteurs susceptibles de contribuer au chantier D — Territoire : 
+
+culture/environnement ...............................................................................................................16 
+
+Tableau 7 : Acteurs susceptibles de contribuer au chantier E — Éducation & Formation : 
+
+connaissances/expertises .........................................................................................................17 
+
+Tableau 8 : Acteurs susceptibles de contribuer au chantier F — Main-d’œuvre : 
+
+Développement/formation/employabilité ...................................................................................17 
+
+Tableau 9 : Les six grands chantiers prioritaires identifiés à Mashteuiatsh ................................23 
+
+
+
+ 
+
+4 
+
+ 
+
+ Introduction 1
+
+1.1 Une philosophie de collaboration au service de l’innovation 
+
+Le Hub Saguenay―Lac-Saint-Jean agit comme espace de collaboration intersectorielle dans le 
+
+but de soutenir les entreprises et organisations et de favoriser l’émergence de projets 
+
+innovants. Il se donne comme vision « d’enrichir, ensemble, notre modèle de développement 
+
+régional adapté aux paramètres social et économique du 21
+e
+ siècle. » Pour ce faire, le Hub 
+
+souhaite constituer un réseau régional offrant aux acteurs du Saguenay–Lac-Saint-Jean, issus 
+
+de différents secteurs d’activité, la possibilité de partager et de mutualiser leurs ressources et 
+
+leurs expertises. C’est grâce au travail collaboratif des acteurs qui le composent, à l’innovation 
+
+ouverte et au numérique que cette démarche ambitionne d’enrichir le modèle de 
+
+développement du Saguenay―Lac-Saint-Jean.  
+
+La vision du Hub est guidée par trois grandes postures, à savoir : 
+
+- Respecter ce qui existe déjà et agir de manière complémentaire; 
+
+- Rassembler les intervenants qui favorisent l’innovation; 
+
+- Amener les leaders locaux et l’écosystème régional à mutualiser leurs forces. 
+
+Également, deux conditions sont considérées essentielles au succès de la démarche. D’une 
+
+part, la constitution du réseau régional doit impliquer une diversité des parties prenantes. 
+
+D’autre part, ce réseau doit reposer sur un désir commun de collaborer. 
+
+1.2 Les journées de co-création dans la feuille de route du Hub 
+
+La démarche du Hub est réfléchie pour s’échelonner sur quatre ans et se décline en cinq 
+
+grandes étapes, soit : 
+
+1. Informer, mobiliser et permettre aux acteurs de s’approprier le concept du Hub 
+
+(année 1 et 2); 
+
+2. Rassembler les parties prenantes et ajuster les objectifs (année 2); 
+
+3. Établir la gouvernance (année 2); 
+
+4. Mettre en place des projets pilotes, des protocoles et des services (année 3); 
+
+5. Concrétiser la structure du Hub et la rendre opérationnelle (année 4). 
+
+
+
+ 
+
+5 
+
+ 
+
+Ainsi, durant cette deuxième année de développement, l’année de l’émergence, le Hub s’est 
+
+donné comme objectif d’informer, de mobiliser et de soutenir les acteurs clés de chaque 
+
+territoire de la région et de chaque secteur d’activités, afin de les familiariser avec le Hub et de 
+
+les y intégrer. Dans le cadre de cette première étape, plusieurs enquêtes appréciatives ont été 
+
+planifiées, à raison d’une dans chaque municipalité régionale de comté (MRC) et à 
+
+Mashteuiatsh. Ces enquêtes constituent de précieux bassins d’informations pour la planification 
+
+des journées de co-création des pôles locaux du Hub. 
+
+À Mashteuiatsh, un échange s’étant déroulé sous forme de discussion ouverte le 17 septembre 
+
+2019 avec Mélanie Courtois, conseillère clinique dans la communauté, a permis de poser un 
+
+premier regard sur les enjeux, réalités, défis et besoins locaux, tous secteurs d’activités 
+
+confondus. S’inscrivant comme la suite logique des enquêtes appréciatives et de la rencontre à 
+
+Mashteuiatsh, les journées de co-création ont été planifiées en fonction de cinq principaux 
+
+objectifs, soit : 
+
+1. Développer une compréhension commune du Hub régional et des pôles locaux (un par 
+
+territoire); 
+
+2. Définir l’écosystème local et dresser la cartographie des acteurs et organisations; 
+
+3. Identifier les attentes, les objectifs et les résultats attendus pour leur pôle local et pour 
+
+le Hub régional; 
+
+4. Identifier les conditions gagnantes à la mise en œuvre de leur pôle local et du Hub 
+
+régional; 
+
+5. Définir le rôle des acteurs et leurs mécanismes d’action dans la mise en œuvre de leur 
+
+pôle local et du Hub régional. 
+
+6. Documenter par cette consultation les objectifs et les priorités de développement de la 
+
+communauté de Mashteuiatsh, soit une opportunité de validation complémentaire et de 
+
+réflexion sur les cibles et plan d’action de la démarche du comité intersectoriel sur le 
+
+développement social de Mashteuiatsh. 
+
+Le présent rapport fait état des résultats de la journée de co-création qui s’est déroulée le 30 
+
+octobre 2019 à Mashteuiatsh, où 10 acteurs du territoire ont participé à l’événement. 
+
+
+
+ 
+
+6 
+
+ 
+
+ 
+
+Photo 1 : Patrick Moisan et Sébastien Harvey (de gauche à droite) présentant aux participants la démarche 
+du Hub. 
+
+ Méthodologie  2
+
+2.1 Éléments clés du processus de co-création utilisés 
+
+La co-création est une approche innovante qui vise à impliquer de nombreuses parties 
+
+prenantes, et notamment les bénéficiaires ou clients, dans les différentes phases de création et 
+
+de production d’un produit ou d’un service. Elle implique un haut niveau d’engagement et de 
+
+collaboration entre les acteurs, qui partagent l’objectif de développer un service qui répondra de 
+
+la manière la plus adéquate aux besoins. La co-création repose sur des méthodes d’animation 
+
+participative et sur la mise en œuvre d’un dialogue transparent, constructif et respectueux. Dans 
+
+l’expérience du Hub Saguenay–Lac-Saint-Jean, cette approche a été utilisée dans la phase 
+
+d’émergence du projet (année 2) afin d’identifier les besoins et les attentes des acteurs du 
+
+territoire, ainsi que les projets ou services qui pourraient être offerts par le Hub pour initier et 
+
+soutenir des expériences innovantes de collaboration intersectorielle.  
+
+Pour chaque territoire, la journée a été réfléchie de manière flexible, dans la mesure où les 
+
+réalités et les attentes des acteurs varient d’un territoire à l’autre. Cela dit, différents éléments 
+
+méthodologiques ont orienté la planification de l’ensemble des journées de co-création. 
+
+
+
+ 
+
+7 
+
+ 
+
+En premier lieu, sur chaque territoire, les différentes activités de la journée ont été réfléchies de 
+
+manière à répondre aux attentes générales face à la journée, mentionnées par les acteurs 
+
+présents lors de l’enquête appréciative. Soulignons également que les activités ont été 
+
+réfléchies de manière articulée afin de stimuler l’esprit collaboratif des participants et de faire 
+
+cheminer la réflexion du groupe. 
+
+Comme cadre de communication, une éthique du dialogue a été proposée tout au long des 
+
+journées de co-création. Cette éthique du dialogue se traduit par des échanges ouverts et 
+
+respectueux, où tous peuvent proposer leurs idées, même lorsqu’elles sont divergentes. À ce 
+
+stade du processus, les propos et les idées générés lors des journées sont ancrés dans une 
+
+approche non décisionnelle. Les acteurs sont plutôt invités à s’exprimer dans le but de créer 
+
+des liens entre eux, d’imaginer et de partager un éventail de possibles et de nourrir la réflexion 
+
+sur la démarche du Hub. 
+
+Chaque journée de co-création a rassemblé trois catégories d’experts, chacune ayant son rôle. 
+
+Les experts de contenu, c’est-à-dire le comité de mise en œuvre du Hub, avaient la mission 
+
+d’informer les participants sur la démarche réalisée jusqu’à ce jour, de présenter les grandes 
+
+orientations et de répondre aux questions relatives à celles-ci. Ils étaient également présents 
+
+pour prendre connaissance des commentaires et remarques des participants (photo). Les 
+
+experts de contenant, soit les animateurs de la journée, avaient pour rôle d’introduire les 
+
+activités, de guider les acteurs présents à travers ces dernières, de stimuler la participation et 
+
+de récolter les données générées tout au long de la journée. Finalement, les experts du 
+
+territoire, à savoir les participants, constituent le noyau des journées de co-création. Leurs 
+
+connaissances du milieu et leurs aspirations ont alimenté les réflexions dans le but d’orienter la 
+
+démarche du Hub. 
+
+Au cours de la journée d’activité, le travail en petits groupes a été priorisé afin d’optimiser la 
+
+contribution des participants. Comme mémoire de travail pour chaque atelier, les animateurs 
+
+ont mis à la disposition des participants différents supports permettant de recueillir des données 
+
+(Post-it, grandes feuilles, images). Plusieurs activités de groupes étaient également guidées par 
+
+les membres de l’équipe d’animation afin de structurer les discussions et d’assurer la prise en 
+
+note des réflexions. Des précisions spécifiques au déroulement des différents ateliers sont 
+
+présentées avec leurs résultats respectifs dans les sous-sections de résultats. L’équipe 
+
+d’animateurs a ensuite récolté l’intégralité du matériel pour qu’il soit traité en vue de la rédaction 
+
+du rapport.  
+
+
+
+ 
+
+8 
+
+ 
+
+Finalement, l’approche de durabilité qui caractérise la démarche du Hub intègre le principe 
+
+d’écoresponsabilité. Ainsi, les journées de co-création ont été planifiées en privilégiant 
+
+l’utilisation de matériel qui limite la création de déchets. De plus, les journées se veulent 
+
+carboneutres. En ce sens, les émissions de gaz à effet de serre (GES) générées dans le cadre 
+
+de ces journées ont été compensées par le programme Carbone boréal de l’Université du 
+
+Québec à Chicoutimi (UQAC).  
+
+2.2 Traitement des données 
+
+Les données recueillies lors des journées de co-création ont été rassemblées par l’équipe 
+
+d’animation en Éco-conseil de l’UQAC, qui a eu le mandat de traiter l’intégralité des 
+
+informations qui sont ressorties des activités participatives. Pour synthétiser les contenus, tout 
+
+le matériel généré lors de ces journées a été récupéré. Les informations disponibles ont ensuite 
+
+été traitées en fonction des objectifs auxquels elles répondent. 
+
+Les résultats sont transmis sous forme de texte, de tableaux et de photographies du matériel 
+
+visuel original. Occasionnellement, quelques reformulations ou interprétations de la calligraphie 
+
+ont dû être réalisées, cela avec un souci de ne pas modifier le sens original de l’information. Le 
+
+format variable du contenu du rapport vise à rendre celui-ci léger et concis tout en permettant, 
+
+grâce aux images, de conserver une trace du contenu authentique généré par les participants. 
+
+Pour certaines informations, une organisation par thématique a été réalisée postérieurement à 
+
+la journée de co-création de manière à faciliter l’interprétation générale des contenus. Ces 
+
+regroupements faciliteront également la mise en commun des données des différentes journées 
+
+de co-création en un rapport global ultérieur à portée régionale. De plus, il est à noter que 
+
+l’information est toujours organisée en ordre alphabétique, à moins qu’une forme de priorisation 
+
+participative des données générées n’ait été planifiée lors des activités.  
+
+ Résultats 3
+
+Pour le territoire de Mashteuiatsh, afin de répondre aux attentes qui ont été exprimées lors de la 
+
+rencontre du 17 septembre 2019, trois ateliers ont été conçus, soit un atelier de cartographie de 
+
+l’écosystème, un atelier de vision et un atelier sur les chantiers prioritaires. À ces trois grands 
+
+volets ont été ajoutées de courtes activités interactives permettant aux participants de faire 
+
+connaissance, de s’exprimer sur le sens de la collaboration (activité brise-glace sur la définition 
+
+de la collaboration) et de communiquer leurs attentes concernant la suite de la démarche du 
+
+
+
+ 
+
+9 
+
+ 
+
+Hub (plénière portant sur les attentes face aux étapes ultérieures de la démarche du Hub). La 
+
+programmation de la journée est disponible à l’Annexe 1 ― Programmation de la journée de co-
+
+création. 
+
+Cette section présente de manière organisée les informations colligées lors des différentes 
+
+activités, respectivement : 
+
+3.1. Les définitions de la collaboration, telles que réfléchies par les participants; 
+
+3.2. Les éléments de vision pour le développement du territoire; 
+
+3.3. Les chantiers prioritaires souhaités; 
+
+3.4. Une cartographie partielle des acteurs et de leurs projets de collaboration en cours 
+
+sur le territoire;  
+
+3.5. Les attentes des participants face au HUB. 
+
+3.1  Définitions de la collaboration 
+
+Dans la démarche du Hub, l’émergence d’une culture de collaboration est une condition 
+
+essentielle à la dynamisation de l’économie régionale et à la mise en place de projets 
+
+innovants. En ce sens, l’activité brise-glace « définir la collaboration » a été réalisée pour 
+
+donner l’occasion aux participants de converger vers une compréhension commune de ce 
+
+qu’est la collaboration, à partir de la compréhension que chacun en a au départ. Les acteurs 
+
+présents ont été invités à se placer en groupes de quatre ou cinq, autour d’une grande feuille 
+
+avec au centre le terme « collaboration ». Par la suite, les membres de chaque groupe ont eu à 
+
+discuter afin de faire ressortir de manière consensuelle quatre termes qui selon eux, définissent 
+
+bien la collaboration. Une fois ces quatre termes adoptés et transcrits sur la feuille, les équipes 
+
+ont été invitées à faire le même exercice avec chacun des termes identifiés, c’est-à-dire définir 
+
+chacun d’eux avec quatre autres mots. La Figure 1 et la Figure 2 exposent les éléments de 
+
+définition qui ont été ressortis par les deux groupes formés. Les affiches originales réalisées par 
+
+les participants sont disponibles à l’Annexe 2 ― Photographies des affiches de l’atelier « 
+
+Définitions de la collaboration ». 
+
+
+
+ 
+
+10 
+
+ 
+
+ 
+
+Figure 1 : Les éléments de définition de la collaboration – Équipe 1 
+
+ 
+
+Figure 2 : Les éléments de définition de la collaboration– Équipe 2 
+
+
+
+ 
+
+11 
+
+ 
+
+3.2 Vision 
+
+Par le biais de groupes de discussion, l’atelier de vision a permis de faire émerger les rêves 
+
+communs des participants face au territoire. Pour ce faire, les acteurs présents ont été divisés 
+
+en groupes de cinq. Ils ont ensuite été invités à créer une « Une » de journal fictive de l’an 2029 
+
+faisant la promotion des forces de la communauté de Mashteuiatsh, sous le grand titre 
+
+« Mashteuiatsh, un modèle d’innovation reconnu à l’international ». Chacun des groupes de 
+
+participants a donc eu à réaliser une affiche sur laquelle il a pu identifier de manière 
+
+consensuelle des thématiques, des valeurs, des chantiers, des projets et/ou des résultats qu’il 
+
+souhaite voir investis ou réalisés d’ici les dix prochaines années.  
+
+Le tableau 1 rend compte des principaux éléments de vision qui ont été relevés, à partir du 
+
+contenu écrit. Les photos des affiches des « Unes » de journaux sont disponibles à l’Annexe 3 
+
+― Photographies des affiches de l’atelier de vision 
+
+Tableau 1 : Éléments de vision classés par thématique 
+
+ÉLÉMENTS DE VISION PAR THÉMATIQUE 
+NUMÉRO DE 
+
+L’AFFICHE 
+CORRESPONDANTE 
+
+Développement socio-économique   
+
+Mise en place de programmes et services cohérents avec les réalités du 
+territoire 
+
+1 
+
+Mise en valeur du biochar 2 
+
+Gouvernance territoriale   
+
+Adoption d’une constitution pour la Première Nation des 
+Pekuakamiulnuatsh 
+
+1 
+
+Autonomie territoriale 1 
+
+Reconnaissance des droits ancestraux 1 
+
+Vie communautaire/Santé du territoire   
+
+Maison communautaire zéro déchet et certifiée LEED 2 
+
+Mise en place d’une maison communautaire multisectorielle 2 
+
+Partage des ressources offertes par la maison communautaire 2 
+
+3.3 Chantiers prioritaires 
+
+L’atelier sur les chantiers prioritaires s’inscrit dans la volonté du Hub de rassembler les leaders 
+
+locaux autour d’enjeux communs, afin que chacun puisse contribuer, dans un esprit collaboratif, 
+
+à la mise en place de projets innovants et structurants sur le territoire et dans la région. Ainsi, 
+
+l’objectif de cette activité est d’identifier des chantiers et des projets importants pour les acteurs 
+
+
+
+ 
+
+12 
+
+ 
+
+du territoire, ainsi que d’identifier les expertises et les ressources disponibles sur le territoire 
+
+pour supporter ces initiatives. L’atelier des chantiers s’est décliné en deux volets. 
+
+Premièrement, regroupés autour des tables par groupes de quatre ou cinq, les participants ont 
+
+eu à discuter et à identifier de manière consensuelle quatre à six chantiers qui, selon eux, 
+
+doivent être ciblés dans le cadre de la démarche du Hub, à l’échelle territoriale ou régionale. 
+
+Suite à cet exercice, l’équipe d’animation a eu le rôle de synthétiser les réponses des 
+
+participants, afin de les regrouper par grands chantiers. Ainsi, tous les éléments mentionnés ont 
+
+été catégorisés, de manière à générer six grands chantiers jugés prioritaires par l’assemblée 
+
+(tableau 2). Cette catégorisation a été validée en plénière. Le tableau exposé en Annexe 4 ― 
+
+Tableau de synthèse des chantiers, présente le détail de la synthèse des propositions initiales.  
+
+Tableau 2 : Les six grands chantiers prioritaires identifiés à Mashteuiatsh 
+
+LES SIX GRANDS CHANTIERS PRIORITAIRES 
+Vers les 
+projets 
+porteurs 
+
+Vers les 
+acteurs à 
+mobiliser 
+
+A)  Autonomie : politique/économique Graphique 1 Tableau 3 
+
+B)  Mobilisation : vision commune/communauté Graphique 2 Tableau 4 
+
+C)  Partenariats : inclusif/collaboration Graphique 3 Tableau 5 
+
+D)  Territoire : culture/environnement Graphique 4 Tableau 6 
+
+E)  Éducation & Formation : connaissances/expertises Graphique 5 Tableau 7 
+
+F)  Main-d’œuvre : Développement/formation/employabilité Graphique 6 Tableau 8 
+
+ 
+
+Le second volet de l’atelier consistait à identifier, pour chaque chantier, les différentes 
+
+organisations et acteurs à mobiliser, de même que des projets porteurs pour le territoire. Pour 
+
+ce faire, les six chantiers ont été apposés au haut d’une grande matrice, de manière à 
+
+constituer six colonnes. Par la suite, les participants ont eu à alimenter chacune de ces 
+
+colonnes avec les deux types d’information mentionnés ci-dessus. 
+
+3.3.1 Identification des projets porteurs pour les différents chantiers 
+
+Les graphiques qui suivent regroupent tous les projets qui ont été proposés par les participants 
+
+pour chaque grand chantier. Les acteurs étaient libres de nommer des projets du milieu déjà en 
+
+cours ou de proposer des initiatives qu’ils souhaiteraient voir émerger. Également, chaque 
+
+participant avait en sa possession huit autocollants qu’il pouvait apposer à côté des projets 
+
+identifiés parmi tous les chantiers, comme une mention d’intérêt. Cet exercice de priorisation a 
+
+permis de mettre en valeur les projets les plus inspirants pour les acteurs présents. 
+
+
+
+ 
+
+13 
+
+ 
+
+Graphique 1 des projets porteurs du chantier A — Autonomie : politique/économique 
+
+ 
+
+Graphique 2 des projets porteurs du chantier B — Mobilisation : vision commune/communauté 
+
+ 
+
+Graphique 3 des projets porteurs du chantier C — Partenariats : inclusif/collaboration 
+
+ 
+
+ 
+
+12 
+
+0 
+
+0 5 10 15
+
+Créer une Constitution propre aux Pekuakamiulnuatsh (en
+passant par une démarche de consultation)
+
+Créer son propre code foncier
+
+Projet à développer Projet en cours
+
+0 
+
+12 
+
+0 2 4 6 8 10 12 14
+
+Regroupement intersectoriel qui contribue à la réalisation 
+d’un projet commun (ex. : bottin des ressources qui 
+
+détiennent des savoirs ancestraux et traditionnels, pour le 
+transfert des connaissances)  
+
+Mise en place d’une maison communautaire (valorisant l’art 
+et la culture)  
+
+Projet à développer Projet en cours
+
+4 
+
+3 
+
+0 0,5 1 1,5 2 2,5 3 3,5 4 4,5
+
+Lutte à la pauvreté
+
+Échanges entre Ilnus et gens du Lac-Saint-Jean et
+Saguenay sur des sujets spécifiques
+
+Projet à développer Projet en cours
+
+
+
+ 
+
+14 
+
+ 
+
+Graphique 4 des projets porteurs du chantier D — Territoire : culture/environnement 
+
+ 
+
+Graphique 5 des projets porteurs du chantier E — Éducation & Formation : connaissances/expertises 
+
+ 
+
+ 
+
+2 
+
+6 
+
+2 
+
+10 
+
+0 2 4 6 8 10 12
+
+Sensibilisation à la réalité autochtone en milieu scolaire
+
+Promouvoir la culture et le territoire via le calendrier 
+d’activités et d’événements du Hub, à l’extérieur de 
+
+Mashteuiatsh (MRC Domaine-du-Roy, Maria-
+Chapdelaine et Alma)  
+
+Intégration de la culture dans l’environnement  
+
+Création d’un camp en territoire (multi-service)  
+
+Projet à développer Projet en cours
+
+0 
+
+1 
+
+3 
+
+0 0,5 1 1,5 2 2,5 3 3,5
+
+Développer des structures d’éducation propres au 
+territoire  
+
+Délocaliser des formations professionnelles (C.S. / FP /
+Cégeps / Universités), accès au laboratoire informatique
+
+pour la population
+
+Créer un centre de formation professionnelle à
+Mashteuiatsh
+
+Projet à développer Projet e cours
+
+
+
+ 
+
+15 
+
+ 
+
+Graphique 6 des projets porteurs du chantier F — Main-d’œuvre : Développement/formation/employabilité 
+
+ 
+
+3.3.2 Acteurs à mobiliser 
+
+Les tableaux ci-dessous recensent les acteurs identifiés par les participants, soit tous ceux qui 
+
+sont susceptibles d’offrir des ressources, expertises, services ou équipements, afin de soutenir 
+
+des initiatives, dans chacun des chantiers. Les éléments transcrits par les participants ont été 
+
+conservés dans leur forme originelle. 
+
+Tableau 3 : Acteurs susceptibles de contribuer au chantier A — Autonomie : politique/économique 
+
+CHANTIER A — Autonomie : politique/économique 
+
+ACTEURS À MOBILISER 
+
+Bureau de l’autonomie gouvernementale  
+
+Cain Lamarre 
+
+Caisse Pekuakami 
+
+Comité des parties prenantes (CPP) 
+
+Commission de développement économique des Premières Nations du Québec (CDEPNQL) 
+
+Corporation de Développement Economique Montagnaise (CDEM) 
+
+Pekuakamiulnuatsh Takuhikan 
+
+Regroupement Petapan 
+
+SOCA 
+
+Société d’Aide au Développement des Collectivités (SADC) 
+
+Société de Dévéloppement Économique Ilnu (SDEI) 
+
+ 
+
+3 
+
+0 
+
+0 
+
+6 
+
+0 1 2 3 4 5 6 7
+
+Réaliser des programmes d’insertion 
+socioprofessionnelle pour favoriser l’entrée sur le 
+
+marché du travail (stages supervisés en entreprises)  
+
+Rallier formation et employeurs (entreprises
+existantes)
+
+Formation en milieu de travail
+
+Avoir un agent de développement du SAE de la
+commission scolaire originaire de la communauté et
+
+basé sur le territoire
+
+Projet à développer Projet en cours
+
+
+
+ 
+
+16 
+
+ 
+
+Tableau 4 : Acteurs susceptibles de contribuer au chantier B — Mobilisation : vision commune/communauté 
+
+CHANTIER B — Mobilisation : vision commune/communauté 
+
+ACTEURS À MOBILISER 
+
+Commission de la santé et des services sociaux des Premières Nations du Québec et du 
+Labrador (CSSSPNQL) 
+
+Commission Scolaire du Pays-Des-Bleuets (CSPB) : service aux entreprises - cartographie des 
+profils / mobilisation d’équipes 
+
+Hub Saguenay-Lac-Saint-Jean 
+
+Pekuakamiulnuatsh Takuhikan 
+
+Uauitishitutau 
+
+UQAC / Éco-conseil : expertise en animation 
+
+ 
+
+Tableau 5 : Acteurs susceptibles de contribuer au chantier C — Partenariats : inclusif/collaboration 
+
+CHANTIER C — Partenariats : inclusif/collaboration 
+
+ACTEURS À MOBILISER 
+
+Caisse Pekuakami 
+
+Commission Scolaire du Pays-Des-Bleuets (CSPB) : FGA / FP / SAE 
+
+Culture Saguenay-Lac-Saint-Jean  
+
+Groupe EPA 
+
+Pekuakamiulnuatsh Takuhikan 
+
+Société d’Aide au Développement des Collectivités (SADC) 
+
+UQAC / Éco-conseil : animation collaborative 
+
+ 
+Tableau 6 : Acteurs susceptibles de contribuer au chantier D — Territoire : culture/environnement 
+
+CHANTIER D — Territoire : culture/environnement 
+
+ACTEURS À MOBILISER 
+
+Culture Saguenay-Lac-Saint-Jean 
+
+Eurêko! 
+
+Groupe EPA 
+
+Musée amérindien de Mashteuiatsh 
+
+Parc Sacré 
+
+Pekuakamiulnuatsh Takuhikan 
+
+UQAC / La Boîte Rouge Vif 
+
+ 
+
+
+
+ 
+
+17 
+
+ 
+
+Tableau 7 : Acteurs susceptibles de contribuer au chantier E — Éducation & Formation : 
+connaissances/expertises 
+
+CHANTIER E — Éducation & Formation : connaissances/expertises 
+
+ACTEURS À MOBILISER 
+
+CDFM 
+
+Cégeps et collèges 
+
+Commission Scolaire du Pays-Des-Bleuets (CSPB) : CFP/FGA/SAE 
+
+Conseil en Éducation des Premières Nations (CEPN) : éducation des adultes 
+
+Culture Saguenay-Lac-Saint-Jean 
+
+Écobes 
+
+Eurêko! 
+
+Kiuna 
+
+Pekuakamiulnuatsh Takuhikan : développement de la main-d’œuvre (DMO) 
+
+Région éducative 
+
+UQAC : formations diverses 
+
+ 
+
+Tableau 8 : Acteurs susceptibles de contribuer au chantier F — Main-d’œuvre : 
+Développement/formation/employabilité 
+
+CHANTIER F — Main-d’œuvre : Développement/formation/employabilité 
+
+ACTEURS À MOBILISER 
+
+Carrefour jeunesse emploi 
+
+Commission de développement des ressources humaines des Premières Nations du Québec 
+(CDRHPNQ) 
+
+Commission Scolaire du Pays-Des-Bleuets (CSPB) : SAE/formation sur mesure 
+
+MO Stratégie 
+
+Ose le pays des Bleuets 
+
+Pekuakamiulnuatsh Takuhikan : développement de la main-d’œuvre (DMO) 
+
+Services Québec 
+
+Société d’Aide au Développement des Collectivités (SADC) 
+
+Société de Dévéloppement Économique Ilnu (SDEI) 
+
+UQAC / Nikanité : formation continue 
+
+ 
+
+ 
+
+
+
+ 
+
+18 
+
+ 
+
+3.4 Cartographie partielle des acteurs et de leurs projets de collaboration en 
+
+cours à Mashteuiatsh 
+
+Lors de la journée de co-création, les participants ont été invités à réaliser une cartographie des 
+
+organisations présentes sur le territoire. Ainsi, chacun a eu à décrire son organisation d’accueil, 
+
+sur un Post-it rectangulaire dont la couleur était associée à la nature de l’organisation, soit rose 
+
+pour une organisation publique et parapublique, vert pour une organisation privée, jaune pour 
+
+un organisme communautaire, bleu pour une association et mauve pour une table de 
+
+concertation. Ensuite, le participant devait la situer sur une grande carte en fonction de son 
+
+secteur d’activités, soit économique (en haut à gauche), gouvernance et politique (en haut à 
+
+droite), sociocommunautaire (en bas à gauche) ou tout autre secteur (en bas à droite). En 
+
+parallèle, il devait situer son organisation en fonction de sa portée géographique, soit locale, 
+
+régionale ou extérieure à la région, de manière excentrique respectivement. De plus, chacun 
+
+des acteurs a eu à identifier sur un petit Post-it carré jaune un ou des projets de collaboration 
+
+issus de son organisation et auxquels contribuait au minimum une autre entité présente sur la 
+
+carte. Les participants ont ensuite été invités à tracer les liens qui unissent les différentes 
+
+organisations autour d’un même projet.  
+
+Les objectifs de cet atelier sont multiples. D’une part, le résultat de la cartographie permet de 
+
+rendre compte de la diversité des acteurs et des forces du milieu. Également, il permet de 
+
+prendre conscience des liens déjà existants entre les acteurs du territoire, de manière à 
+
+démontrer l’existence et la pertinence du travail collaboratif. Finalement, les informations 
+
+récoltées au terme de l’atelier alimentent une précieuse banque de données, permettant d’avoir 
+
+connaissance des ressources, expertises, services et équipements potentiellement disponibles 
+
+pour des mutualisations sur le territoire, afin d’alimenter les étapes ultérieures de la démarche 
+
+du Hub. 
+
+La Figure 3 est une reproduction photographique en basse résolution des résultats bruts de 
+
+l’atelier. Une version en haute résolution de la photographie est disponible en annexe 5 ― 
+
+Fichier à part – Cartographie partielle de l’écosystème des acteurs sur le territoire de 
+
+Mashteuiatsh (photo en haute résolution), dans un fichier complémentaire. En parallèle à ce 
+
+rapport, les informations traitées à partir de cette affiche seront intégrées à la base de données 
+
+des autres démarches de cartographie des expertises, ressources et équipement en cours au 
+
+Hub. Ces informations seront disponibles ultérieurement. 
+
+
+
+ 
+
+19 
+
+ 
+
+ 
+
+Figure 3 : Cartographie partielle de l’écosystème des acteurs sur le territoire de Mashteuiatsh (photo en basse résolution); la couleur des Post-it rectangulaires utilisés par les organisations est définie 
+selon la nature de l’organisation, soit rose pour une organisation publique et parapublique, vert pour une organisation privée, jaune pour un organisme communautaire, bleu pour une association et 
+mauve pour une table de concertation. Des projets collaboratifs signifiants sont inscrits sur les petits Post-it carrés jaunes; les lignes dessinées représentent les liens entre les organisations et les 
+projets collaboratifs (la couleur des liens n’a pas de signification). 
+
+ 
+
+
+
+ 
+
+20 
+
+ 
+
+3.5 Attentes face au Hub 
+
+Pour clôturer la journée de co-création, une plénière a été réalisée, afin de donner l’occasion à 
+
+l’ensemble des participants d’exprimer leurs attentes concernant le rôle que jouera le Hub sur le 
+
+territoire. Afin de mettre en évidence les grands défis du Hub, tels que perçus par les 
+
+participants, les réponses ont été classées par grands thèmes. La Figure 4 fait état de la 
+
+classification des réponses. L’Annexe 6 ― Liste brute des attentes des participants face au Hub 
+
+Saguenay―Lac-Saint-Jean, présente la liste brute des éléments qui ont été mentionnés par les 
+
+acteurs présents. 
+
+ 
+
+ 
+
+Figure 4 : Attentes face au Hub par thématiques 
+
+ 
+
+
+
+ 
+
+21 
+
+ 
+
+ Conclusion 4
+
+Né d’une ambition de favoriser l’émergence de projets innovants et de soutenir les entreprises 
+
+et les organisations qui les portent, le Hub Saguenay―Lac-Saint-Jean se définit d’abord 
+
+comme un lieu de collaboration intersectorielle. Il vise à constituer un réseau régional 
+
+permettant aux acteurs de différents secteurs d’activités de partager et de mutualiser leurs 
+
+ressources et leurs expertises. Par le biais d’une approche collaborative, le Hub souhaite 
+
+enrichir le modèle de développement du Saguenay―Lac-Saint-Jean, afin d’en faire une 
+
+référence en matière d’innovation. 
+
+Au cours de sa deuxième année de mise en œuvre, le Hub s’est fixé comme objectif de 
+
+familiariser les acteurs de chaque territoire de la région avec la notion de Hub, puis de les y 
+
+intégrer. Pour ce faire, une démarche d’information et de mobilisation a été planifiée pour 
+
+chacun des territoires de la région. À Mashteuiatsh, une rencontre sous forme de discussion 
+
+ouverte, s’étant déroulée le 17 septembre 2019 avec Mélanie Courtois, conseillère clinique, a 
+
+permis de poser un premier regard sur les enjeux, réalités, défis et besoins locaux, tous 
+
+secteurs d’activités confondus. Le présent rapport rend compte de la journée de co-création du 
+
+30 octobre 2019 qui lui a fait suite et à laquelle ont participé 10 acteurs du milieu. Cette journée 
+
+avait pour but d’affiner le portrait des écosystèmes local et régional, ainsi que de mieux définir 
+
+les rôles que pourrait y jouer le Hub. Également, cette journée visait à examiner les 
+
+préoccupations, les ambitions et les possibilités d’implication des acteurs du milieu vis-à-vis de 
+
+la démarche du Hub, ainsi que de discuter des conditions gagnantes pour sa mise en œuvre.  
+
+L’intégralité des données générées lors de la journée de co-création a été récoltée et traitée par 
+
+l’équipe d’animation en Éco-conseil de l’UQAC. Ces données ont été compilées, triées, puis 
+
+organisées, d’une part en fonction de l’activité de la journée à laquelle elles étaient associées et 
+
+d’autre part en fonction des thématiques, enjeux ou chantiers auxquels elles référaient. Cinq 
+
+groupes de résultats sont donc présentés. 
+
+Tout d’abord, l’activité brise-glace portant sur la définition la collaboration a été l’occasion de 
+
+démarrer la journée en favorisant la rencontre et les échanges entre les participants avec 
+
+comme trame de fond une réflexion et une compréhension commune du mot « collaboration ». 
+
+Suite à un exercice de réflexion en groupes de cinq, deux affiches comportant chacune une 
+
+définition à deux niveaux du mot « collaboration » ont été réalisées. Ainsi, il est ressorti qu’au 
+
+premier plan, la collaboration englobe les notions de groupe, de communication, de 
+
+
+
+ 
+
+22 
+
+ 
+
+coopération, de vision, de respect, de travail d’équipe et de développement (voir détails aux 
+
+figures 1 et 2 : les éléments de définition de la collaboration).  
+
+En second lieu, l’un des grands ateliers réalisés lors de la journée portait sur les éléments de 
+
+vision des acteurs, en matière de développement du territoire. Regroupés par tables, les 
+
+participants avaient à réaliser une affiche dressant le portrait des chantiers, projets, valeurs, 
+
+thématiques ou résultats qu’ils aimeraient voir investis ou concrétisés, à l’horizon 2029. Cet 
+
+atelier a permis de mettre en lumière trois grandes catégories d’ambitions que les participants 
+
+partagent face au milieu qu’ils habitent : 
+
+1. Un territoire gouverné par les membres de la communauté, qui reflète la culture et la 
+
+réalité des Pekuakamiulnuatsh. 
+
+2. Un développement socio-économique qui repose sur les ressources locales et sur des 
+
+programmes et services adaptés aux besoins du territoire. 
+
+3. Un territoire vivant et en santé, où le partage des ressources, la vie communautaire et le 
+
+respect de l’environnement sont au cœur des valeurs. 
+
+Ensuite, réfléchi en cohérence avec l’atelier de vision, l’atelier des chantiers prioritaires renvoie 
+
+à la volonté du Hub de réunir les acteurs locaux autour d’enjeux communs. Cet exercice a 
+
+également été l’occasion de rassembler un précieux bassin de données sur les organisations 
+
+susceptibles de faire partie du réseau de collaboration intersectorielle. L’atelier s’est décliné en 
+
+trois volets. D’abord, placés en groupes, les acteurs présents ont été invités à identifier et à 
+
+nommer des chantiers qu’ils jugeaient importants à investir afin de développer leur territoire. 
+
+Ces chantiers ont ensuite été regroupés par grands thèmes. Par la suite, les participants ont eu 
+
+à transcrire, sur une grande matrice, l’ensemble des acteurs pouvant contribuer à chacun des 
+
+chantiers. Finalement, les groupes ont été invités à identifier et à mentionner des projets qu’ils 
+
+considèrent porteurs pour leur territoire, pour les transcrire sur la matrice. Chaque personne a 
+
+ensuite eu à voter pour ses initiatives favorites. Le tableau synthèse suivant présente les six 
+
+chantiers prioritaires identifiés et les liens détaillant les projets porteurs ainsi que les acteurs à 
+
+mobiliser. 
+
+
+
+ 
+
+23 
+
+ 
+
+Tableau 9 : Les six grands chantiers prioritaires identifiés à Mashteuiatsh 
+
+LES SIX GRANDS CHANTIERS PRIORITAIRES 
+Vers les 
+projets 
+porteurs 
+
+Vers les 
+acteurs à 
+mobiliser 
+
+A)  Autonomie : politique/économique Graphique 1 Tableau 3 
+
+B)  Mobilisation : vision commune/communauté Graphique 2 Tableau 4 
+
+C)  Partenariats : inclusif/collaboration Graphique 3 Tableau 5 
+
+D)  Territoire : culture/environnement Graphique 4 Tableau 6 
+
+E)  Éducation & Formation : connaissances/expertises Graphique 5 Tableau 7 
+
+F)  Main-d’œuvre : Développement/formation/employabilité Graphique 6 Tableau 8 
+
+ 
+
+Également, comme atelier majeur de la journée, une cartographie partielle de l’écosystème des 
+
+organisations du territoire a été réalisée. Cette cartographie impliquait, de la part de chaque 
+
+personne présente, un bref portrait de son organisation, ainsi que l’identification de projets 
+
+collaboratifs en cours, faisant le lien entre elle et d’autres organisations repérées sur la carte. 
+
+L’idée de la cartographie était d’exposer la diversité des acteurs répartis sur le territoire, tout en 
+
+illustrant le travail collaboratif déjà réalisé. En même temps, il est à noter que les informations 
+
+recueillies permettront d’alimenter une banque de données, disponible ultérieurement, qui 
+
+servira à réaliser une cartographie plus complète à l’échelle de la région. 
+
+Finalement, dans le cadre de la journée, la dernière activité ayant été organisée est celle des 
+
+attentes face à la suite de la démarche du Hub. Par le biais d’une grande plénière, les 
+
+participants ont pu s’exprimer sur ce qu’ils souhaitent voir se mettre en place comme structure 
+
+de mutualisation, ainsi que sur les défis qui s’annoncent, en lien avec les réalités de milieu. 
+
+Pour conclure, il convient de rappeler que les journées de co-création s’inscrivent dans l’étape 
+
+d’information, de consultation et de mobilisation des acteurs, comme moyen de les impliquer 
+
+dans les phases ultérieures de la démarche. Au terme de ces journées participatives, le Hub 
+
+s’engage à mettre les informations récoltées à profit, dans le but ultime de structurer le réseau 
+
+intersectoriel de collaboration et de le rendre opérationnel. Dans l’ordre, les prochaines étapes 
+
+de la démarche consistent à : 
+
+ Dresser un inventaire des expertises et des équipements à potentiel de mutualisation à 
+
+l’échelle régionale; 
+
+ Concevoir un outil de visualisation de données sous forme de cartographie; 
+
+
+
+ 
+
+24 
+
+ 
+
+ Réaliser une activité régionale à l’automne 2019, durant laquelle les études et le bilan 
+
+des activités de co-création seront présentés; 
+
+ Créer l’organisation et instaurer sa gouvernance au cours de l’année 2020. 
+
+
+
+ 
+
+25 
+
+ 
+
+Annexe 1 ― Programmation de la journée de co-création 
+
+ 
+Description 
+
+Temps 
+
+alloué 
+
+9h00 Accueil  15 min  
+
+9h15 
+Ouverture, mot de bienvenue, mise en contexte, présentation du Hub, état de la 
+
+situation, objectifs et déroulement de la journée. Incluant une activité brise-glace. 
+45 min 
+
+10h00 Atelier 1 : Cartographie de l’écosystème (incluant une pause mobile) 60 min 
+
+11h00 Atelier 2 : Le devenir – la vision et les objectifs de la MRC 60 min 
+
+12h00 
+Dîner 60 min  
+
+13h00 Atelier 3 : Les chantiers prioritaires — Acteurs à mobiliser et moyens d’action du pôle 
+
+local (incluant pause mobile) 
+60 min 
+
+14h00 
+Plénière ouverte : Rôle du hub 10 min 
+
+14h10 Synthèse, remerciement, prochaines étapes, commentaires, clôture 5 min 
+
+14h15 Fin de l’événement  
+
+ 
+
+
+
+ 
+
+26 
+
+ 
+
+Annexe 2 ― Photographies des affiches de l’atelier « Définitions de la 
+
+collaboration » 
+
+ 
+
+Affiche 1 
+
+ 
+
+Affiche 2 
+
+
+
+ 
+
+27 
+
+ 
+
+Annexe 3 ― Photographies des affiches de l’atelier de vision 
+
+ 
+
+ 
+
+Affiche 1 de « Une » du journal 
+
+
+
+ 
+
+28 
+
+ 
+
+ 
+
+Affiche 2 de « Une » du journal 
+
+ 
+
+ 
+
+
+
+ 
+
+29 
+
+ 
+
+Annexe 4 ― Tableau de synthèse des chantiers  
+
+L’ensemble des chantiers proposés par les participants a été examiné et synthétisé par l’équipe 
+
+d’animation lors de la pause du dîner. Pour ce faire, toutes les propositions qui impliquaient des 
+
+aspirations et des défis convergents ont été regroupées, de manière à former huit grands 
+
+chantiers. Le tableau ci-dessous expose ces grands chantiers ainsi que l’ensemble des 
+
+propositions de chaque regroupement. 
+
+ 
+
+ 
+
+A)   Autonomie : politique/économique D)   Territoire : culture/environnement 
+
+Autonomie 
+Construction écologique avec intégration de la 
+culture (Expertise, connaissance, 
+formation/éducation) 
+
+Autonomie (lois qui limitent le financement) Culture, territoire et environnement 
+
+Économie S’adapter in situ (localement) 
+
+B)   Mobilisation : vision 
+commune/communauté 
+
+E)   Éducation & Formation : 
+connaissances/expertises 
+
+Déterminer collectivement les enjeux prioritaires 
+Éducation, formation, développement de la main-
+d’œuvre 
+
+Mobilisation de l’ensemble des 
+Pekuakamiulnuatsh (7000 membres) 
+
+Formation et éducation (écologique, construction, 
+maintien de la main-d’œuvre locale) 
+
+C)   Partenariats : inclusif/collaboration 
+F)  Main-d’œuvre : 
+
+Développement/formation/employabilité 
+
+Financement : construction, recherche de 
+partenaires 
+
+Employabilité : Formation et maintien à l’emploi 
+dans la maison communautaire 
+
+Partenariat avec inclusion  
+
+
+
+ 
+
+30 
+
+ 
+
+Annexe 5 ― Fichier à part – Cartographie partielle de l’écosystème 
+
+des acteurs sur le territoire de Mashteuiatsh (photo en haute 
+
+résolution)  
+
+
+
+ 
+
+31 
+
+ 
+
+Annexe 6 ― Liste brute des attentes des participants face au Hub 
+
+Saguenay―Lac-Saint-Jean 
+
+ 
+
+ Accueillir un représentant de la communauté sur le CA ou dans une instance du HUB. 
+
+ Agir comme marieur, des accoteurs. 
+
+ Aider à respecter les différences entre la communauté et la région.  
+
+ Aider à traduire le contexte culturel (et la vision sur certains enjeux) à l’extérieur de la 
+
+communauté.  
+
+ Aider à trouver du financement. 
+
+ Aider au maillage de la communauté avec l’externe. Favoriser l’inclusion mutuelle entre 
+
+la communauté et le reste de la région.  
+
+ Dépasser l’idée de la consultation, aider à cibler les bonnes expertises de la 
+
+communauté dans les chantiers de chaque secteur.  
+
+ Faciliter le réseautage. 
+
+ Faciliter les échanges, construire des ponts.  
+
+ Faire la promotion, l’éducation, la sensibilisation autour de certains projets de la 
+
+communauté, mais à l’externe. Être un levier, un effet multiplicateur pour expliquer plus 
+
+largement des enjeux locaux. Influence, éducation, plaidoyer.  
+
+ Favoriser la réelle intégration dans les projets, comités.  
+
+ Il y a une effervescence autour de beaux et grands projets, le HUB pourrait faire part 
+
+des opportunités à l’extérieur de la communauté, auprès de nouveaux partenaires. 
+
+ Jouer un rôle d’éducation (ex. sur la constitution).  
+
+ Les maillages entre la communauté et les autres communautés et entreprises, gagnant-
+
+gagnant, pour favoriser l’autonomie économique de la communauté.  
+
+ Le Tinder des organisations sur le territoire. 
+
+ Mettre en valeur la culture, les particularités.  
+
+ On est souvent devant un dilemme entre toutes les lois (gouvernementales – Canada et 
+
+Québec) et les pratiques culturelles (pas toujours cohérentes).  
+
+ Pour la conciliation, fournir une boite à outils, pour devenir des réels alliés des premières 
+
+nations. 
+
+ Rallier des gens à l’externe de la communauté.  
+
+ Tisser la toile entre les organisations. 
+
+
+
+ 
+
+32 
+
+ 
+
+ Traduire les réalités (de tous les secteurs) de la communauté, sensibiliser à cette 
+
+différence culturelle. 
+
+ Trouver les partenaires pertinents pour nos projets. 
+
+

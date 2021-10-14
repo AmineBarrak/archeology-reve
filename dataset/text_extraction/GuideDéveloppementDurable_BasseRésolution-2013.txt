@@ -1,0 +1,2882 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AUTODIAGNOSTIC ET GUIDE PRATIQUE
+
+LA GESTION 
+DURABLE 
+D’UNE ENTREPRISE 
+AGRICOLE
+
+GUIDE RÉALISÉ CONJOINTEMENT PAR :
+
+VERSION 1.0 – NOVEMBRE 2013
+
+
+
+Ce projet a été élaboré en collaboration par :
+
+Rendu possible grâce à la participation financière de : 
+
+Avis au lecteur : Les opinions et recommandations exprimées dans le présent document sont ceux des auteurs et n’engagent pas les partenaires financiers. 
+
+
+
+L’équipe de réalisation
+
+Ce guide a été conçu conjointement par le Centre québécois de développement durable, le Groupe conseil agricole 
+du Saguenay−Lac-Saint-Jean et La Coop fédérée. Ceux-ci ont formé l’équipe de pilotage, soit :
+
+•	 M. Pierre Deschênes, Université du Québec à Chicoutimi (UQAC)
+•	 M. Nicolas Gagnon, Centre québécois de développement durable (CQDD)
+•	 Mme Claudine Giguère, La Coop fédérée
+•	 Mme Mélanie Houle, Centre québécois de développement durable (CQDD)
+•	 M. Denis Larouche, Groupe conseil agricole (GCA) du Saguenay−Lac-Saint-Jean  
+•	 M. Raymond Rouleau, Centre québécois de développement durable (CQDD)
+•	 M. Régis Tremblay, Groupe conseil agricole (GCA) du Saguenay−Lac-Saint-Jean. 
+
+L’équipe tient à remercier les organisations qui ont soutenu financièrement le projet :
+
+•	 Agriculture et Agroalimentaire Canada
+•	 Le ministère de l’Agriculture, des Pêcheries et de l’Alimentation du Québec (MAPAQ) 
+•	 Le ministère du Développement durable, de l’Environnement, de la Faune et des Parcs (MDDEFP)
+•	 Nutrinor, coopérative agroalimentaire du Saguenay−Lac-Saint-Jean 
+•	 L’Union des producteurs agricoles (UPA) du Saguenay−Lac-Saint-Jean
+•	 Le Conseil pour le développement de l’agriculture du Québec (CDAQ).
+
+L’équipe remercie également les membres de son comité stratégique pour leur appui au bon déploiement du projet :
+ 
+•	 M. Rodrigue Bouchard, Ferme des Chutes
+•	 Mme Josée Chicoine, La Coop fédérée
+•	 M. Sébastien Girard, Desjardins 
+•	 MM. Yves Girard et Frédéric Lebrun, Nutrinor, coopérative agroalimentaire du Saguenay−Lac-Saint-Jean
+•	 M. Nelson Paradis, Groupe conseil agricole (GCA) Piékouagan
+•	 M. Raymond Rouleau, Serres Dame Nature
+•	 M. Jean Tremblay, Centre agricole Saguenay−Lac-Saint-Jean.  
+
+De même, l’équipe remercie les membres du comité d’experts. Par leur apport, le guide a gagné en richesse et en profondeur :
+
+•	 M. Richard Wieland, Agrinova
+•	 Mme Valérie Bélanger, doctorante à la Faculté des sciences de l’agriculture et de l’alimentation, Université Laval
+•	 M. Pierre Deschênes, Faculté des sciences humaines, Université du Québec à Chicoutimi (UQAC).
+
+Enfin, ce guide n’aurait pas pu voir le jour sans l’implication généreuse des représentants de dix entreprises agricoles 
+qui ont participé aux échanges ayant permis de développer le contenu du guide. 
+
+•	 M. Mario Dallaire, A. Dallaire et Fils inc.
+•	 MM. Étienne et Guillaume Barrette, Barrette et Frère, SENC
+•	 M. Gérald Rousseau, Ferme de la Carpe, SENC
+•	 Mme Marilyn Côté et M. Nicolas Côté, Ferme des Papinas
+•	 M. Philippe Gagnon, Ferme H. P. Gagnon et Fils inc.
+•	 M. Patrice Delaunière et M. Gervais Girard, Ferme MAGI  SENC
+•	 M. Jean Lavoie, Ferme Roloi  inc.
+•	 M. Christian Taillon, Ferme Taillon et Fils inc.
+•	 M. Denis Legault, Le Potager Grandmont inc.
+•	 Mme Rébéca Rouleau et M. Martin Harvey, Serres Dame Nature
+
+Rédaction : Mme Mélanie Houle, conseillère en développement durable, Centre québécois de développement durable (CQDD) 
+Révision linguistique : Dico Référence linguistique
+Conception graphique : Cyan Concept inc.
+
+Pour en savoir plus, veuillez communiquer avec les auteurs au www.cqdd.qc.ca, www.gcaq.ca/GCA-Lac-St-Jean-Est.
+aspx ou www.lacoop.coop 
+
+Note : Dans ce document, l’emploi du masculin pour désigner des personnes n’a d’autres fins que celle d’alléger le texte.
+
+1
+
+
+
+Pourquoi certaines fermes réussissent-elles, alors que d’autres 
+n’y arrivent pas ?
+
+La mondialisation actuelle a modifié le visage de l’agriculture, au Québec 
+comme ailleurs. Le nombre d’exploitants agricoles a diminué de 40 % en 
+30 ans et la tendance se poursuit. La taille et la productivité des exploita-
+tions augmentent, mais l’augmentation des revenus ne parvient pas 
+toujours à combler la montée du coût d’acquisition des exploitations et des 
+intrants nécessaires à la production.
+
+Depuis plusieurs générations, notre patrimoine agricole a été légué à  
+travers les familles québécoises assurant ainsi sa pérennité dans le temps. 
+Les terres ont été cultivées, les techniques agricoles se sont perfectionnées 
+et, au fil des saisons, s’est développée une expertise propre, celle de la 
+gestion des entreprises agricoles. Bien qu’elles revêtent un caractère encore 
+très familial, les entreprises agricoles québécoises se sont transformées. 
+
+Plusieurs exploitants réussissent à s’adapter à ces nouvelles réalités, alors 
+que d’autres vendent ou se retirent de l’agriculture. 
+
+Ces observations et les questions qu’elles soulèvent sont à la base de la 
+réflexion menant à l’élaboration de ce guide. Ensemble, les participants 
+ont voulu y répondre par une approche de croisement des savoirs alliant 
+les connaissances scientifiques, d’une part et les compétences pratiques 
+d’autre part.  Ces dernières reposent sur l’expérience des gestionnaires de 
+dix entreprises agricoles du Saguenay−Lac-Saint-Jean de différentes tailles 
+et de différents secteurs de production. 
+
+Orienté vers la pérennité, ce guide est un outil de réflexion pour le 
+producteur agricole. Les bonnes pratiques du milieu et des producteurs ont 
+été répertoriées selon les quatre dimensions d’un développement durable :  
+la gouvernance, les considérations humaines, la durabilité économique et 
+la gestion des ressources.
+
+Pour plusieurs, le développement durable réfère spécifiquement à 
+l’environnement. Le modèle proposé vise plutôt à aller au-delà de cette 
+perception et à définir les composantes qui mènent à la durabilité des 
+entreprises agricoles, petites ou grandes. 
+
+Ce premier guide de gestion durable d’une entreprise agricole n’a pas la 
+prétention d’être exhaustif. D’ores et déjà, des améliorations pourraient 
+être apportées au traitement de certains enjeux, notamment la gestion 
+des pesticides et la préservation de la biodiversité en milieu agricole. À 
+l’instar du développement durable qui est un processus d’amélioration 
+continue, ce document devra nécessairement être bonifié avec l’évolution 
+des pratiques agricoles.
+
+La gestion durable de l’entreprise agricole se présente donc comme un ensemble indissociable. Toutes les dimensions doivent être prises en compte de manière intégrée. 
+Voici les aspects que nous avons choisis d’aborder pour chacune des dimensions1.
+
+Pourquoi un guide sur la gestion durable d’une entreprise agricole ?
+
+Modèle de gestion durable d’une entreprise agricole
+
+Gouvernance Considérations humaines Durabilité économique Gestion des ressources
+
+Aborde le pilotage de 
+l’entreprise, dont la 
+planification, la prise de 
+décision, l’organisation du 
+travail, le réseautage et les 
+relations au sein de l’entreprise 
+et avec son environnement.
+
+Concernent la gestion des 
+individus, la conciliation 
+travail-famille, la main-d’œuvre 
+et la relève, la santé et la 
+sécurité, la formation et 
+l’acquisition de compétences et 
+les relations avec la 
+communauté.
+
+Se rapporte à la pérennité 
+économique de l’entreprise 
+dans le temps, notamment la 
+gestion financière et la gestion 
+des risques, les aspects de 
+productivité et d’innovation 
+ainsi que les pratiques 
+commerciales.
+
+Inclut la gestion intégrée des 
+ressources, soit l’eau et le sol, 
+l’énergie  ainsi que les matières 
+résiduelles.
+
+______
+1 Ces définitions synthétisent les principaux aspects pris en compte dans les différentes dimensions. Bien que non exhaustives, les définitions permettent une 
+compréhension globale de chacune d’elles. L’approche a été simplifiée afin de rendre le présent guide le plus pratique possible.
+
+2
+
+
+
+Le guide comprend deux sections, soit un autodiagnostic ainsi qu’un ensemble de fiches pratiques couvrant les 
+dimensions de la gestion durable d’une entreprise agricole.
+
+1. Autodiagnostic
+Il est conseillé de commencer par l’autodiagnostic qui vous donnera un portrait global de votre niveau d’avancement 
+en matière de gestion durable. Ce petit test vous permettra d’identifier les bonnes pratiques de gestion durable déjà 
+implantées dans votre entreprise ainsi que celles nécessitant des améliorations. 
+
+2. Fiches pratiques
+Quinze fiches pratiques ont été conçues pour vous aider à améliorer les principaux aspects du modèle de gestion 
+durable d’une entreprise agricole. Pouvant être consultées dans l’ordre désiré, ces fiches vous permettent ainsi de 
+progresser sur les aspects moins performants de votre entreprise.  
+
+Cet outil permet donc de questionner vos pratiques de gestion, ce qui constitue un premier pas vers l’amélioration et 
+la bonification de vos façons de faire actuelles.
+
+L’approche sommaire du présent guide ne permet pas d’approfondir tous les principes énoncés. L’objectif est avant 
+tout de dresser un portrait des aspects devant être tenus en compte dans une optique de gestion durable. 
+
+À ce sujet, des références additionnelles sont fournies afin de vous diriger vers une ressource appropriée. Recherchez 
+les sections :
+
+QUE CONTIENT LE GUIDE ?
+
+Pour aller plus loin
+
+Index des fiches pratiques
+Le contenu du guide est organisé selon les quatre dimensions du 
+développement durable. Chacune d’elles comporte un certain 
+nombre de fiches descriptives permettant d’en définir les bonnes 
+pratiques et donnant un modèle de solution et/ou différents trucs 
+pratiques que nous ont proposés les producteurs rencontrés.
+
+Gouvernance Considérations humaines Durabilité économique Gestion des ressources
+
+La planification stratégique   p.9
+
+La prise de décision p.10
+
+L’organisation du travail p.11
+
+Le réseau de contacts p.12
+
+La conciliation travail- p.13
+famille
+
+L’attraction, la rétention       p.14
+de la main-d’œuvre et 
+la relève
+
+La santé et la sécurité p.15
+ au travail
+
+La formation et  p.16
+l’acquisition des 
+compétences
+
+La cohabitation et les p.17 
+relations avec la 
+communauté
+
+La gestion financière p.18
+et la gestion des risques
+
+La productivité et p.19
+l’innovation
+
+Les pratiques p.20
+commerciales
+
+L’énergie et les gaz    p. 21
+à effet de serre 
+
+L’eau et le sol p. 22
+
+Les matières résiduelles p. 24
+
+3
+
+
+
+GOUVERNANCE
+
+OUI PARTIEL NON
+NE S
+
+S’APPLIQUE PAS
+
+Pl
+an
+
+ifi
+ca
+
+tio
+n 
+
+st
+ra
+
+té
+gi
+
+qu
+e 
+
+p.
+ 9 La mission, la vision et les valeurs de l’entreprise ont été identifiées.
+
+Les orientations d’entreprise à court, moyen et long terme ont été déterminées et mises par écrit.
+
+Une réflexion concertée avec l’équipe de travail a permis d’établir ces orientations.
+
+Pr
+ise
+
+ d
+e 
+
+dé
+cis
+
+io
+n 
+
+ 
+p.
+
+ 1
+0 La prise de décision repose généralement sur une réflexion partagée avec tous. 
+
+Les conflits entre les membres de l’équipe sont réglés rapidement et de manière adéquate.
+
+Or
+ga
+
+ni
+sa
+
+tio
+n 
+
+du
+ tr
+
+av
+ai
+
+l
+p.
+
+ 1
+1
+
+Les rôles et responsabilités sont clairement définis et respectés.
+
+Les objectifs annuels ou saisonniers des gestionnaires sont communiqués à toute l’équipe de travail.
+
+La planification hebdomadaire et journalière des tâches permet d’atteindre les objectifs.
+
+La distribution des tâches est équitable entre les membres de l’équipe et minimise les surcharges de travail.
+
+Ré
+se
+
+au
+ d
+
+e 
+co
+
+nt
+ac
+
+ts 
+p.
+
+ 1
+2
+
+Le gestionnaire s’implique dans des regroupements agricoles et/ou participe régulièrement à des activités de réseautage (colloque, congrès).
+
+Le gestionnaire recherche des implications dans des milieux d’affaires autres que l’agriculture (ex. : caisse, école, chambre de commerce). 
+
+Le gestionnaire utilise divers moyens pour garder contact avec les réseaux agricoles (périodiques, site Internet, etc.).
+
+TOTAL
+
+AUTODIAGNOSTIC DE GESTION DURABLE D’UNE ENTREPRISE AGRICOLE
+
+Répondez en indiquant si les bonnes pratiques sont complètement ou partiellement en place dans votre exploitation. Il est recommandé de consulter votre équipe de travail ou les autres gestionnaires de l’entreprise pour y répondre.
+
+Reportez vos totaux à la page 8.
+
+4
+
+
+
+OUI PARTIEL NON
+NE S
+
+S’APPLIQUE PAS
+
+Co
+nc
+
+ili
+at
+
+io
+n 
+
+tra
+va
+
+il-
+fa
+
+m
+ill
+
+e p
+. 1
+
+3
+
+L’équipe prend des vacances annuelles et des congés au moins une fin de semaine sur deux.
+
+Des mesures de conciliation travail-famille permettent d’adapter les horaires aux besoins familiaux et sont satisfaisantes pour tous.
+
+Ré
+te
+
+nt
+io
+
+n,
+ at
+
+tra
+ct
+
+io
+n 
+
+et
+ re
+
+lè
+ve
+
+ p
+. 1
+
+4 L’équipe de travail est satisfaite dans l’entreprise et a tendance à revenir année après année. 
+
+L’entreprise arrive à combler rapidement ses postes vacants et sa stratégie d’embauche est efficace.
+
+Des mécanismes de reconnaissance sont en place et un climat favorable valorise l’équipe de travail.
+
+Sa
+nt
+
+é 
+et
+
+ sé
+cu
+
+rit
+é 
+
+au
+ 
+
+tra
+va
+
+il 
+p.
+
+ 1
+5 Un plan de santé et sécurité au travail est en place.
+
+L’entreprise favorise la santé et la sécurité au travail et les bonnes habitudes de vie (gestion du stress, exercices, alimentation, etc.).
+
+Les mesures de sécurité sont révisées régulièrement et permettent de réduire les accidents.
+
+Fo
+rm
+
+at
+io
+
+n 
+et
+
+ 
+ac
+
+qu
+isi
+
+tio
+n 
+
+de
+s 
+
+co
+m
+
+pé
+te
+
+nc
+es
+
+ p
+. 1
+
+6 Les membres de l’équipe de travail suivent au moins une formation par année.
+
+La communication au sein de l’équipe de travail permet d’échanger sur l’avancement et les nouveautés du secteur agricole.
+
+L’exploitant rencontre annuellement chaque employé pour discuter de son rendement au travail et est à l’écoute de ses commentaires et de ses attentes. 
+
+Co
+ha
+
+bi
+ta
+
+-
+tio
+
+n 
+p.
+
+ 1
+7 L’exploitant communique avec ses voisins. Les opérations et infrastructures contribuent à une bonne cohabitation de l’entreprise avec la  
+
+communauté environnante.
+
+TOTAL
+
+Reportez vos totaux à la page 8.
+
+5
+
+CONSIDÉRATIONS HUMAINES
+
+
+
+OUI PARTIEL NON
+NE 
+
+S’APPLIQUE PAS
+
+Ge
+st
+
+io
+n 
+
+fin
+an
+
+ciè
+re
+
+ e
+t g
+
+es
+tio
+
+n 
+de
+
+s r
+isq
+
+ue
+s p
+
+. 1
+8
+
+La planification du budget annuel est réaliste et complète. 
+
+Les écarts budgétaires par rapport aux prévisions sont analysés à différents moments en cours d’année. 
+
+Les registres financiers de l’entreprise sont de qualité et permettent des comparatifs annuels.
+
+Des mesures de suivi préviennent les risques financiers ou autres liés à l’exploitation de l’entreprise.
+
+Pr
+od
+
+uc
+tiv
+
+ité
+ e
+
+t i
+nn
+
+ov
+at
+
+io
+n 
+
+p.
+ 1
+
+9
+
+Le coût de revient de nos produits est bien connu et documenté.
+
+L’approche de qualité améliore notre productivité.
+
+La situation de l’entreprise a permis des investissements récents dans la recherche et le développement (produits, procédés, etc.).
+
+L’entreprise a récemment réalisé une analyse détaillée des charges liées aux intrants de sa production et a apporté les changements nécessaires pour les 
+diminuer.
+
+Pr
+at
+
+iq
+ue
+
+s c
+om
+
+m
+er
+
+cia
+le
+
+s 
+p.
+
+ 2
+0
+
+L’entreprise priorise l’approvisionnement responsable, notamment en intégrant des critères sociaux et environnementaux dans ses pratiques d’achat. 
+
+Les relations d’affaires avec les fournisseurs reposent sur la confiance et le respect; plusieurs de ces fournisseurs connaissent l’entreprise depuis plusieurs 
+années.
+
+La mise en marché actuelle du (des) produit(s) maintient ou améliore la rentabilité de l’entreprise.
+
+Les pratiques de l’entreprise permettent de comprendre et de s’adapter aux nouveaux besoins des consommateurs. 
+
+TOTAL
+
+AUTODIAGNOSTIC DE GESTION DURABLE D’UNE ENTREPRISE AGRICOLE
+
+Répondez en indiquant si les bonnes pratiques sont complètement ou partiellement en place dans votre exploitation. Il est recommandé de consulter votre équipe de travail ou les autres gestionnaires de l’entreprise pour y répondre.
+
+Reportez vos totaux à la page 8.
+
+6
+
+DURABILITÉ ÉCONOMIQUE
+
+
+
+GESTION DES RESSOURCES
+
+OUI PARTIEL NON
+NE 
+
+S’APPLIQUE PAS
+
+Ge
+st
+
+io
+n 
+
+fin
+an
+
+ciè
+re
+
+ e
+t g
+
+es
+tio
+
+n 
+de
+
+s r
+isq
+
+ue
+s p
+
+. 1
+8
+
+La planification du budget annuel est réaliste et complète. 
+
+Les écarts budgétaires par rapport aux prévisions sont analysés à différents moments en cours d’année. 
+
+Les registres financiers de l’entreprise sont de qualité et permettent des comparatifs annuels.
+
+Des mesures de suivi préviennent les risques financiers ou autres liés à l’exploitation de l’entreprise.
+
+Pr
+od
+
+uc
+tiv
+
+ité
+ e
+
+t i
+nn
+
+ov
+at
+
+io
+n 
+
+p.
+ 1
+
+9
+
+Le coût de revient de nos produits est bien connu et documenté.
+
+L’approche de qualité améliore notre productivité.
+
+La situation de l’entreprise a permis des investissements récents dans la recherche et le développement (produits, procédés, etc.).
+
+L’entreprise a récemment réalisé une analyse détaillée des charges liées aux intrants de sa production et a apporté les changements nécessaires pour les 
+diminuer.
+
+Pr
+at
+
+iq
+ue
+
+s c
+om
+
+m
+er
+
+cia
+le
+
+s 
+p.
+
+ 2
+0
+
+L’entreprise priorise l’approvisionnement responsable, notamment en intégrant des critères sociaux et environnementaux dans ses pratiques d’achat. 
+
+Les relations d’affaires avec les fournisseurs reposent sur la confiance et le respect; plusieurs de ces fournisseurs connaissent l’entreprise depuis plusieurs 
+années.
+
+La mise en marché actuelle du (des) produit(s) maintient ou améliore la rentabilité de l’entreprise.
+
+Les pratiques de l’entreprise permettent de comprendre et de s’adapter aux nouveaux besoins des consommateurs. 
+
+TOTAL
+
+OUI PARTIEL NON
+NE 
+
+S’APPLIQUE PAS
+
+ É
+ne
+
+rg
+ie
+
+ e
+t g
+
+az
+ à 
+
+ef
+fe
+
+t d
+e 
+
+se
+rre
+
+  p
+. 2
+
+1
+
+La consommation d’énergie est bien documentée.
+
+Des investissements récents ont été réalisés pour diminuer la consommation d’énergie, notamment les combustibles, le chauffage et l’éclairage.
+
+L’entreprise prévoit l’utilisation de sources d’énergie renouvelables (solaire, biomasse, etc.) dans un avenir rapproché.
+
+Ea
+u 
+
+et
+ so
+
+l 
+p.
+
+ 2
+2
+
+La consommation d’eau de l’entreprise fait l’objet d’un suivi.
+
+Des projets d’amélioration ont permis de diminuer la consommation d’eau dans les bâtiments et lors des opérations.
+
+Des actions récentes ont permis de diminuer la contamination et la pollution des eaux de surface.
+
+Les pesticides sont utilisés de façon à minimiser les effets nocifs sur la santé et l’environnement, voir même éliminés. 
+
+L’analyse et le suivi rigoureux des sols permettent d’agir lorsqu’il est approprié de le faire et d’ainsi maintenir un substrat de qualité.
+
+L’entreprise prévient la compaction du sol et son érosion en adaptant ses pratiques culturales ou sa machinerie.
+
+L’entreprise fait une rotation des cultures qui favorise la santé et la conservation des sols.  
+
+M
+at
+
+iè
+re
+
+s 
+ré
+
+sid
+ue
+
+lle
+s 
+
+p.
+ 2
+
+4 L’entreprise favorise la réduction des déchets et le réemploi des matières et possède un système de collecte des matières recyclables.
+
+Les mesures en place permettent de traiter les matières fertilisantes conformément à la réglementation.
+
+TOTAL
+
+Reportez vos totaux à la page 8.
+
+7
+
+
+
+CALCUL DES RÉSULTATS DE L’AUTODIAGNOSTIC
+
+Pour chaque bonne pratique cochée « Oui », accordez deux points (2);
+Pour chaque bonne pratique coché   « Partiel », accordez un point (1);
+Pour chaque bonne pratique coché   « Non », n’accordez aucun point (0);
+Pour chaque bonne pratique coché   « Non applicable », accordez un points (1).
+
+Vos résultats par dimension
+Gouvernance    /24
+Considérations humaines  /24
+Durabilité économique  /24
+Gestion des ressources  /24
+
+Votre résultat global :  /96
+
+25 à 48
+Émergence
+
+49 à 72
+Croissance
+
+73 à 96
+Maturité
+
+0 à 24
+Semis
+
+Résultat global
+Niveau
+
+Description Que ce soit par manque de temps, d’intérêts ou à cause de  difficultés vécues au sein de 
+votre entreprise dernièrement, vos pratiques 
+de gestion ne sont pour le moment pas 
+orientées vers une gestion durable. Vous 
+gagneriez beaucoup à identifier des points 
+d’amélioration au sein de votre entreprise 
+et à y répondre rapidement. N’hésitez pas à 
+demander de l’aide au besoin.
+
+Vous êtes intéressés par le développement  
+durable et avez probablement tenté de 
+mettre en œuvre quelques initiatives 
+dernièrement. Que votre situation financière 
+soit plus précaire ou que vous ne disposiez 
+pas des ressources humaines nécessaires à 
+la mise en œuvre de vos projets, il importe 
+de continuer à améliorer vos pratiques de 
+gestion. Plusieurs initiatives durables ne 
+nécessitent pas d’investissements financiers 
+majeurs et reposent plutôt sur l’attitude 
+d’ouverture du gestionnaire à s’adapter aux 
+changements et à modifier ses façons de faire.
+
+Les investissements techniques, financiers 
+et/ou humains que vous réalisez sont prof-
+itables à votre équipe ou à l’environnement. 
+Plusieurs de vos pratiques de gestion sont 
+orientées vers le développement durable, 
+lequel n’est toutefois pas intégré totalement 
+au sein de votre entreprise. L’autodiagnostic 
+vous a permis d’identifier des pratiques à 
+améliorer, alors n’hésitez pas à consulter les 
+références additionnelles du présent guide 
+pour vous aider. Vous êtes sur la bonne voie.
+
+Votre engagement envers la gestion durable 
+de votre entreprise agricole est notable. Vos 
+qualités de gestionnaire et celles de votre 
+équipe contribuent très probablement à 
+maintenir votre entreprise à l’avant-garde. 
+N’oubliez pas que le développement durable 
+est une approche de gestion demandant 
+une réflexion en continu et dans l’action 
+sur vos différentes pratiques. Il y a toujours 
+place à l’amélioration!
+
+8
+
+
+
+Certains producteurs choisissent de réaliser leur planification avec un conseiller 
+spécialisé en gestion ou en ressources humaines, surtout lors d’un changement 
+majeur au sein de l’entreprise (un changement d’actionnaire, par exemple). 
+D’autres animent eux-mêmes une démarche de réflexion au sein de l’équipe 
+de travail. Peu importe sa forme, la planification stratégique doit permettre de 
+répondre clairement et de manière concertée aux questions suivantes :
+
+•	 Quel est notre raison d’être, notre mission?
+•	 Quels sont nos rêves et nos aspirations? Où allons-nous (la vision)?
+•	 Quels sont nos valeurs, nos principes directeurs?
+•	 Quelles sont les orientations à court et long terme qui nous permettent 
+
+d’accroître nos opportunités et nos forces? De contrer les menaces et 
+d’améliorer nos faiblesses?
+
+Ceci suppose une connaissance approfondie et juste de l’entreprise ainsi que 
+de l’environnement de celle-ci, puisque les orientations découlent directement 
+de l’identification des forces et des faiblesses ainsi que des menaces et des op-
+portunités de l’entreprise. Cela demande donc du temps et des efforts.
+La planification stratégique se présente d’abord sous la forme d’orientations très 
+générales. Elle doit par la suite être déclinée en un plan d’action spécifiant les 
+objectifs à atteindre ainsi qu’en une organisation du travail appropriée.
+
+LA PLANIFICATION STRATÉGIQUE GOUVERNANCE
+
+Enjeux
+
+Trucs d’agriculteurs
+Pour aller plus loin
+
+Solutions
+La planification stratégique permet de lier les visions 
+à court et long terme des gestionnaires ainsi que leurs 
+moyens d’y parvenir. 
+
+Encore très peu de producteurs agricoles réalisent une 
+planification stratégique.
+
+Qu’elle soit formelle ou informelle, elle permet 
+d’identifier, de manière concertée, la vision de 
+l’entreprise. 
+
+Cette réflexion place l’aspect humain et les besoins des 
+gestionnaires au premier plan.
+
+Réaliser une planification stratégique au 
+bon moment
+•	 Arrivée ou départ d’un actionnaire;
+•	 Intégration de la relève;
+•	 Planification du transfert;
+•	 Révision de la vision de l’entreprise;
+•	 Changement majeur dans le milieu ou le 
+
+contexte (économique ou politique).
+
+Les avantages 
+•	 Modeler l’entreprise pour qu’elle convienne 
+
+aux gestionnaires;
+•	 Partager la vision de chacun et la rendre 
+
+commune;
+•	 Répondre aux besoins de tous;
+•	 Obtenir une opinion externe sur la ferme;
+•	 Valider le positionnement d’avenir avec un 
+
+expert; 
+
+•	 Se projeter dans le temps;
+•	 Créer un milieu de vie pour la famille (dans 
+
+le cas des entreprises familiales);
+•	 Améliorer la qualité de vie et la santé des 
+
+gestionnaires;
+•	 Faire converger les décisions du quotidien 
+
+vers des objectifs communs.
+
+•	 La planification stratégique… Est-ce pour vous? : www.omafra.gov.on.ca
+•	 Outil : plan stratégique de développement de l’entreprise, section 3.3 
+
+dans Guide de la relève agricole : www.desjardins.com
+•	 Levallois, Raymond et J.-P. Perrier (oct. 2010) – La gestion  
+
+stratégique… Pour prendre les bonnes décisions, Université Laval : 
+www.lait.org
+
+•	 Les Groupes conseils agricoles du Québec : www.gcaq.ca 
+•	 Réseau agriconseils : www.agriconseils.qc.ca 
+•	 Centre régional d’établissement en agriculture du Québec : 
+•	 www.lescrea.com  
+
+« C’est capital, c’est un plan pour bâtir le futur! » 
+Serre Dame Nature
+
+La planification stratégique est un processus dynamique, interactif 
+et rigoureux qui fait appel à l’engagement des dirigeants, des 
+cadres et du personnel de l’entreprise.
+
+Développement
+stratégique de l’entreprise
+
+Plan d’action 
+Objectifs à atteindre
+
+Plan stratégique
+Mission, vision, 
+
+valeurs et orientations
+
+Organisation 
+du travail
+
+Structure, rôles et 
+responsabilités
+
+9
+
+
+
+La gestion concertée constitue le cœur d’une démarche 
+visant à satisfaire les intérêts parfois divergents des 
+membres d’une organisation. Elle permet d’évaluer les 
+projets, les conflits ou d’autres problématiques rencon-
+trées dans l’entreprise à la suite d’un réel partage d’idées, 
+une fois celles-ci bien définies et évaluées (voir la figure 
+ci-dessous). Elle suppose une bonne ouverture de la part 
+des gestionnaires, une communication respectueuse, 
+un certain temps de réflexion et un partage efficace des 
+informations entre tous. 
+
+Il importe de ne pas précipiter les décisions. Si les  
+solutions envisagées ne permettent pas d’atteindre un  
+consensus entre les membres de l’équipe, ceux-ci 
+gagneront généralement à reporter la discussion sur le 
+sujet, puis à poursuivre la recherche d’informations et de 
+nouveaux scénarios.
+
+Bien qu’ils apparaissent à première vue comme des 
+obstacles, les avis contraires sont souvent bénéfiques.  
+Ils permettent même d’analyser plus en détail les options, 
+voire de bonifier la solution choisie! 
+
+LA PRISE DE DÉCISION GOUVERNANCE
+
+Enjeux
+
+Trucs d’agriculteurs Pour aller plus loin
+
+Solutions
+Que ce soit pour l’acquisition de nouveaux équipements, la modifica-
+tion des routines de travail, les petites décisions du quotidien ou pour 
+des changements majeurs dans l’entreprise, la concertation de toute 
+l’équipe de travail constitue le cœur du succès d’une décision.
+
+La décision à prendre peut parfois influencer de manière significative 
+la qualité de vie des employés et de leurs familles. Il importe donc de 
+valider de quelle manière la décision à prendre cadre avec les valeurs 
+et les objectifs de l’entreprise. 
+
+L’évaluation des répercussions sur la qualité de vie du personnel peut 
+même parfois passer avant la faisabilité économique et technique 
+d’un projet.
+
+Impliquer les bonnes personnes
+Outre les gestionnaires, différentes personnes 
+peuvent être impliquées dans la prise de décision. 
+Selon les besoins, différents intervenants ex-
+ternes peuvent être consultés : conseillers tech-
+niques ou de gestion, comptable, représentant 
+financier, etc.  Leurs visions externes peuvent 
+s’avérer fortement utiles afin de bonifier les 
+solutions proposées. 
+ 
+
+Gérer adéquatement les conflits 
+Les étapes de la gestion concertée peuvent aussi 
+contribuer à la résolution d’un conflit. Elles 
+nécessitent l’identification et la définition du 
+problème, en plus d’une bonne communication, 
+permettant ainsi de choisir la solution optimale. 
+
+Les agriculteurs ont partagé avec nous leur 
+approche :
+
+•	 Désamorcer la situation;
+•	 Éviter de laisser traîner le conflit; 
+•	 Prendre le temps nécessaire pour régler le 
+
+conflit;
+•	 S’assurer de comprendre le problème et les 
+
+individus en cause. 
+
+La confiance, le respect et l’écoute constituent 
+les trois attitudes permettant de prévenir le 
+conflit avant que celui-ci n’apparaisse.
+
+Avec consensus
+•	 Prise de décision
+
+Sans consensus
+•	 Retour à la réflexion
+•	 Report du projet
+•	 Utilisation du droit de  
+
+veto en dernier recours
+
+•	 Levallois, Raymond (2009). Agri-Réseau : L’agriculteur de demain : 
+entrepreneur gestionnaire, producteur ?, Université Laval.
+
+•	 Consultez un agronome en gestion du réseau GCA (www.gcaq.ca),  
+ou du REGA (www.rega.ca) ou contacter le CEGA (www.cega.net)
+
+« Quand les décisions se prennent moins vite, c’est parfait! Il y a 
+des discussions qui se font. »  Ferme Magi enr.
+
+Dans la résolution des conflits, il faut bien souvent accepter qu’un 
+chemin différent puisse mener au même objectif.
+
+Projet ou
+problématique
+
+Partage 
+d’idées
+
+Évaluation 
+des idées
+
+Collecte 
+d’information
+
+Faire 
+concensus
+
+10
+
+
+
+L’ORGANISATION DU TRAVAIL GOUVERNANCE
+
+Enjeux
+
+Trucs d’agriculteurs Pour aller plus loin
+
+Solutions
+À la base de la performance de l’entreprise, la 
+distribution des rôles, des responsabilités et des tâches 
+influence significativement la productivité et la qualité 
+des produits. Elle a aussi un impact non négligeable 
+sur le climat de travail et la rétention du personnel.
+
+Malheureusement, cette organisation repose sur 
+plusieurs facteurs externes souvent incontrôlables. 
+
+Les gestionnaires sont donc appelés à réorganiser 
+continuellement le travail de leur personnel tout en 
+cherchant à atteindre des objectifs clairs. 
+
+Dans une entreprise agricole, l’organisation du travail se différencie grande-
+ment des autres entreprises. En plus de facteurs externes comme la météo, 
+le travail d’agriculteur repose avant tout sur la gestion d’un capital vivant, ce 
+qui demande beaucoup d’adaptation. Cette organisation repose donc sur une 
+planification à la fois flexible et orientée vers des objectifs clairs. 
+Même si les pratiques varient selon la taille et le type de production, le but 
+d’une bonne planification se résume à :
+
+•	 Sécuriser l’équipe de travail dans une routine ou des tâches clairement 
+définies; 
+
+•	 Augmenter la productivité en évitant les pertes de temps;
+•	 Répartir équitablement les tâches entre les membres de l’équipe et éviter les 
+
+trop grandes charges de travail;
+•	 Prioriser les travaux à accomplir selon la saison;
+•	 Permettre la conciliation travail-famille.
+
+Une gestion par objectifs, bien communiquée au personnel 
+Le gestionnaire détermine généralement des objectifs saisonniers. Par exemple, 
+la planification des semis, des opérations et des récoltes est incontournable. 
+Elle doit être communiquée de manière formelle à toute l’équipe. Ceci assure la 
+compréhension du travail à accomplir tout en établissant les balises autour des 
+résultats attendus. 
+
+Ces objectifs saisonniers sont ensuite déclinés en objectifs hebdomadaires. 
+Des moyens efficaces doivent assurer que l’information circule entre tous. Par 
+exemple, certains gestionnaires choisissent de réaliser des listes de tâches 
+formelles alors que d’autres les formulent de manière participative avec leur 
+personnel. Cette méthode participative permet de mettre à profit l’expertise du 
+personnel, chacun dans son domaine de spécialisation.  
+
+Prendre le temps de se doter de bons 
+outils de planification
+•	 Babillard;
+•	 Calendrier des tâches;
+•	 Cahier de plantation;
+•	 Affichage des jours d’absence;
+•	 Rencontres hebdomadaires de planification. 
+
+Répondre aux intérêts de chacun
+Même si la distribution des rôles dans 
+l’entreprise repose en grande partie sur les 
+aptitudes et les compétences du personnel, il 
+importe de satisfaire les intérêts et les goûts de 
+chacun. 
+
+Les tâches routinières et la spécialisation 
+des ressources humaines sont bénéfiques à 
+l’entreprise sur le plan de l’efficacité. Toutefois, 
+une certaine variation des tâches permet à cha-
+cun de développer de nouvelles compétences 
+et de se sentir valorisé. Un équilibre est donc à 
+établir au sein de l’entreprise.
+
+•	 Colombani-Lachapelle, Geneviève. L’organisation du travail en  
+agriculture novembre 2009 : www.agrireseau.qc.ca
+
+•	 Organisation du travail : www.agricarriere.qc.ca
+
+11
+
+
+
+LE RÉSEAU DE CONTACTS GOUVERNANCE
+
+Enjeux
+
+Trucs d’agriculteurs
+Pour aller plus loin
+
+Solutions
+Dans le milieu agricole, le réseau de contacts permet 
+aux gestionnaires d’échanger, d’apprendre et de se 
+donner une vision globale de leur entreprise dans 
+un monde en continuel changement. Que ce réseau 
+soit virtuel ou personnifié, il est source d’innovation, 
+permet d’anticiper plus efficacement les défis actuels 
+et à venir, en plus de briser l’isolement que vivent 
+certains producteurs.
+
+Plus que jamais, le réseau agricole et ses plate-
+formes reconnues constituent une base d’échange 
+d’information vitale pour les entreprises agricoles 
+québécoises.
+
+Les activités de réseautage sont bien ancrées dans le domaine de l’agriculture 
+au Québec, et ce, à toutes les échelles. Les différentes organisations (syndicats, 
+fédérations, clubs, groupes de producteurs ou coopératives) ont forgé les bases 
+d’un système facilitant le transfert des informations dans tout le réseau.
+
+Bien que l’implication directe soit perçue comme bénéfique pour plusieurs 
+producteurs, la participation à des colloques ou des congrès, l’inscription à des 
+formations, la visite de blogues ou de sites Internet, la lecture de périodiques 
+spécialisés et de livres constituent autant de manières pertinentes de s’informer. 
+Cela permet également de s’adapter rapidement aux changements législatifs et 
+politiques, aux tendances de marché ainsi qu’aux défis et aux perspectives des 
+différents secteurs.
+
+De manière plus personnelle, l’implication des dirigeants d’entreprises agricoles 
+dans différentes organisations, à titre d’administrateur ou membre de comité, a 
+plusieurs avantages :
+
+•	 Tenir à jour des connaissances dans divers domaines;
+•	 Renforcer les capacités de gestion des dirigeants;
+•	 Confronter des opinions et valider des informations sur les tendances des 
+
+marchés;
+•	 Influencer des regroupements de producteurs, etc.
+
+Le réseautage sert donc positivement les dirigeants d’entreprises agricoles et de 
+diverses manières. Il permet de se comparer, de se donner une vision différente 
+des affaires de l’entreprise, d’obtenir une rétroaction rapidement sur des problé-
+matiques particulières ou simplement de partager des expériences similaires. 
+
+S’impliquer dans des organisations 
+externes au domaine agricole
+L’implication dans des organisations 
+externes au domaine de l’agriculture permet 
+aux gestionnaires de diversifier leurs sources 
+d’informations, en utilisant :
+•	 Les réseaux d’affaires;
+•	 Les chambres de commerces;
+•	 Les organismes scientifiques, sociaux ou 
+
+communautaires; 
+•	 Etc. 
+
+Il y a plusieurs avantages à se rapprocher de ces 
+organisations :
+•	 Échanger sur des problématiques de gestion 
+
+communes (ressources humaines, projets, 
+finances, etc.);
+
+•	 Bénéficier d’une vision externe du secteur 
+et situer son entreprise agricole dans un 
+système plus global;
+
+•	 Prendre contact et se rapprocher des dirige-
+ants et des membres de la communauté.
+
+Se rapprocher du consommateur
+Le rapprochement par les médias entre la société 
+et les producteurs agricoles demeure encore 
+aujourd’hui une pratique assez marginale même 
+si diverses tentatives sont en cours. 
+Selon les producteurs interrogés, il est nécessaire 
+d’identifier et d’utiliser de nouvelles tribunes 
+(médias, journée annuelle, portes ouvertes de 
+l’UPA, etc.) pour améliorer la perception qu’a le 
+public du secteur agricole et se rapprocher des 
+consommateurs et des milieux d’affaires. 
+
+•	 Deschênes, Guylaine.  Comment réseauter? Des relations personnelles 
+aux relations virtuelles, dans Revue Gestion, Automne 2011, coût 3 $ : 
+www.revuegestion.ca
+
+12
+
+
+
+LA CONCILIATION TRAVAIL-FAMILLE CONSIDÉRATIONS 
+HUMAINES 
+
+Enjeux
+
+Trucs d’agriculteurs Pour aller plus loin
+
+Solutions
+La proximité entre le milieu de vie et le milieu de 
+travail amène une problématique bien particulière 
+aux entreprises agricoles : celle de concilier la vie de 
+famille et le travail.
+
+Cette situation amène bien entendu son lot 
+d’avantages, mais peut aussi devenir problématique 
+quand les relations ou la situation de l’entreprise 
+se détériorent. De plus, les travailleurs de la ferme 
+peuvent aussi faire partie des membres de la famille, 
+ce qui complique parfois les relations.
+
+Des règles de conduite sont donc à privilégier pour le 
+bien de l’entreprise (orientations financières, etc.) mais 
+aussi pour le bien-être de la famille.
+
+En effet, la prise en compte du bien-être de tous les 
+membres de la famille constitue une condition 
+essentielle à la pérennité de l’entreprise. 
+
+Il n’existe pas de modèle parfait et unique pour favoriser la conciliation entre 
+la gestion d’une entreprise agricole et la famille puisqu’elle dépend étroite-
+ment de l’attitude du gestionnaire vis-à-vis de ses différentes obligations. Pour 
+nos producteurs, cette conciliation travail-famille se définit selon trois axes de 
+solutions.
+
+1. Attitude du gestionnaire vis-à-vis de lui-même et du personnel (en 
+continu)
+•	 Prioriser les besoins de la famille, ce qui passe nécessairement par une prise 
+
+de conscience;
+•	 Percevoir le travail et l’entreprise comme un milieu de vie;
+•	 Être à l’écoute et ouvert aux besoins de chacun;
+•	 Favoriser le respect du temps passé en famille et des visites familiales sur le 
+
+site de l’exploitation;
+•	 Déléguer certaines responsabilités à des gens de confiance;
+•	 Communiquer efficacement dans les périodes de travail intense.
+
+2. Organisation du travail (à court terme)
+•	 Favoriser l’emploi d’une main-d’œuvre occasionnelle pour dégager l’équipe 
+
+régulière de travail;
+•	 Offrir une flexibilité dans l’horaire ou la modifier complètement pour 
+
+favoriser les moments en famille;
+•	 Favoriser des congés dans les périodes de faible production ou les vendredis 
+
+lorsque les tâches essentielles sont réalisées.
+
+3. Amélioration de la productivité ou modification de la taille de 
+l’entreprise (à long terme)
+•	 Augmenter la taille de l’entreprise peut permettre une gestion des ressources 
+
+humaines plus variée/adaptée;
+•	 Modifier la routine, le nombre de traites, le nombre d’unités de production 
+
+ou les types de production;
+•	 Améliorer l’efficacité du travail en général.
+
+Privilégier la famille durant la haute saison 
+•	 Privilégier et respecter les heures de repas;
+•	 Partager des tâches et les réaliser en équipe jusqu’au bout;
+•	 Réaliser des échanges de main-d’œuvre (dans les fermes de groupe par 
+
+exemple).
+
+Il y a aussi plusieurs avantages à cette bonne conciliation :
+•	 Avoir davantage de satisfaction au travail;
+•	 Améliorer les relations familiales;
+•	 Diminuer le stress pour tous;
+•	 Assurer un meilleur climat de travail; 
+•	 Avoir une vie équilibrée et être heureux.
+
+•	 Lepage, Sarah (2008). Conciliation travail-famille, aussi une réalité 
+agricole. : www.mapaq.gouv.qc.ca 
+
+« On a toujours le choix qu’on se donne, pas qu’on s’impose! » 
+Ferme A. Dallaire et fils
+
+13
+
+
+
+L’ATTRACTION, LA RÉTENTION DE LA MAIN-D’OEUVRE ET LA RELÈVE
+CONSIDÉRATIONS 
+HUMAINES 
+
+Enjeux
+
+Trucs d’agriculteurs
+Pour aller plus loin
+
+Solutions
+Dans un contexte où plusieurs entreprises seront 
+appelées à effectuer un transfert intergénérationnel et 
+où plusieurs n’ont pas identifié leur relève, le sujet est 
+souvent source d’inquiétudes.
+
+À ceci s’ajoute le défi d’attirer et de retenir une main-
+d’oeuvre relativement rare. Le roulement du personnel 
+a, en effet, un impact sur la productivité. Il engendre 
+aussi divers coûts liés à l’embauche et à la formation 
+du nouveau personnel. 
+
+Enfin, il est évident que la mise en valeur de la profes-
+sion et du milieu agricole influence considérablement 
+le choix de la relève et des jeunes travailleurs en 
+agriculture. La valorisation de la profession constitue 
+donc un défi pour le réseau agricole.
+
+Attirer un personnel de qualité ou intéresser une relève (familiale ou non) à 
+l’entreprise agricole est un défi de taille. Plusieurs facteurs contribuent au succès 
+du recrutement. Bien que certains de ces facteurs soient reliés à l’entreprise 
+même, l’attitude personnelle du gestionnaire doit aussi être considérée. 
+
+Facteurs de succès liés à l’entreprise
+•	 Le dynamisme de l’entreprise dans son secteur;
+•	 La qualité des infrastructures et des équipements et l’état des lieux;
+•	 La rentabilité de l’entreprise.
+
+Facteurs de succès liés à l’attitude du gestionnaire
+•	 L’ouverture aux changements et le respect;
+•	 Une communication et un dialogue ouverts;
+•	 L’accessibilité du gestionnaire;
+•	 L’image positive projetée par le gestionnaire vis-à-vis de son entreprise sur sa 
+
+propre relève familiale.
+
+En plus d’attirer du personnel ou une relève, ces facteurs améliorent aussi la 
+rétention de ceux-ci. Bien entendu, le salaire influence la rétention du  
+personnel. Toutefois, le sentiment de valorisation individuelle occupe également 
+une place importante dans le choix de rester au sein d’une entreprise (voir les 
+trucs d’agriculteurs ci-dessous).
+
+Enfin, différents facteurs de succès sont aussi à considérer dans le choix de la 
+relève. Malgré l’importance accordée à la formation scolaire et à l’expérience, 
+les qualités personnelles d’un individu sont aussi un gage de succès du transfert 
+de l’entreprise. Selon les producteurs interrogés, ces qualités incluent la passion 
+et la curiosité, une bonne capacité de gestion et un leadership, une ouverture 
+d’esprit ainsi qu’une bonne connaissance de soi. 
+
+Valoriser individuellement les 
+travailleurs et la relève par
+•	 Des activités de formation et de réseautage;
+•	 La valorisation qui provient des responsabilités 
+
+accordées;
+•	 Une concertation dans les décisions importantes;
+•	 Une communication des résultats de 
+
+l’entreprise (succès individuel et collectif );
+•	 Une certaine souplesse dans la réalisation 
+
+des routines de travail pour trouver ses 
+propres méthodes;
+
+•	 Une équipe et un climat agréable et 
+stimulant.
+
+Favoriser le transfert de l’entreprise en 
+adoptant la bonne attitude
+•	 Planifier un transfert graduel des respon-
+
+sabilités;
+•	 Stimuler la relève par une gestion de 
+
+l’entreprise de plus en plus participative;
+•	 Reconnaître et accueillir les nouvelles idées 
+
+de la relève;
+•	 Communiquer ses craintes à la relève. 
+
+Promouvoir et favoriser l’émergence de 
+nouveaux modèles
+•	 Lors de nos rencontres, nous avons constaté 
+
+une problématique de transfert des entre-
+prises hors famille. 
+
+•	 De nouveaux modèles sont à promouvoir et 
+à développer dans le réseau afin de répondre 
+aux besoins grandissants des producteurs 
+n’ayant pas identifié de relève.
+
+•	 Desjardins. Guide de la relève agricole : www.desjardins.com
+•	 Répertoire des programmes d’aide accessibles à la relève agricole : 
+
+www.upa.qc.ca
+•	 Miser sur une bonne main-d’œuvre  pour économiser et rentabiliser ma 
+
+ferme : www.choisisunenouvelleapproche.ca
+•	 Comité sectoriel de main-d’œuvre de la production agricole :  
+
+www.agricarrieres.qc.ca
+
+14
+
+
+
+LA SANTÉ ET LA SÉCURITÉ AU TRAVAIL CONSIDÉRATIONS 
+HUMAINES 
+
+Enjeux
+
+Trucs d’agriculteurs Pour aller plus loin
+
+Solutions
+Malheureusement, près de 20 accidents mortels se produisent 
+chaque année dans le secteur de l’agriculture au Québec. Que ce 
+soit les équipements en mouvement ou les chutes, les accidents 
+touchent beaucoup les jeunes travailleurs (moins de 25 ans) qui 
+sont impliqués dans le quart des accidents. 
+
+De plus, la proximité de la famille et des enfants constitue un 
+risque accru pour la santé et la sécurité dans les entreprises 
+agricoles. Enfin, comme dans tout milieu de travail, le stress 
+et le surmenage peuvent affecter autant la santé mentale que 
+physique. Peu importe la taille de l’entreprise, la prévention est 
+donc de mise.
+
+ Surveiller les bâtiments et la machinerie 
+•	 Maintenir les lieux propres;
+•	 Prendre le temps d’entretenir régulièrement 
+
+les équipements et les dispositifs de sécurité; 
+•	 Investir dans de nouveaux équipements 
+
+(confort des individus);
+•	 Établir des routines de surveillance des 
+
+nouveaux équipements.
+
+Organiser le travail pour diminuer les 
+risques
+•	 Distribuer les tâches selon les compétences 
+
+et les aptitudes de chacun;
+•	 Prévoir du travail d’équipe et de l’entraide 
+
+pour les tâches plus difficiles et à risque;
+•	 Prévoir un temps suffisant pour accomplir 
+
+les tâches
+•	 Prendre des pauses collectives et arrêter tous 
+
+les équipements en même temps;
+•	 Entrecouper ou  effectuer une rotation des 
+
+tâches routinières.
+
+Sensibiliser continuellement les employés
+•	 Animer des rencontres sur la sécurité au 
+
+début des grandes périodes de production;
+•	 Prévoir des visites de routine avec les  
+
+nouveaux employés;
+•	 Faire des rappels fréquents sur la prévention 
+
+(hydratation, protection individuelle, etc.).
+•	 Communiquer les résultats SST aux membres 
+
+de l’équipe (par exemple, les tableaux de la 
+mutuelle de prévention);
+
+•	 Prévoir et annoncer des sanctions pour le 
+non-respect des règles de sécurité;  
+Être attentif aux personnes et les rencontrer 
+individuellement au besoin.
+
+•	 Guide de prévention en milieu de travail à l’intention de la PME, 2e 
+
+édition
+•	 Employeur santé et sécurité au travail : www.agricarrière.qc.ca 
+•	 Accès agriculture : www.csst.qc.ca
+•	 Réseau d’entraide en milieu agricole : www.acfareseaux.qc.ca
+
+« Cultiver, ce n’est pas une course! » Un participant
+
+Alors que certains producteurs se lient à une mutuelle de prévention, 
+d’autres adoptent plutôt une gestion personnalisée de la santé et la 
+sécurité au travail (SST) au sein de leur entreprise. Dans les deux cas, de 
+bonnes pratiques sont de mise afin d’identifier les risques, les corriger et 
+les contrôler. Cette approche en trois volets promue par la Commission de 
+la santé et de la sécurité du travail du Québec constitue la toile de fond 
+des bonnes pratiques des producteurs interrogés. 
+
+Au demeurant, il importe qu’un bon gestionnaire réagisse aux signaux 
+et ainsi, prévienne les épuisements et les accidents. Parmi les signaux à 
+vérifier, notons :
+
+•	 La chaleur excessive;
+•	 Les temps de fatigue; 
+•	 Le stress de difficultés financières ou personnelles.
+
+Une approche préventive de la santé des travailleurs peut aussi aborder 
+la promotion des saines habitudes de vie (alimentation, activités 
+physiques,…) ainsi qu’une meilleure gestion du stress (santé 
+psychologique). Ces aspects sont au cœur d’une approche globale de la 
+santé et du bien-être du personnel. 
+
+15
+
+
+
+LA FORMATION ET L’ACQUISITION DES COMPÉTENCES CONSIDÉRATIONS 
+HUMAINES 
+
+Enjeux
+
+Trucs d’agriculteurs Pour aller plus loin
+
+Solutions
+Que la formation soit formelle ou informelle, elle 
+vise avant tout le développement de compétences 
+nécessaires à la réalisation des tâches quotidiennes. 
+Elle doit permettre de répondre aux intérêts et aux 
+besoins de chacun.
+
+L’acquisition de compétences dans certains milieux 
+de travail passe beaucoup plus par l’action que par la 
+transmission de connaissances théoriques. C’est le cas 
+du milieu agricole.
+
+En fait, il s’agit bien simplement de faire progresser 
+l’entreprise et son personnel. 
+
+En général, pour l’équipe de travail, la formation aborde des compétences 
+techniques sur la mécanique, la gestion des troupeaux, la génétique, etc. Pour le 
+gestionnaire, la formation peut aborder des thèmes complémentaires : gestion 
+financière, communication, ressources humaines, mise en marché de produits, 
+etc. Ces occasions permettent aussi d’échanger avec des personnes hors du 
+milieu agricole. 
+
+Parfois, l’emploi d’un formateur externe certifié peut être une décision avanta-
+geuse malgré les coûts, par exemple pour l’implantation d’un programme de sa-
+lubrité ou de santé et sécurité au travail. Des formations sont également offertes 
+par des fournisseurs pour les nouveaux produits nécessitant des manipulations 
+particulières. 
+
+Enfin, quel que soit le budget disponible, il est possible d’offrir à tous des 
+occasions d’améliorer leurs compétences et de se développer continuellement 
+à travers diverses activités peu coûteuses ou gratuites. Voici quelques exemples 
+pouvant être associés à différents besoins de l’entreprise : 
+
+•	 Participation à des colloques ou à des conférences;
+•	 Consultation du Web et participation à des webinaires (séminaires en ligne) 
+
+qui ne nécessitent pas de déplacement;
+•	 Lecture et partage d’articles entre tous (babillard, etc.);
+•	 Visites d’entreprises similaires;
+•	 Implications dans des organisations agricoles régionales ou provinciales;
+•	 Formation et évaluation du personnel constituent de bonnes pratiques en 
+
+gestion des ressources humaines; elles ont des impacts positifs sur différents 
+aspects de l’entreprise, notamment sur la rétention du personnel.
+
+Promouvoir le savoir-faire 
+L’acquisition de compétences du personnel : 
+•	 Augmente la rentabilité;
+•	 Favorise l’innovation;
+•	 Permet l’adaptation aux nouvelles normes et 
+
+techniques; 
+•	 Diminue les erreurs; 
+•	 Améliore les performances techniques, la 
+
+qualité des produits et la productivité.
+
+Promouvoir le savoir-être
+Aussi, la formation :
+•	 Favorise une vision d’entreprise à long terme;
+•	 Contribue à une meilleure gestion du stress;
+•	 Soutient la réalisation individuelle du 
+
+personnel;
+•	 Apporte de la motivation.
+
+Évaluer les membres de l’équipe
+Parmi les pratiques les plus innovantes, on dé-
+note l’autoévaluation participative. La participa-
+tion de chaque individu favorise sa progression 
+personnelle et celle de l’entreprise. 
+Différents moyens peuvent être utilisés : 
+autoévaluation écrite, rencontres individuelles 
+annuelles, etc.
+
+Programme d’apprentissage en milieu de travail :
+•	 www.emploiquebec.net
+•	 www.agricarrière.qc.ca 
+•	 www.formationagricole.com
+•	 www.agritalent.ca
+
+16
+
+
+
+COHABITATION ET RELATIONS AVEC LA COMMUNAUTÉ CONSIDÉRATIONS 
+HUMAINES 
+
+Enjeux
+
+Trucs d’agriculteurs Pour aller plus loin
+
+Solutions
+Les relations qu’entretiennent les producteurs avec 
+leur communauté influencent le climat de travail dans 
+l’entreprise et, si elles sont mauvaises, peuvent même 
+parfois la mettre en péril. 
+
+Au contraire, de bonnes relations favorisent l’harmonie 
+et la tranquillité d’esprit. Elles entraînent une image 
+positive de la place de l’entreprise agricole dans sa 
+communauté et peuvent même mener à des 
+collaborations comme des échanges de services, 
+par exemple.
+
+La cohabitation de chaque entreprise agricole avec ses voisins et sa com-
+munauté doit occuper une place importante dans la gestion de l’entreprise. 
+Chacun contribue en effet à une perception plus globale de l’agriculture par la 
+population. Cette perception est influencée par différentes pratiques liées à la 
+cohabitation harmonieuse et à la mise en valeur de la profession. 
+Les efforts d’un producteur se manifestent directement par ses activités, mais 
+aussi par le dialogue qu’il entretient avec ses voisins. Voici quelques exemples : 
+•	 Entretenir et nettoyer les lieux et la machinerie (tondre les bordures de 
+
+champ, par exemple);
+•	 Installer des attraits visuels et avoir une préoccupation de l’image de la ferme 
+
+et du paysage (réaliser un enclos avec de jeunes animaux, maintenir des 
+zones boisées et des couleurs dans les champs, etc.);
+
+•	 Réorganiser le travail pour limiter le bruit, les odeurs et la poussière (enfouir 
+rapidement les fumiers après les épandages, éviter de herser lors de grands 
+vents, éviter le travail trop tôt ou trop tard dans les champs à proximité de 
+voisins, etc.);
+
+•	 Installer des infrastructures comme des haies brise-vent ou des haies « 
+brise-odeurs »;
+
+•	 S’impliquer dans sa communauté (commandite d’événements, par exemple);
+•	 Communiquer à l’avance les dates des grands travaux aux voisins;
+•	 Échanger des services (déneigement, petits travaux, etc.).
+
+Modifier la perception de la population 
+Comme pour d’autres enjeux, la cohabitation harmonieuse est liée à la 
+perception générale de la population vis-à-vis du monde agricole. 
+Des efforts doivent donc être mis de l’avant pour valoriser la profession 
+agricole, tels que les réalisations agroenvironnementales ou la contribu-
+tion de l’agriculture au développement des régions.
+Ces efforts doivent aussi être communiqués à la population. 
+
+Participer à des initiatives diverses 
+Différentes occasions permettent de prendre contact avec la population et 
+de mettre en valeur le travail des producteurs : 
+•	 Journées porte ouverte (UPA);
+•	 Marchés publics;
+•	 Kiosques de ventes à la ferme;
+•	 Initiatives agrotouristiques telles que les circuits gourmands.
+
+•	 Au cœur des familles agricoles : Guide du bon voisinage  
+www.acfareseaux.qc.ca
+
+•	 Portes ouvertes sur les fermes du Québec
+
+« Nous contribuons à la beauté du paysage des régions du Québec. » 
+Une participante
+
+17
+
+
+
+GESTION FINANCIÈRE ET GESTION DE RISQUES DURABILITÉ 
+ÉCONOMIQUE 
+
+Enjeux
+
+Trucs d’agriculteurs Pour aller plus loin
+
+Solutions
+La gestion financière  constitue une force pour le ges-
+tionnaire en lui fournissant un portrait adéquat de son 
+entreprise, nécessaire à une prise de décision éclairée, 
+à  l’innovation et à l’amélioration de sa productivité.
+
+Une planification financière rigoureuse permet aussi 
+une meilleure préparation vis-à-vis des différents 
+risques auxquels est exposée l’entreprise (marchés, 
+taux d’intérêts, aléas climatiques, etc.).
+
+La gestion financière représente un ensemble 
+d’activités centrales dans une entreprise agricole. 
+Elle assure que les aspects financiers (par exemple, 
+la budgétisation, les rapports financiers et autres 
+procédures nécessaires) sont exécutés de manière 
+contrôlée. La gestion financière traite essentielle-
+ment de comment, quand et pourquoi l’argent est 
+ou devrait être affecté aux activités de l’entreprise. 
+La gestion financière permet aussi de fixer les 
+priorités sur l’entreprise agricole. De plus, elle com-
+prend l’analyse des résultats financiers qui mesurent 
+la  « santé financière » de l’entreprise agricole, tout 
+en protégeant les intérêts du propriétaire. Enfin, elle 
+offre aux créanciers une garantie acceptable que 
+leurs fonds sont utilisés de manière responsable 
+avec des registres financiers internes fiables.
+
+Deux aspects importants de la gestion financière 
+doivent être mentionnés. Le premier fait référence 
+à tous les aspects de la planification de l’année 
+financière, en particulier le développement de 
+budgets et de projections de trésorerie. Ces 
+documents sont préparés en début d’année et les 
+chiffres sont basés sur des hypothèses émises en 
+fonction des résultats du passé. Le second aspect 
+concerne la qualité des registres financiers qui 
+permettront de valider la performance financière de 
+l’entreprise agricole par rapport aux projections. Le 
+producteur ne tirera cependant avantage de ces pro-
+jections et registres que s’il en fait le suivi en cours 
+d’année et que s’il ajuste ses actions et ses moyens 
+en conséquence.
+
+Finalement, la gestion financière implique une 
+gestion des différents risques liés aux fluctuations 
+du marché, aux variations des taux d’intérêts, aux 
+incidents majeurs ou climatiques, aux maladies 
+affectant la production, etc. Une planification 
+financière adéquate permet d’évaluer ces différents 
+risques afin de mieux s’y préparer (par exemple, 
+modification des pratiques commerciales, recherche 
+de partenaires, diminution de l’endettement).
+
+Ne pas sous-estimer le facteur humain
+•	 L’importance du capital humain dans l’entreprise est souvent sous-
+
+estimée alors que les accidents ou le départ d’un employé ou d’un 
+actionnaire constituent, pour beaucoup de petites entreprises, un 
+risque important. 
+
+•	 De bonnes pratiques liées à la gestion des ressources humaines 
+(prévention, santé du personnel, etc.) soutiennent une plus grande ré-
+gularité de la main-d’oeuvre et diminuent par le fait même ces risques 
+liés au facteur humain.
+
+Maintenir des registres de qualité
+La qualité des livres amène plusieurs avantages : 
+•	 Permet d’identifier rapidement les problèmes et leurs solutions;
+•	 Facilite la prise de décision;
+•	 Accélère la fermeture annuelle;
+•	 Améliore la communication avec les partenaires financiers de l’entreprise;
+•	 Permet des analyses de rentabilité plus approfondies par types de 
+
+cultures et de produits;
+•	 Facilite les comparaisons avec d’autres entreprises.
+
+Livres :
+•	 Levallois, Raymond (2008). Gestion de l’entreprise agricole, De la 
+
+théorie à la pratique, 363 pages.
+•	 La gestion des risques agricoles, volume 2 numéro 6, 14 mars 2012 
+
+www.fadq.qc.ca
+
+18
+
+
+
+LA PRODUCTIVITÉ ET L’INNOVATION DURABILITÉ 
+ÉCONOMIQUE 
+
+Enjeux
+
+Trucs d’agriculteurs Pour aller plus loin
+
+Solutions
+Au cœur de la gestion durable d’une entreprise  
+agricole, la productivité et l’innovation sont  
+intimement liées à son succès économique ainsi qu’à  
+la fierté de chacun de ses membres.  
+
+La compétitivité du secteur agricole  s’inscrit plus que 
+jamais dans une approche favorisant l’amélioration 
+des techniques et de la qualité des produits pour le 
+consommateur. 
+
+Ces améliorations reposent, bien entendu sur les  
+innovations technologiques de la production 
+et des opérations, mais aussi sur d’autres types 
+d’améliorations.
+
+Ceci inclut des modifications de l’organisation du  
+travail, un suivi plus rigoureux des achats, 
+l’optimisation de diverses opérations, etc.
+
+Peu importe l’approche choisie pour l’amélioration de la productivité, elle doit 
+correspondre aux besoins et aux aspirations des gestionnaires. Elle doit donc 
+être cohérente avec les orientations stratégiques et la vision de l’entreprise. 
+Selon nos producteurs, l’identification des améliorations et la mise en œuvre 
+rapide des solutions passent par deux facteurs de succès : 
+
+•	 Une attitude d’autocritique et d’ouverture face aux changements;
+•	 Une bonne connaissance et un suivi des registres financiers et de la production.
+
+De manière plus générale, les cinq orientations suivantes résument les pistes de 
+solutions de nos producteurs : 
+
+•	 Amélioration continue des techniques  
+agricoles : Réaliser des projets innovateurs à petite échelle et sur des par-
+celles d’essais, mécaniser certaines tâches, simplifier les modes de produc-
+tion, optimiser les opérations, instaurer des équipements plus performants 
+ou des techniques agricoles innovantes, etc.; 
+
+•	 Diminution des coûts et des pertes : Optimiser les transports, diminuer 
+l’utilisation de l’énergie, gérer adéquatement les achats, les inventaires, les 
+mortalités, les maladies, etc.; 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+•	 Approche qualité : Introduire une approche de gestion de la qualité, avoir 
+un cahier de procédures pour la salubrité, etc.; 
+
+•	 Efficacité du travail : Organiser le travail avec des procédures claires et 
+efficaces, favoriser une ambiance de travail agréable, avoir une main-d’œuvre 
+compétente et de qualité, utiliser l’innovation comme facteur de motivation 
+pour l’équipe de travail, réduire les pertes de temps, etc.; 
+
+•	 Gestion des ventes : Analyser le coût de revient par produit et ainsi ajuster 
+plus efficacement les prix de vente, planifier à long terme et faire une analyse 
+fréquente des marchés, assurer un contrôle plus grand sur le réseau de  
+distribution (par exemple, cycle court de distribution), etc.
+
+Effectuer de la recherche et du développement
+•	 S’impliquer dans des organismes permet de se tenir au courant des 
+
+développements récents dans son secteur d’activité;
+•	 Réaliser des projets pilotes avant d’implanter un changement complet;
+•	 Réaliser des investissements durant les meilleures années où main-
+
+d’œuvre et financement sont disponibles;
+•	 Identifier des améliorations dans l’action et impliquer l’équipe de travail;
+•	 Confier des responsabilités à un employé passionné;
+
+•	 S’informer sur des innovations faites ailleurs et pouvant être adaptées 
+au contexte québécois; 
+
+•	 Engager un expert externe.
+•	 S’impliquer dans la recherche et le développement au niveau collectif 
+
+(au sein de coopératives agricoles ou d’autres regroupements de 
+producteurs);
+
+•	 Favoriser les innovations qui améliorent la qualité de vie de tous les 
+membres de l’entreprise
+
+•	 Agrinova : www.agrinova.qc.ca 
+•	 Programme agri-innovation : www.agr.gc.ca
+•	 Clubs conseils en agroenvironnement : www.clubsconseils.org
+•	 Institut de recherche et de développement en agroenvironnement 
+
+(IRDA) : www.irda.qc.ca 
+•	 Les coopératives agricoles membres du réseau La Coop : www.90.
+
+lacoop.coop/entreprise-reseau/vie-associative/le-reseau et www.
+elite.coop/fr/recherche.shtml
+
+ « Qui n’avance pas, recule! » Potager Grandmont 
+
+19
+
+
+
+LES PRATIQUES COMMERCIALES DURABILITÉ 
+ÉCONOMIQUE 
+
+Enjeux
+
+Trucs d’agriculteurs Pour aller plus loin
+
+Solutions
+Pour certaines productions, les efforts consentis dans 
+les relations d’affaires avec les fournisseurs et les 
+clients devraient occuper une place importante dans 
+l’emploi du temps des producteurs. Il faut parfois 
+mettre autant d’efforts à vendre le produit qu’à le 
+produire.
+
+Les producteurs font en effet partie d’une chaîne 
+beaucoup plus large incluant également la 
+transformation et la distribution des produits aux 
+consommateurs, ce qui façonne l’économie 
+québécoise des régions. 
+
+Par leurs pratiques d’achat et de vente, les producteurs 
+influencent la chaîne d’approvisionnement, des 
+intrants agricoles jusqu’au consommateur.
+
+Les bonnes pratiques commerciales améliorent en 
+général la rentabilité de l’entreprise. Ces pratiques 
+incluent à la fois les relations entretenues avec les 
+fournisseurs et les consommateurs ainsi que les 
+processus de mise en marché des produits.
+
+Des relations d’affaires durables 
+Des relations basées sur la confiance et le respect 
+avec les fournisseurs peuvent influencer très posi-
+tivement la rentabilité de l’entreprise. En effet, les 
+fournisseurs sont des partenaires de succès pour les 
+entreprises agricoles et permettent, dans bien des 
+cas, de sauver de l’énergie et du temps qui peuvent 
+être consacrés à d’autres tâches. 
+
+Mise en marché
+Les défis rencontrés lors de la mise en marché des 
+produits agricoles sont nombreux : connaissance 
+des besoins du consommateur, spécialisation des 
+produits par les grands transformateurs, exigences 
+des grandes chaînes d’alimentation et de vente 
+au détail, exigences et nouvelles normes envi-
+ronnementales, etc. Néanmoins, ces défis peuvent 
+être relevés par différentes pratiques : 
+•	 Chercher la distinction par la qualité et l’image 
+
+du produit; 
+ 
+ 
+ 
+
+•	 Développer, en collaboration avec des regroupe-
+ments de producteurs ou de coopératives, 
+des processus de mises en marché communs 
+permettant d’échanger des ressources de qualité, 
+notamment pour la promotion des produits 
+sectoriels à grande échelle;
+
+•	 Participer à la production de produits de  
+spécialité et à valeur ajoutée, laissés de côté par 
+les grandes industries de transformation;
+
+•	 Se distinguer par un service à la clientèle de 
+qualité et attentif aux besoins du consommateur.
+
+Acheter localement
+Certains producteurs choisissent de s’approvisionner localement. Ceci 
+permet notamment de :
+•	 Diminuer le temps et les dépenses en transport;
+•	 Encourager l’économie régionale; 
+•	 Obtenir un meilleur service après-vente. 
+
+•	 Se rapprocher des besoins du consommateur 
+•	 Faire connaître les avantages de la transformation des produits en 
+
+région;
+•	 Participer aux initiatives régionales de mise en valeur des produits 
+
+agroalimentaires;
+•	 Améliorer l’image et la qualité des produits;
+•	 Améliorer la communication sur les produits (qualité, initiatives 
+
+environnementales, etc.);
+•	 Développer des services à la clientèle si applicable.
+
+•	 Approche de la chaîne de valeur, Agriculture Canada : 
+www.ats-sea.agr.gc.ca
+
+•	 Commercialisation : www.farmcentre.com 
+•	 Le marketing agroalimentaire : La démarche marketing – Manuel 1 : 
+
+www.craaq.qc.ca
+
+20
+
+
+
+L’ÉNERGIE ET LES GAZ À EFFET DE SERRE GESTION DES 
+RESSOURCES 
+
+Enjeux
+
+Trucs d’agriculteurs Pour aller plus loin
+
+Solutions
+L’impact environnemental des entreprises agricoles, 
+lié à la consommation d’énergie, n’est pas néglige-
+able. Renouvelables ou pas, les énergies consommées 
+représentent une part importante des dépenses. Qui 
+dit efficacité énergétique, dit donc productivité.
+
+En 2010, le secteur de l’agriculture était responsable 
+de 7,9 % des émissions de gaz à effet de serre au 
+Québec, soit une augmentation de 5,5 % depuis 1990. 
+
+Ces émissions sont liées à la fermentation entérique 
+et à la gestion des fumiers et des sols. À ceci s’ajoute 
+aussi la consommation de combustibles fossiles qu’il 
+ne faut pas négliger. 
+
+L’impact énergétique du secteur agricole ne doit donc 
+pas être pris à la légère. 
+
+Les solutions d’efficacité énergétique se sont beaucoup développées au cours 
+des dernières années. Des investissements gouvernementaux ont permis la 
+création de programmes de subvention et de soutien aux entrepreneurs désirant 
+réduire leur consommation d’énergie. Parallèlement, l’augmentation du coût des 
+combustibles a favorisé les innovations améliorant l’efficacité de la machinerie 
+ou le passage à des énergies plus vertes. 
+
+Diverses pratiques simples permettent de diminuer la consommation d’énergie 
+en général et la quantité utilisée de combustibles fossiles (essence, diesel, huile 
+à chauffage, etc.). Certaines nécessitent peu d’investissements financiers et 
+peuvent même avoir des impacts positifs en matière 
+d’organisation du travail. Voici quelques pratiques de nos producteurs :
+•	 Identifier et suivre la consommation énergétique (registres, audits  
+
+énergétiques, suivi des pointes de consommation, etc.);
+
+•	 Réduire la taille des véhicules ou acheter des véhicules moins énergivores qui 
+respectent les besoins de production;
+
+•	 Optimiser les déplacements (au champ, livraisons, achats, etc.);
+•	 Favoriser l’utilisation du bon équipement pour la tâche à réaliser;
+•	 Remplacer certaines techniques de culture ou de procédés par des méthodes 
+
+qui demandent moins d’énergie (semis directs, pâturages permanents, 
+fréquence d’épandages, etc.);
+
+•	 Favoriser le choix de fournisseurs locaux pour diminuer le transport;
+•	 Évaluer la faisabilité d’utiliser des énergies renouvelables  
+
+(hydroélectricité, énergie solaire, géothermie, biomasse);
+•	 Réaliser des innovations technologiques (récupérateur de chaleur,  
+
+refroidisseur à plaque, écran thermique, isolation);
+•	 Modifier les habitudes (diminuer l’éclairage et/ou le chauffage en l’absence 
+
+de travailleurs, favoriser la ventilation naturelle).
+
+Identifier les opportunités
+Les producteurs interrogés ont fait valoir 
+l’importance de la révision en continu de leurs 
+procédés afin d’identifier les opportunités 
+d’amélioration. Bien souvent, le gaspillage peut 
+être évité facilement en modifiant les routines 
+ou les façons de faire.  
+
+Comparer
+Les consommations de carburants et d’énergie 
+en général doivent être mises en relation avec le 
+nombre d’acres travaillés ou d’unités produites 
+afin de pouvoir être comparées entre elles. 
+
+Les registres financiers et de production sont 
+très utiles pour ces comparaisons.Enfin, le 
+temps de travail épargné peut aussi s’avérer 
+très positif dans le calcul de la rentabilité d’une 
+nouvelle technique. Il ne faut pas l’oublier !
+
+•	 Nature Québec. Des pratiques agricoles efficaces, un impact bénéfique 
+sur le climat :  www.naturequebec.org
+
+•	 Interprétation des scénarios de changements climatiques 2011 :  
+www.ouranos.ca
+
+•	 Répertoire des mesures pour d’efficacité énergétique pour le secteur 
+agricole : www.efficaciteenergetique.mrnf.gouv.qc.ca
+
+21
+
+
+
+L’EAU ET LE SOL GESTION DES 
+RESSOURCES 
+
+Enjeux
+La gestion des ressources eau et sol est à la base de la 
+productivité d’une entreprise agricole. Elle influence 
+directement le rendement des cultures ainsi que la 
+qualité et la santé des animaux. Au champ, l’eau et le 
+sol constituent un milieu de vie régi par des cycles 
+naturels qui sont influencés et modifiés par les 
+différents procédés agricoles choisis.
+
+Divers règlements et lois dictent, dans bien des cas, 
+des pratiques à adopter afin de prévenir les 
+contaminations. Au-delà de ces obligations légales, 
+d’autres  pratiques innovantes permettent aussi 
+d’améliorer la gestion du sol et de l’eau. 
+
+Ceci peut faire progresser les performances de 
+l’entreprise par une meilleure productivité. 
+
+« En améliorant la qualité de l’eau au pâturage et sa disponibilité, 
+nous améliorons les performances des animaux. »  Un participant
+
+« On traite ça comme un milieu de vie, notre sol ! » 
+Une participante
+
+•	 Conserver l’humidité du sol par 
+un couvert végétal
+
+•	 Mécaniser l’arrosage
+•	 Moderniser les équipements 
+
+(minuterie, pistolet)
+•	 Récupérer les eaux de pluie
+
+•	 Utiliser des techniques culturales 
+favorisant la rétention d’eau dans 
+le sol
+
+•	 Récupérer et réutiliser les eaux de 
+lavage ou de refroidissement
+
+•	 Avoir une réserve d’eau au besoin
+
+•	 Irrigation et bassins de rétention
+•	 Empierrement
+•	 Nivellement
+•	 Gestion des fossés et des ponceaux
+•	 Bandes riveraines
+•	 Fosses étanches
+•	 Techniques d’épandage et de travail du sol
+•	 Diminution de l’usage de pesticides et utilisation de 
+
+pesticides à moindre risque
+
+Diminuer la consommation Gérer l’utilisation Diminuer la contamination
+
+Intrants ExtrantsAu champs et dans les bâtiments
+
+22
+
+Solutions
+Au champ, la gestion de l’eau est intimement liée à la gestion du sol. Le 
+ruissellement des eaux de surface est responsable de l’érosion, de la perte de 
+superficies cultivables et du lessivage des nutriments essentiels aux cultures, 
+affectant ainsi la qualité des eaux de surface. Il est important d’avoir une vision 
+intégrée de ces systèmes. Ceci permet de choisir les techniques les plus 
+appropriées, améliorant à la fois la qualité de l’eau et du sol.
+
+Eau
+La gestion de l’eau suppose une bonne connaissance des sources et des rejets  
+de l’entreprise. De plus, la mesure et le suivi permettent d’identifier les  
+problématiques et d’y répondre rapidement. Différentes pratiques peuvent 
+influencer à la fois la quantité et la qualité de l’eau (voir la figure ci-contre). 
+
+
+
+Trucs d’agriculteurs Pour aller plus loin
+
+Sol
+La gestion adéquate des sols permet d’assurer le maintien ou l’amélioration de leur fertilité. Voici quelques pratiques 
+de nos producteurs :
+•	 Bonnes connaissances des caractéristiques physiques, chimiques et biologique des sols et suivi régulier;
+•	 Introduction de pratiques limitant sa compaction (par exemple, limiter  les passages au champ et éviter les 
+
+travaux de sol en conditions humides); 
+•	 Valorisation des fumiers et optimisation de la fertilisation avec un suivi rigoureux;
+•	 Infrastructures ou techniques diminuant l’érosion éolienne et hydrique; 
+•	 Planification d’une rotation et d’une diversification des cultures.
+•	 Pratiques culturales de conservation des sols telles que le semis direct, le travail minimal ou la culture sur billon; 
+•	 Éviter de laisser les sols à nu tout en favorisant la vie du sol en semant des cultures de couverture en intercalaire 
+
+ou après les récoltes;
+
+•	 Bon réglage des pneus et de l’équilibrage de la machinerie qui doit circuler dans les champs ; 
+•	 Favoriser les méthodes de lutte physiques ou biologiques lorsque la situation le permet et utiliser les pesticides 
+
+seulement lorsque nécessaire;
+•	 Lorsque possible, choisir les pesticides qui possèdent les plus faibles indice de risque pour l’environnement (IRE) 
+
+et la santé (IRS);
+•	 Lors de l’usage de pesticides, s’assurer de respecter les distances d’éloignement des cours d’eau, plans d’eau et 
+
+des immeubles protégés,
+•	 Pour diminuer les risques d’apparition de résistance des ennemis de cultures aux pesticides, s’assurer de faire une 
+
+rotation des groupes de pesticides.
+
+Quelques astuces
+•	 Bien connaître les programmes existants (par 
+
+exemple, Prime-vert) : les ressources eau et 
+sol sont souvent des priorités  
+gouvernementales;
+
+•	 Utiliser les services d’une firme en  
+agroenvironnement ou en ingénierie,  
+au besoin; 
+ 
+
+•	 Profiter des projets de rénovation pour  
+effectuer des changements plus importants; 
+
+•	 Rechercher des innovations ailleurs et dans 
+d’autres secteurs.
+
+•	 www.mddefp.gouv.qc.ca
+•	 agrinova.qc.ca  
+•	 Inventaire des problèmes de dégradation des sols : www.irda.qc.ca 
+•	 Bonnes pratiques agroenvironnementales pour votre entreprise agricole :  
+
+www.mapaq.gouv.qc.ca/fr/Productions/Agroenvironnement/bonne-
+spratiques/Pages/bonnespratiques.aspx 
+
+•	 Trousse d’information sur les pesticides : www.mapaq.gouv.qc.ca/
+pesticides 
+
+•	 SAgE pesticides : www.sagepesticides.qc.ca
+•	 Programme Prime-Vert : www.mapaq.gouv.qc.ca/primevert 
+
+23
+
+
+
+1. Réduire à la source
+
+Réduire à la source diminue 
+l’achat de matériaux, de produits 
+et d’équipements. Les matériaux 
+durables et une meilleure 
+planification des besoins réduisent 
+aussi le gaspillage.
+
+Acheter en vrac, ce qui diminue les 
+emballages.
+
+Emballage en tube ou corde 
+biodégradables, pour les ballots.
+
+2. Réemployer
+
+Au lieu d’acheter de nouveaux objets, 
+il est possible de les réutiliser ou de 
+les faire parvenir à des centres de 
+récupération (ex. : friperie).
+
+Revendre ses vieux équipements ou 
+recourir au marché de l’usagé.
+Réutiliser les pots de semence (qui 
+peuvent être lavés par des travailleurs 
+en réinsertion).
+
+Réutiliser les vieux matériaux.
+
+3. Recycler
+
+Quand on ne peut plus utiliser un objet 
+tel qu’il est, il est possible de l’envoyer 
+dans un centre de tri pour que les maté-
+riaux soient recyclés. Il est aussi possible 
+de recycler des matières fertilisantes en 
+les retournant dans les champs.
+
+Installer un poste de tri des déchets 
+bien identifié.
+
+Signer des ententes avec un 
+récupérateur, surtout pour les produits 
+dangereux (huiles usées, appareils 
+électroniques, pesticides, etc.).
+
+4. Valoriser
+
+Tous les autres traitements de la 
+matière résiduelle qui visent à en tirer 
+une ressource, une substance, des 
+produits utiles ou de l’énergie.
+
+Composter des résidus.
+Réaliser un projet de 
+biométhanisation.« Quand il faut que tu ramasses tout le temps les plastiques, tu 
+
+prends des méthodes pour minimiser tes déchets. C’est du temps 
+de travail en moins. » Ferme Barrette 
+
+LES MATIÈRES RÉSIDUELLES GESTION DES 
+RESSOURCES 
+
+Enjeux Solutions
+L’augmentation des tarifs de l’enfouissement des 
+déchets pousse les entreprises à améliorer leurs pra-
+tiques de gestion des matières résiduelles. On oublie 
+souvent que le déchet le plus facile à éliminer est celui 
+qui n’est pas créé ! 
+
+Tout en étant bénéfique pour l’environnement, 
+une meilleure gestion des matières résiduelles a 
+des impacts positifs sur l’organisation du travail, la 
+productivité et la rentabilité de l’entreprise. Elle peut 
+permettre de :
+
+•	 Diminuer les pertes de temps;
+•	 Diminuer les travaux liés à la collecte;
+•	 Économiser sur les coûts de gestion; 
+•	 Recycler les matières fertilisantes et diminuer les 
+
+coûts associés à l’achat de ces matières. 
+
+La gestion des matières résiduelles peut se résumer par un principe simple, celui des 3 RV-E. Ce principe illustre une hiérarchie de stratégies à privilégier afin de 
+minimiser les déchets destinés à l’enfouissement (E).
+
+24
+
+
+
+Trucs d’agriculteurs Pour aller plus loin
+
+Sensibiliser l’équipe de travail
+Les producteurs ont souligné que les travailleurs ont beaucoup de difficulté à respecter le classement des différents contenants de matières résiduelles. 
+C’est pourquoi il est essentiel de les sensibiliser à la bonne gestion des matières résiduelles. Par exemple, apposer des affiches (avec illustrations) peut 
+aider à classer rapidement les différents types de matières utilisées au quotidien. 
+
+•	 Guide sur le recyclage des matières fertilisantes (2012) par le MDDEFP : 
+www.mddefp.gouv.qc.ca
+
+•	 Centre de documentation de Recyc-Québec : www.recyc-quebec.gouv.qc.ca 
+
+25
+
+
+
+

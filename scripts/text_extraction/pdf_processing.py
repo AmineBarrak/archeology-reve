@@ -1,7 +1,6 @@
 import PyPDF2
 import pdfplumber
 from pdfminer.pdfpage import PDFPage
-from google.colab import drive
 import os
 from tika import parser
 import pytesseract
@@ -21,7 +20,7 @@ def write_results (row, out):
 		wr = csv.writer(fp, dialect='excel')
 		wr.writerow(row)
 		
-def pdfminer(file_name, save_path):
+def pdfminer(filename, file_name, save_path):
 	resource_manager = PDFResourceManager()
 	fake_file_handle = io.StringIO()
 	converter = TextConverter(resource_manager, fake_file_handle, laparams=LAParams())
@@ -44,12 +43,13 @@ def pdfminer(file_name, save_path):
 		f.write(text)
     
 
-def tika(file_name, save_path):
+def tika(filename, file_name, save_path):
+	print("*********** Converting the file {} *******************".format(filename))
 	parsedPDF = parser.from_file(file_name)
 	with open(save_path, 'w') as f:
 		f.write(parsedPDF['content'])
 	
-def pdfplumber(file_name, save_path):
+def pdfplumber(filename, file_name, save_path):
 	with pdfplumber.open(file_name) as pdf:
 		
 		for page in pdf.pages:
@@ -57,7 +57,7 @@ def pdfplumber(file_name, save_path):
 				f.write(page.extract_text())
 
 
-def pypdf2(file_name, save_path):
+def pypdf2(filename, file_name, save_path):
 	pdf_file = open(file_name, 'rb')
 	pdfReader = PyPDF2.PdfFileReader(pdf_file)
 	count = pdfReader.numPages
@@ -71,12 +71,17 @@ def pypdf2(file_name, save_path):
   
 def main():
 	PATH="../../dataset/straight/"
+	RES_PATH="../../dataset/text_extraction/"
 	file_paths = [os.path.join(dp, f) for dp, dn, filenames in os.walk(PATH) for f in filenames if os.path.splitext(f)[1] == '.pdf']
 	
+	# print(len(file_paths))
+
+
 	for file in file_paths:
 		filename = Path(file).stem
+		# print(filename)
 
-		tika(file, PATH+"text_extraction/"+filename+".txt")
+		tika(filename, file, RES_PATH+filename+".txt")
 	
 if __name__ == '__main__':
 	main()

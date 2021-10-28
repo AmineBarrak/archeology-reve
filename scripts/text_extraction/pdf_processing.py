@@ -12,6 +12,11 @@ from pdfminer3.converter import PDFPageAggregator
 from pdfminer3.converter import TextConverter
 import io
 from pathlib import Path
+from wand.image import Image
+from PIL import Image as PI
+import pyocr
+import pyocr.builders
+import io
 
 
 
@@ -56,6 +61,9 @@ def pdfplumber(filename, file_name, save_path):
 			with open(save_path, 'w') as f:
 				f.write(page.extract_text())
 
+def OCR():
+	tool = pyocr.get_available_tools()[0]
+	lang = tool.get_available_languages()[1]
 
 def pypdf2(filename, file_name, save_path):
 	pdf_file = open(file_name, 'rb')

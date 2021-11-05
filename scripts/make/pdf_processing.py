@@ -22,7 +22,8 @@ import spacy
 import regex as re
 
 
-def images_extraction(pdf_path):
+
+def images_extraction(pdf_path, folder_save):
 	# pip install pymupdf
 	# open the file
 	pdf_file = fitz.open(pdf_path)
@@ -47,7 +48,7 @@ def images_extraction(pdf_path):
 	        
 	        image_bytes = base_image["image"]
 	        image = Image.open(io.BytesIO(image_bytes))
-	        image.save(str(page_index)+"_"+str(image_index)+"."+image_ext)
+	        image.save(folder_save+str(page_index)+"_"+str(image_index)+"."+image_ext)
 
 
 def fix_rotated_text(text):
@@ -82,9 +83,9 @@ def space_remove(text):
 
 
 
-def text_preprocessing(input_file, output_file):
-	with open(input_file) as f:
-		text = f.read()
+def text_preprocessing(text, output_file):
+	# with open(input_file) as f:
+	# 	text = f.read()
 	
 	# ~ add cleaning functions
 	text = space_remove(text)
@@ -133,11 +134,13 @@ def pdfminer(filename, file_path, save_path):
 		f.write(text)
     
 
-def tika(filename, file_path, save_path):
+def tika(file_path):
 	print("*********** Converting the file {} *******************".format(filename))
 	parsedPDF = parser.from_file(file_path)
-	with open(save_path, 'w') as f:
-		f.write(parsedPDF['content'])
+
+	return parsedPDF['content']
+	# with open(save_path, 'w') as f:
+	# 	f.write(parsedPDF['content'])
 	
 def pdfplumber(filename, file_path, save_path):
 	with pdfplumber.open(file_path) as pdf:
@@ -180,21 +183,27 @@ def pypdf2(filename, file_path, save_path):
 
   
 def main():
-	# ~ PATH="../../dataset/straight/"
-	# ~ RES_PATH="../../dataset/text_extraction/"
-	# ~ files_paths = [os.path.join(dp, f) for dp, dn, filenames in os.walk(PATH) for f in filenames if os.path.splitext(f)[1] == '.pdf']
+	PATH="../../dataset/straight/"
+	RES_PATH="../../extracted_text/"
+	files_paths = [os.path.join(dp, f) for dp, dn, filenames in os.walk(PATH) for f in filenames if os.path.splitext(f)[1] == '.pdf']
 	
-	# print(len(file_paths))
+	print(len(file_paths))
 
 
-	# ~ for file_path in files_paths:
-		# ~ filename = Path(file_path).stem
+	for file_path in files_paths:
+		filename = Path(file_path).stem
 		# print(filename)
-	# ~ tika(filename, file_path, RES_PATH+filename+".txt")
-	filename = "GuideDéveloppementDurable_BasseRésolution-2013.txt"
-	# ~ tika(filename, filename, "res.txt")
-	
-	text_preprocessing(filename, "res2.txt")
+		file_extract_path = RES_PATH+filename
+		Path(file_extract_path).mkdir(parents=True, exist_ok=True)
+
+		text_extracted = tika(file_path)
+		text_preprocessing(text_extracted, filename+".txt")
+
+		folder_save_image = file_extract_path+"/images/"
+		Path(folder_save_image).mkdir(parents=True, exist_ok=True)
+		images_extraction(file_path, folder_save_image)
+
+
 	
 	
 if __name__ == '__main__':

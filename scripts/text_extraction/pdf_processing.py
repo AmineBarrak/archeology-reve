@@ -23,6 +23,28 @@ import fitz
 from PIL import Image
 
 
+def clean_text(rgx_match, text):
+    
+    new_text = re.sub(rgx_match, '', text)
+    return new_text
+
+
+def count_rotated_text_percentage(text, nbr_caracter_moyen):
+	text = space_remove(text)
+	regex_rotated = '\n([a-zÀ-ÿ]{1,4}[[[[:space:]][a-zÀ-ÿ]{1,3}]?[[[:space:]][a-zÀ-ÿ]{1,3}]?]?)'
+
+	exactMatch = re.compile(regex_rotated, flags=re.IGNORECASE)
+	match_bad = len(exactMatch.findall(text))/nbr_caracter_moyen
+	text = clean_text(regex_rotated, text)
+	word_list = text.split()
+	total_of_words = len(word_list)
+
+
+
+	return match_bad/total_of_words
+
+
+
 def images_extraction(pdf_path, folder_save):
 	# pip install pymupdf
 	# open the file
@@ -93,6 +115,8 @@ def text_preprocessing(text, output_file):
 	
 	# ~ add cleaning functions
 	text = space_remove(text)
+
+
 	text = fix_rotated_text(text)
 	text = link_lines(text)
 	
@@ -207,9 +231,41 @@ def main():
 		images_extraction(file_path, folder_save_image)
 
 
+def count_loss_percentages()
+	PATH="../../dataset/straight/"
+	RES_PATH="../../extracted_text/"
+	files_paths = [os.path.join(dp, f) for dp, dn, filenames in os.walk(PATH) for f in filenames if os.path.splitext(f)[1] == '.pdf']
 	
-	
+	nbr_caracter_moyen_usage = 4.8
+	nbr_caracter_moyen_dict = 10.09
+
+	nbr_total_files = len (files_paths)
+	percentage_usage = 0
+	percentage_dict = 0
+	for file_path in files_paths:
+		filename = Path(file_path).stem
+		# print(filename)
+		file_extract_path = RES_PATH+filename
+		Path(file_extract_path).mkdir(parents=True, exist_ok=True)
+
+		text_extracted = tika(filename, file_path)
+
+		percentage_usage += count_rotated_text_percentage(text_extracted, nbr_caracter_moyen_usage)
+		percentage_dict += count_rotated_text_percentage(text_extracted, nbr_caracter_moyen_dict)
+
+	print("*********** Loss words usage {:.2f} *******************".format((percentage_usage/nbr_total_files)*100))
+	print("*********** Loss words dictionnaire {:.2f} *******************".format((percentage_dict/nbr_total_files)*100))
+
 if __name__ == '__main__':
 	main()
+	# count_loss_percentages()
+
+	
+
+
+
+
+
+
 	
   

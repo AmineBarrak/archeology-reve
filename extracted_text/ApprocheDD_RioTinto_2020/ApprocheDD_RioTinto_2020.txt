@@ -235,7 +235,6 @@ TiO2 Li
 Fe
 Cu
 Borates are a vital ingredient of energy-efficient building materials and are in fertiliserswhich help feed the world’s growing population.
-B
 PERFORMANCE AGAINST OUR STRATEGIC CLIMATE CHANGE PRIORITIESOur approach to climate change 12 Our approach to climate change
 PERFORMANCE AGAINST OUR STRATEGIC CLIMATE CHANGE PRIORITIES
 Overall, our marginal abatement costcurves show that some emissions reduction opportunities – such as energy efficiency and renewables projects – can generate a positive return on investment, although these are typically below our usual investment thresholds. Other opportunities – such as investments inhybrid mine vehicles or plasma torches –are not readily available to deploy at scaletoday or would generate returns that are negative. In other words, there is currently no commercial case for investment inthese types of opportunities.
@@ -271,19 +270,14 @@ Renewable power.0 4.01.0
 Pre 2030 Post 2030 Valuations conceptual.0
 Low-carbon haul
 Low-carbon dig/loadLow-carbon rail
-U
 S
 D / t
-C
 O
 Mt CO2
 Gas 2030.3.3.9.2.6 3.6.2
 Diesel Rail Haul PowerDig/Load.01.0
-Fuel switchingEnergy ef�ciency New solutions
-U
 S
 D / t
-C
 O
 Mt CO2e
 Yarwun business-as-usual emissions
@@ -333,7 +327,6 @@ Mobile energy
 Inert anode
 Renewables
 – Other
-Energy ef�ciency
 Mine closure
 Net zero by 2050 decarbonisation leversRio Tinto scope 1 & 2 GHG emissions (2018 = 100) 2022 2026 2030 2034 2038 2042 2046 2050
 Renewables
@@ -364,22 +357,17 @@ Our Vaudreuil alumina refinery in Québec,
 Canada has the lowest carbon footprint inthe world today.
 PERFORMANCE AGAINST OUR STRATEGIC CLIMATE CHANGE PRIORITIES
 REDUCING THE CARBON FOOTPRINT OF OUR OPERATIONS.3 6.6 5.1 3.7 3.3 2.6 0.2
-Aluminium (Paci�c) Bauxite & Alumina Aluminium (Canada) Energy & Minerals
 Copper & Diamonds Iron Ore Other
 Group average 6.4tCO2e / tCu-eq tC
 Oe / tCu -eq tCu-eq
 Pilbara Diamonds
 Aluminium (Atlantic) Alumina TiO2
 Salt Bauxite Copper Uranium Borates
-Aluminium (Paci�c)IOC%75%50%25%0%
 Pac.Al
 Atl.Al tC
-O
 /t Al 12.20 tCO2 / t Al.0.0.0
 RTt C
-O
 /t A l 2
-O
 Global production%75%50%25%0%.33 tCO2 / t Al2CO3
 Alumina
 Aluminium Iron Ore
@@ -387,11 +375,9 @@ Copper,0001,5001,0005000
 IOC
 RT Pilbara
 Mt kg C
-O
 /t.30 kgCO2 / t iron ore
 RT
 Mt tC
-O
 /t Cu 1
 With KUC RECs +
 Escondida repowering

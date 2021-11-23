@@ -7,10 +7,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -22,10 +19,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -36,10 +30,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -50,10 +41,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -84,10 +72,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -113,10 +98,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -130,10 +112,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -144,10 +123,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -161,17 +137,13 @@ Nous sommes à même de constater que le rendement brut pour a une légère haus
 Le rendement des placements « Entreprises » de , est supérieur à celui de l’an dernier , pourun taux historique de , . Le taux directeur de la Banque du Canada est stable.
 Le taux de pertes de , , incluant les provisions pour pertes , est très supérieur à celui de , incluant les provisions . Depuis ans, notre corporation a radié pour de prêts. Ce montant important de pertes en dollars, des revenus de ainsi que notre taux historique de rendement net de l’actif du fonds d’investissement de , nous permettent de constater que notre corporation atteint ses objectifs dans la gestion d’un portefeuille d’investissement soit : conserver son capital de base et soutenir l’entreprise à risque.
 Le taux de placements annuel de , est supérieur à celui de l’an dernier , . Notre taux de remboursement de , est supérieur à celui de , et supérieur aux taux historique de
-.
 Notre taux de placements historique de , est toujours supérieur à notre taux de remboursement historique de .
 NOTE : Les statistiques des tableaux à ne comprennent que les investissements volet PDC. Ainsi,celles du fonds d’investissement volet Jeunesse et d’autres produits spéciaux n’y sont pas compiléesétant donné les particularités de remboursement assujetties à ces investissements.
 RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -202,10 +174,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -214,57 +183,35 @@ N EST IN
 C.
 Rendement brut de l’actif du fonds d’investissement de 1 au 1 mars 2020 Volet tableau
 ,
-,
-,
 ,1
 ,
 ,
-,
-,
 ,2
-,
 ,2
-,
-,
-,
 ,
 ,
 ,
 ,1
 ,
 ,
-,
-,
-,
 ,2
-,
 ,2
 , ,
 ,
-,
-,
 M
-O
 YE
 N
-N
-E
 PO
-U
 RC
 EN
 TA
-G
 E
 ANNÉES
 RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -280,34 +227,24 @@ Volet tableau
 ,2
 - ,2
 ,
-,
 ,1,
-,
 ,1
 ,
-,
 ,, 2,
-,
-,
 ,
 ,2,
 ,,,, 2, 1
 PO
-U
 RC
 EN
 TA
-G
 E
 ANNÉES
 RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -317,47 +254,30 @@ C.
 Rendement des placements de 1 au 1 mars 2020
 Volet tableau
 ,
-,
-,
 , ,
 ,
-,
 ,2
-,
 ,,
 ,
 ,
 ,
-,
-,
-,
-,
 ,,
-,
 ,
 ,1 ,
 ,
-,
-,
 , ,2
-,
 ,1
 PO
-U
 RC
 EN
 TA
-G
 E
 ANNÉES
 RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -369,27 +289,20 @@ Volet tableau,
 ,,,
 , ,,,0 ,
 ,21,,,
-,
 ,,,
 ,,,,,1,
 ,,0,2 0,,1
-,
 PO
-U
 RC
 EN
 TA
-G
 E
 ANNÉES
 RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -401,34 +314,24 @@ Volet tableau
 ,
 ,
 ,
-,
-,
-,
 ,,
 , ,, , ,,
 ,,, , ,
 ,, ,, ,0,
-M
 O
 YE
-N
 …
 PO
-U
 RC
 EN
 TA
-G
 E
 ANNÉES
 RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -438,31 +341,22 @@ C.
 Taux de remboursement de 1 au 1 mars 2020
 Volet tableau
 ,,,
-,
 ,2 , ,
 , , ,2 , ,,2 , 21, ,,
-M
 O
 YE
 N
-N
-E
 PO
-U
 RC
 EN
 TA
-G
 E
 ANNÉES
 RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -472,17 +366,13 @@ C.
 Taux de rendement versus taux de pertes de 1 au 1 mars 2020
 Volet tableau
 ,1
-,
 TAUX DE RENDEMENT TAUX DE PERTES
 MOYENNE
 RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -497,10 +387,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -530,10 +417,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -550,10 +434,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -567,14 +448,11 @@ DANS LES DOSSIERS ACTIFS
 EMPLOIS AU DÉBUT
 EMPLOIS AU MARS ,
 EMPLOIS NETS DÉCROISSANCE DE , 0 0 0 0
-A
 LM
-A
 D
 ES
 BI
 EN
-S
 H ÉB
 ER
 TV
@@ -586,82 +464,54 @@ TV
 IL
 LE
 ST
-A
 TI
-O
 N
 LA
 BR
 EC
-Q
 U
-E
 L
-A
 SC
 EN
 SI
-O
 N
 M ÉT
-A
 BE
 TC
-H
 O
-U
 A
-N
 ST
 BR
-U
 N
-O
 ST
-E
 M
-O
 N
 IQ
-U
 E
 ST
 G ÉD ÉO
-N
 ST
-H
 EN
 RI
-D
 E
 TA
 IL
 LO
-N
 ST
-N
 A
 ZA
 IR
-E
 LA
-M
 A
 RC
-H
 E
 ST
 LU
-D
 G
 ER
-D
 E
-M
 IL
-O
 T
-A
 U
 TR
 ES
@@ -671,10 +521,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -696,10 +543,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -714,10 +558,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -733,13 +574,10 @@ AUTRES
 INSTITUTION FIN.
 TOTAL DES INVESTISSEMENTS
 SADC
-,
 PROMOTEURS,
 AUTRES
-,
 INSTITUTIONS
 FINANCIÈRES
-,
 POURCENTAGE DES INVESTISSEMENTS
 PAR CATÉGORIE D’INVESTISSEURS
 SADC
@@ -750,10 +588,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -785,10 +620,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -810,10 +642,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -827,7 +656,6 @@ $ 2 0 2
 ,2
 FONDS DE ROULEMENT
 $1 00 000
-,
 AUTRES
 $11 1 02,
 IMMOBILISATIONS FONDS DE ROULEMENT AUTRES
@@ -837,10 +665,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -857,10 +682,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -878,10 +700,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -896,10 +715,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -915,10 +731,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -931,10 +744,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -953,10 +763,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -974,10 +781,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -992,10 +796,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1012,10 +813,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1034,10 +832,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1056,10 +851,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1075,10 +867,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1094,10 +883,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1120,10 +906,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1150,10 +933,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1170,10 +950,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1184,10 +961,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1198,10 +972,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1212,10 +983,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1226,10 +994,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1240,10 +1005,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1254,10 +1016,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1268,10 +1027,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1282,10 +1038,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1296,10 +1049,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1310,10 +1060,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1324,10 +1071,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1338,10 +1082,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1352,10 +1093,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1366,10 +1104,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1380,10 +1115,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1394,10 +1126,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1408,10 +1137,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1422,10 +1148,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1436,10 +1159,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST
@@ -1450,10 +1170,7 @@ RA
 PPO
 RT A
 N
-N
-U
 EL SA
-D
 C D
 E LA
 C ST

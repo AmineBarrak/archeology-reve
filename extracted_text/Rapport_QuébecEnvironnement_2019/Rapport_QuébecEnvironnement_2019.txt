@@ -21,7 +21,6 @@ MESSAGE DU SOUS-MINISTRE .......................................................
 DÉCLARATION ATTESTANT LA FIABILITÉ DES DONNÉES ................................. IX
 RAPPORT DE L AUDIT INTERNE ............................................................................ XI
 LISTE DES SIGLES ET DES ACRONYMES ............................................................ XII. L ORGANISATION ................................................................................................. 1.1 L organisation en bref .............................................................................................. 1.2 Faits saillants ........................................................................................................... 5. LES RÉSULTATS .................................................................................................. 9.1 Plan stratégique....................................................................................................... 9.2 Déclaration de services aux citoyennes et aux citoyens ......................................... 30. LES RESSOURCES UTILISÉES ......................................................................... 32.1 Utilisation des ressources humaines ...................................................................... 32.2 Utilisation des ressources financières .................................................................... 35.3 Utilisation des ressources informationnelles ........................................................... 39. ANNEXES AUTRES EXIGENCES .................................................................... 42.1 Gestion et contrôle des effectifs ............................................................................. 42.2 Développement durable ......................................................................................... 43.3 Occupation et vitalité des territoires ....................................................................... 59.4 Di lgation d actes r pr hensibles l gard d organismes p blics ......................... 73.5 Acc s l galit en emploi..................................................................................... 74.6 Allégement réglementaire et administratif............................................................... 79.7 Accès aux documents et protection des renseignements personnels ..................... 80.8 Emploi et qualité de la langue française dans l Administration ................................ 82.9 Politique de financement des services publics........................................................ 82. ANNEXE ORGANIGRAMME DU MINISTÈRE .................................................. 83
-V
 MESSAGE DU MINISTRE
 Monsieur François Paradis
 Pr sident de l Assembl e nationaleet député de Lévis
@@ -58,7 +57,6 @@ Le Rapport annuel de gestion 2019-2020 du minist re de l Environnement et de la 
 Le sous-ministre de l Environnementet de la Lutte contre les changements climatiques,
 Marc Croteau
 Québec, septembre 2020
-X
 Les membres de la direction en poste au moment du dépôt du Rapportannuel de gestion 2019-2020
 Stéphane Armanda, CPA auditeur, CA
 Sous-ministre adjoint
@@ -1080,9 +1078,6 @@ Le Minist re a labor trois outils d aide lad cision concernant l utilisation de 
 Le Code de gestion des pesticides et le
 Règlement sur les permis et les certificats pour lavente et l utilisation des pesticides ont été modifiés dans le but d exiger une justification agronomique préalablement à toutes les utilisations de pesticides dépassant les critèresde qualit de l eau et r pondant des crit res de toxicité.
 Le Ministère a effectué plusieurs activités de sensibilisation afin d informer les intervenants concernés des modifications réglementaires ainsique de l utilisation rationnelle et sécuritaire des pesticides les plus à risque :
-� Mise en ligne d une plateforme expliquant les nouvelles modifications réglementaires;
-� Publication et diffusion d un d pliantrelatif la protection de l eau souterraine;
-� Transmission d une circulaire aux agriculteurs certifiés en lien avec les nouvelles obligations réglementaires.
 Le Ministère effectue un suivi régulier concernant l volution de la fr quence des d passementsdes crit res de qualit de l eau pour la protectiondes espèces aquatiques.
 Le Ministère publie annuellement les résultats du suivi environnemental des pesticides en rivièreset en eaux souterraines, ainsi que les données del tat de la biodiversit , sur l Atlas interactif de laqualité des eaux et des écosystèmes aquatiques, disponible sur son site Web.
 En cours d application progrès satisfaisants
@@ -1611,9 +1606,7 @@ So us
 Cl au di ne G ing ras
 , d ir. parint ér im
 Le 3m ars 20 LÉ G
-E
 N
-D
 E :
 So us
 -ministre adjoint à l’expertise etau x politiques d e l
@@ -1625,7 +1618,6 @@ Sy lvi e Bea uli eu
 , d ir. g én
 . Direction génér ale desress ources financière s et matér iel les Jo ëlle Jo bin
 , d ir. g én
-.
 So us
 -ministre adjoint aux services à la g es tion Stép ha ne Arm an da
 So us
@@ -1646,7 +1638,6 @@ Secrétaria t gén ér al
 Pa sc ale Po rli er
 , s ec
 . g én
-.
 Direct ion du Program me de réduction des rejetsindu striels et des lieux contam in és
 Cl au de D ug as
 , d ir. Direction des matières danger euses et des pestic id es
@@ -1657,33 +1648,27 @@ Ma rti n Létour ne au
 Direction adjoi nte de lam atière orga ni que Er ne st
 Ri ck li, dir
 . a dj.
-� �
 Direction génér ale despolit iques en milieu te rre stre Ma rio B éru bé
 , d ir. g én
-.
 Direction génér ale des politiques de l’e au
 Ma rie
 -C lau de Thébe rg e, d ir. g én
-.
 Direction de lagestion intégr ée de l’e au
 Ju lie Bor de lea u, d ir.
 Direction des eaux u sé es
 Na nc y Ber nie r, dir
-.
 Direction de l’agroenviro nnement et du milieu hyd riq ue
 De nis Lapo int e, d ir.
 Direction de lasécurité desba rra ges M ich el
 Rhé aum e, d ir.
 Direction de l’eau potable et deseaux souter ra in es
 Caro lin e Rob er t, dir
-.
 Direction de laqualité desm ilieux aqua tiq ues Caro lin e Boit ea u, d ir.
 Direction de laqualité d e l
 ’airetdu cl im at
 Na th alie La Viol ett e, d ir.
 Direction du marché du ca rb one Je an
 -Y ve s Ben oî t, dir
-.
 Inventaires et gestion deshalocar bu res Direction de l’expertise comp ta ble Ma rie
 -P er le
 Ga gn é, d ir.
@@ -1697,18 +1682,14 @@ Direction de lagestion de lam ain
 ’œuvre et de l’information de g es tion M yr iam Bouch ar d, d ir.
 Direction génér ale de latransition climat iq ue
 Lu cie Bouch ar d, d ir. g én
-.
 Direction génér ale de laréglemen tation carbone et desdonn ées d’ém is sion Fr an ce D eli sle
 , d ir. g én
-.
 Direction génér ale du suivi de l’état de l’environn em ent Fran ço is
 Ho ud e, d ir. g én
-.
 Direction régi on ale Sagu en ay
 –L ac
 -S ai nt
 -J ean Josée Élém en t, dir
-.
 Direction régi on ale Ch audi èr e-
 Appala ch es
 Ru th D ro uin
@@ -1746,7 +1727,6 @@ Cath er ine B ern ier Gag no n, d ir. ré g. ad j.par i nté rim Direction régi
 , d ir. parint ér im Direction région al e Montré al et
 La val Je an
 -Fra nç ois Oue lle t, dir
-.
 Direction régi on ale Ba s-
 Sa in t-L au re nt
 , Gaspésie et Île sde
@@ -1765,7 +1745,6 @@ M off att
 Direction génér ale de l’évaluation environ nem entale et st ratégique et re sponsable du pô le d’expe rti se -
 Consultatio n auto ch to ne
 Yv es Roc ho n, d ir. g én
-.
 So us
 -ministre adjoint e aux évaluatio ns etaux auto risations enviro nnemen tal es
 M ar ie-
@@ -1780,17 +1759,14 @@ Pô le d
 ’expe rti se
 Consultatio n auto ch to ne
 Direction génér al e de Mont ré al
-,
 La va l,
 Lanaud iè re
 , L aure ntid es et Outaouais et respons abledu p ôle d’expe rti se -
 Muni ci pal Hé lène Prot ea u, d ir. g én
-.
 Direction génér ale de l’Estrieet de la Montérégi e etre sponsable du pôl e d
 ’exp er tise - Indus tri el
 Na th alie Prov os t, dir
 . g én
-.
 Direction région al e Monté ré gie Secteur indus tri el
 Pa ul
 Be no ît, d ir.
@@ -1798,12 +1774,10 @@ Pô le d
 ’expe rti se
 Indu st riel Direction génér ale de la
 Capi ta le
--
 Nationale et d e la Ch audi èr e-
 Appalaches et responsable dupô le d’expe rti se -
 Ag ric ole Ma rie G erm ain
 , d ir. g én
-.
 Pô le d
 ’expe rti se
 Ag ric ole Pô le d
@@ -1839,7 +1813,6 @@ Direction génér ale de laconser vation de la biodiv er sité Je an
 -P ier re
 La nie l, dir
 . g én
-.
 Direction de laconnaissa nce écolog iq ue
 Alexan dr e I ra cà
 , d ir.
@@ -1851,7 +1824,6 @@ Ba s-
 Sa in t-L au re nt
 , C ôt e-
 No rd
-,
 Gaspésie et Île sde
 -la
 -Mad el eine Na th alie Chou ina rd
@@ -1874,10 +1846,8 @@ Mauricie e t C en tre
 Qu éb ec
 Va lér ie
 Grandm on t, dir
-.
 Outa ou ais
 Alexan dr e Oue lle t, dir
-.
 Direction région ale adj oi nte Cô te
 -N ord Stép ha nie Trem bla y-
 Boudre au lt, dir
@@ -1904,7 +1874,6 @@ Direction région ale adj oi nte Es tri e -
 Montér ég ie
 (Brom on t -
 Sherbr oo ke
-)
 Re né e Plamon do n, d ir. ré g. a dj.
 Direction région ale adj oi nte Montér ég ie
 (Longu eu il)
@@ -1979,7 +1948,6 @@ Jean no t Gag no n, ch ef
 Direction génér ale destech nologie s de l’inform at ion
 Séba sti en A lla rd
 , d ir. g én
-.
 Service de l’exploitatio n etév olution des infra struct ur es
 Be no it G uil lot
 , c hef Lo uis Dall air e, chefpar in tér im Service du soutien auxutilisa te urs Ch ris tine Laro uc he

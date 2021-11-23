@@ -305,7 +305,6 @@ Le territoire de Saguenay se divise en trois grandes vocations ayant chacune un 
 Figure 4 : Grandes vocations du territoire de la ville de Saguenay
 Tableau 1 : Principales affectations du sol en territoires municipalisés et territoires non organisés de la MRC du Fjord-du-Saguenay
 Affectations Territoire municipalisé
-%
 Territoire non organisé
 (TNO) %
 Agroforestière 33,4 Moins de 0,01
@@ -2806,7 +2805,6 @@ MRC du Fjorddu-Saguenay à 2011 - Des espaces sont réservés à cette fin dans 
 TIC.15 (Cette initiative n’avaitpas été prévue au PGMR)
 Ville de
 Saguenay
--
 - Les écocentres sont munis d’espaces réservés à la collecte des TIC et sont acheminés au CES pour traitement. Les appareils encore fonctionnels sont utilisés pour le réemploi. Tout lereste est acheminé pour démantèlement, les différentes composantes sont triées.
 - Intégration au programme ARPE (les écocentres sont des points de dépôt reconnus).
 - En 2014, cinq points de dépôt permanents pour les TIC ont été installés sur le territoire de la MRC, soit à l’Anse-Saint-Jean, à Petit-Saguenay, à Saint-David-de-Falardeau, à Saint-

@@ -1564,13 +1564,6 @@ Le 6e Forum international Planèt’ERE s’est déroulé au Québec, en juin 20
 Volet régional au Saguenay – Lac-Saint-Jean
 Sous la présidence d’honneur du Dr. Stanley Vollant, le Forum régional Planèt’ERE Saguenay–Lac-Saint-Jean a eu pour thématique « Bâtir et habiter des environnements favorables à la santé » et a permis d’explorer le rôle de l’éducation dans l’établissement d’environnements favorables aux saines habitudes de vie, à travers de l’expertise et des initiatives jeunesses, professionnelles, citoyennes, municipales et en entreprise. L’évènement s’est déroulé, à tour de rôle, dans les cinq institutions d’enseignement supérieur de la région (UQAC, Cégep de Jonquière, Cégep de
 Chicoutimi, Cégep d’Alma et Cégep de Saint-Félicien).
-� 8 grandes conférences
-� 75 présentations d’initiatives issues du terrain, réparties dans 24 blocs thématiques sur l’alimentation, l’aménagement et la communauté,
-� 9 visites dans le secteur Chicoutimi - Le Fjord et 5 dans le secteur Lac-Saint-Jean, en plus des visites sur les campuset de la visite de Mashteuiatsh
-� 38 exposants à la foire des kiosques.
-� Des activités spéciales de qualité, comme le cocktail d’ouverture, la tournée gastronomique au Lac-Saint-Jean, lasoirée festive et la conférence grand public de François Reeves,
-� Des activités de synthèse et de co-construction à chaque jour, en plus de l’activité de synthèse globale du vendredi juin.
-� 120 à 150 participants chaque jour. Écoresponsabilité Écoresponsabilité
 Naturellement, les organisateurs de l’évènement national ont intégré le volet écoresponsabilité dès le début de la planification.
 Le comité national a préparé un guide pour l’écoresponsabilité pour l’ensemble de l’évènement et à l’attention des comités régionaux. Ce guide présentait les objectifs à atteindre en matière d’écoresponsabilité lesquels suivent la norme BNQ 9700-253en gestion responsable d’événement (transport, gestion des matières résiduelles, retombées économiques locales, énergie, compensation carbone, etc.). Ce guide simplifié visait à permettre aux comités de pilotage des forums régionaux de se conformer aux normes établies par le bureau de normalisation du Québec (BNQ)., en vue d’obtenir la certification d’événement écoresponsable.
 Le comité national a finalement pris la décision de ne pas demander de classification, mais de respecter le plus possible l’ensemble des exigences, sans toutefois faire de reddition de comptes.
@@ -1581,19 +1574,10 @@ Norme BNQ 9700-253 en gestion responsable d’événements
 Le Réseau des femmes en environnement, qui chapeaute le Conseil québécois des événements écoresponsables (CQEER), a mandaté le Bureau de normalisation du Québec (BNQ) pour créer une norme qui encadre la gestion responsable d’événements.
 La norme du BNQ en gestion responsable d’événements (9700-253) sert de cadre de référence pour un programme de certification volontaire. Ce cadre donne aux organisateurs d’événements, aux fournisseurs de services, aux participants et aux utilisateurs la chance de collaborer à la création d’événements qui minimisent l’impact environnemental et augmentent les retombées économiques et sociales dans le milieu.
 Le processus de classification fonctionne avec un système de points utilisant 56 critères de performance, regroupés dans les 5 catégories suivantes :
-� Sélection des fournisseurs;
-� Gestion du matériel, des sources d’énergie et de l’eau;
-� Gestion des matières résiduelles;
-� Sélection de l’alimentation;
-� Sélection des moyens de transport. https://www.bnq.qc.ca/fr/normalisation
 /developpement-durable/gestionresponsable-d-evenements.html http://evenementecoresponsable.com/ normes/ http://www.eureko.ca/virage-vertetcoresponsables/
 Extrait du programme officiel du volet régional du Forum Planet’ERE. RESPONSABILITÉ DE L’ORGANISATEUR QUANT À
 LA SÉLECTION DES FOURNISSEURS
 Un des moyens pour favoriser la prise en compte des principes :
-� de « subsidiarité », de « production et consommation responsables », de « protection de l’environnement » et d’« efficacité économique » est de maximiser les retombées locales positives et de privilégier des lieux de décisions proches du lieu de l’évènement;
-� de « participation et engagement » est de sélectionner des fournisseurs qui adhèrent aux principes de développement durable;
-� d’« internalisation des couts » et de « pollueur-payeur » est de sélectionner des fournisseurs qui prennent encompte les impacts de leurs activités sur l’évènement;
-� des « équité et solidarité sociales » et d’« accès au savoir » est de sélectionner des fournisseurs dont l’organisation dispose d’une structure à caractère social.
 * Siège des fournisseurs
 Il est recommandé à l’organisateur de privilégier des fournisseurs dont le siège est situé à proximité du lieu de l’évènement, afin de maximiser les retombées locales de l’évènement.
 * Succursales des fournisseurs
@@ -1615,9 +1599,6 @@ Le niveau de considération sociale des fournisseurs n’a pas été évalué (o
 GESTION DU MATÉRIEL, DES SOURCES D’ÉNERGIE ET DE L’EAU
 Un des moyens pour favoriser la prise en compte des principes de « protection de l’environnement » et de
 «production et consommation responsables » est notamment d’appliquer le principe des 4 R (repenser, réduire, réutiliser, recycler).
-� La caractéristique de « réduction » est l’utilisation de matériel déjà en place ou la location qui ne nécessite pas de transport ou aucune utilisation de matériel.
-� La caractéristique de « réemploi » est l’utilisation de matériel existant qui exige un transport.
-� La caractéristique de « recyclable » ou « à contenu recyclé » est l’utilisation de matériel qui est composé de matières recyclables ou de contenu recyclé.
 * Caractéristique du matériel
 Il est recommandé à l’organisateur d’appliquer le principe des 4 R (repenser, réduire, réutiliser, recycler) lorsqu’ilchoisit le matériel de l’évènement.
 En choisissant la réduction de l’utilisation des ressources, l’organisateur permet notamment de réduire la demande en produits de toutes sortes et de mieux utiliser les ressources déjà accessibles.
@@ -1630,20 +1611,11 @@ Texte extrait de la norme BNQ 9700-253/20102.1. RESPONSABILITÉ DE L’ORGANISAT
 GESTION DU MATÉRIEL, DES SOURCES D’ÉNERGIE ET DE L’EAU
 * Caractéristique du matériel
 L’organisation a mis en place de nombreuses mesures en lien avec la gestion du matériel.
-� Équipements légers (chaises, etc.): Utilisation des équipements déjà disponibles dans les différents établissements qui accueillaient les activités du Forum.
-� Identification des participants : Des recherches ont été effectuées pour réutiliser des cocardes qui auraient été récupérées lors d’autres événements. Cependant, aucune organisation n’en avait de disponibles. Le choix s'est alors porté sur des cocardes imprimables achetées chez Bureau en gros ;
-� Décors et accessoires : Très peu d’éléments de décoration ont été installés,
 (nappes blanches en tissu sur les tables des participants, pots de finesherbes sur les tables au Cégep de Saint-Félicien, etc.). Installation d’une petite brouette destinée à recueillir les commentaires des participants ;
-� Matériel destiné aux participants : L’organisation a choisi de ne pas remettre de cadeau «matériel» aux participants. Seul un calepin de 8pages a été offert. La couverture du calepin était faite de papier ensemencé ; les participants étaient invités à détacher et conserver la couverture, et déposer les feuilles intérieures dans la brouette bleue aprèsy avoir inscrit des notes qu’ils souhaitaient laisser au Forum (idées, commentaires, etc.) ;
-� Support de signalisation [pendant l’évènement] : Installation de tableaux présentant l’horaire de la journée en cours. Aucune bannière n’a spécifiquement été conçue pour l’événement.
-� Support de diffusion de renseignements et de publicités [avant l’évènement] : Communications majoritairement électroniques ;
-� Support de diffusion de renseignements [pendant l’évènement] :
 L’organisation a fait le choix de ne pas remettre de documentation systématiquement mais plutôt de la laisser en libre service. Une quantité importante de papier a tout de même été utilisée.
-� Support d’inscription : billets électroniques (Eventbrite)
 Mesures mises en œuvre dans le cadre du Forum PLANET’ERE 2.2. RESPONSABILITÉ DE L’ORGANISATEUR QUANT À LA
 GESTION DU MATÉRIEL, DES SOURCES D’ÉNERGIE ET DE L’EAU
 * Caractéristique du matériel (suite)
-� Utilisation de la vaisselle durable (incluant les contenants et les ustensiles) déjà disponible dans les différents établissements qui accueillaient les activités du Forum (3 photos du haut prises à l’UQAC, 2 photos en bas àgauche prise au Collège d’Alma, photo en bas à droite prise au Cégep de Chicoutimi).
 Mesures mises en œuvre dans le cadre du Forum PLANET’ERE (suite) 2.2
 • Consommation de l’énergie et de l’eau / Sources d’énergie
 Aucunes mesures spécifiques d’économie d’énergie et d’eau n’ont été misesen place étant donné que les activités se déroulaient dans divers lieux d’enseignement (Cégeps et Université) dans lesquels des mesures sont déjà existantes. Exemple : Récupération des eaux pluviales au Cégep de
@@ -1662,21 +1634,12 @@ GESTION DES MATIÈRES RÉSIDUELLES
 * Surplus de nourriture
 Aucune redistribution de nourriture à un organisme d’aide aux personnes en difficulté n’avait été prévue. Les quantités de nourriture ont été bien estimées et il n’y a pas eu de surplus de nourriture lors de l’évènement.
 * Système de gestion des matières résiduelles
-� Équipements de gestion des matières recyclables : Tous les sites d’activités disposaient d’un système de gestion des matières recyclables déjà existant (3 photos du haut prises à l’UQAC, photo au milieu à gauche prise au
 Cégep de Chicoutimi, photo au milieu à droite prise au Collège d’Alma, photo du bas à droite prise au Cégep de Saint-Félicien). Tous les bacs disposaient de moyens de signalisation indiquant les types de matières acceptées.
-� Matières : De façon générale, très peu de matières ont été générées dans les différents sites lors des conférences. Bien que prévu initialement, le tri à la source n’a pas eu à être effectué pour retirer les contaminants qui auraient pu être placés par erreur dans le mauvais bac. En effet, l’identification des bacs étaitclaire sur chaque site et les participants étaient très consciencieux..2 Mesures mises en œuvre dans le cadre du Forum PLANET’ERE. RESPONSABILITÉ DE L’ORGANISATEUR QUANT À LA
 GESTION DES MATIÈRES RÉSIDUELLES
 * Système de gestion des matières résiduelles (suite)
-� Compostage : Tous les sites d’activités disposaient d’un système de gestion industrielle des matières compostables déjà existant (note : à
 Saint-Félicien, les corps gras ne pouvaient pas être placés dans le bacde compost et les matières ont donc été rapportées à l’UQAC par l’employée d’EURÊKO!).
-� Durant les dîners, des ilots de gestion des matières résiduelles ont été installés spécifiquement pour faciliter la gestion des déchets des repas.
 Une employée d’EURÊKO! était présente systématiquement pour aider les participants à bien gérer leurs matières. Cette activité a bénéficié de nombreux commentaires des participants qui ont grandement apprécié la présence d’un système de compostage. Étant donné l’utilisation de vaisselle durable, la grande majorité des matières générées lors des repas était compostable. Peu de déchets non valorisables ont été générés lors des repas (uniquement des emballagesde beurre en format individuel)..2 Mesures mises en œuvre dans le cadre du Forum PLANET’ERE (suite)
-� Collations et pauses café « zéro déchets » (critère imposé aux fournisseurs alimentaires par l’organisation du
 Forum) : Utilisation de verres en plastique réutilisable avec pichets d’eau, tasses à café durables, distributeur delait ou pichet pour le lait, nouilles pour remuer le café, etc. Note : les sachets de thé n’étaient pas compostables car composés de nylon et ont du être jetés.
-� Suite à la décision de l’organisation de ne pas réaliser la démarche de certification en gestion responsable d’événement, il a été décidé de ne pas effectuer de pesée et compilation des matières générées par l’évènement. Les raisons suivantes ont amené cette décision :
-� Les équipements de gestion des matières résiduelles utilisés par l’événement sont ceux déjà en place habituellement dans les différents établissements et c’est le personnel régulier qui en assurait la collecte finale.
-� Cette étape aurait généré l’utilisation de sacs en plastique supplémentaires en plus d’entrainer des déplacements supplémentaires pour transporter les équipements (balances pour la pesée à la fin de la journée, etc.) et du temps de coordination supplémentaire.
-� Les mesures mises en place (équipements et personnel d’EURÊKO! présent sur place) permettent de garantirque plus de 95% des matières recyclables et compostables ont été détournées de l’enfouissement.. RESPONSABILITÉ DE L’ORGANISATEUR QUANT À LA
 SÉLECTION DE L’ALIMENTATION
 Un des moyens pour favoriser la prise en compte les principes de « production et consommation responsables », de
 « préservation de la biodiversité », d’« efficacité économique », de « participation et engagement » et de « protection du patrimoine culturel » est de sélectionner l’alimentation qui sera offerte lors de l’évènement pour qu’elle soit produite le plus près possible du lieu de l’évènement et que le producteur démontre qu’il produit ces denrées en respectant le plus possible les écosystèmes et les autres ressources.
@@ -1691,8 +1654,6 @@ SÉLECTION DE L’ALIMENTATION
 Le plus gros volet de la démarche écoresponsable a concerné les services alimentaires. L’organisation a fait le choix de ne servir que des repas végétariens. Ensuite, il a simplement été imposé aux fournisseurs deservir du café certifié biologique et équitable, tout comme le thé. Pour le reste, les fournisseurs ont été invités à faire leur possible. Suite à la décision de l’organisation de ne pas réaliser la démarche de certificationen gestion responsable d’événement, il a été décidé de n’exiger aucunepreuve de la part des fournisseurs..2 Mesures mises en œuvre dans le cadre du Forum PLANET’ERE
 * Produits locaux
 Bien qu’aucune preuve n’ait été exigée de la part des fournisseurs, certaines mesures ont été mises en œuvre par ceux-ci :
-� Bières québécoises (Microbrasserie Archibald) servies lors du cocktail d'ouverture à l’UQAC ;
-� Produits régionaux au menu du Cégep de Saint-Félicien :
 Concombres de la serre Toundra de St-Félicien, tarte au fromage et bleuets.
 Dans le cadre d’un partenariat établi avec la « Zone Boréale » (initiative de la Table agroalimentaire du Saguenay – Lac-Saint-Jean), les concessions qui le souhaitaient pouvaient bénéficier d’un accompagnement pour intégrer davantage de produits régionaux (il semble qu’un fournisseur ait profité du service).
 * Produits reconnus ou certifiés
@@ -1706,13 +1667,8 @@ Il est recommandé de mettre en œuvre les moyens nécessaires afin de réduire 
 Texte extrait de la norme BNQ 9700-253/20105.1. RESPONSABILITÉ DE L’ORGANISATEUR QUANT À LA
 SÉLECTION DES MOYENS DE TRANSPORT
 * Déplacements de l’organisation
-� Le comité national d’organisation du Forum a limité le nombre de rencontres physiques entre le coordonnateur etles comités régionaux, en privilégiant l’organisation de rencontres de planification par videoconférence, ne générant aucun gaz à effet de serre.
-� Dans la région, les réunions ont été réparties sur le territoire, question d'équité territoriale. Tout comme les déplacements effectués par le coordonnateur de l’événement, les déplacements effectués par les membres desdivers comités pour assister aux diverses rencontres préparatoires tenues en 2016 et 2017 ont été compilés aufur et à mesure par une chargée de projets d’EURËKO!.
 * Déplacements des participants
 L’organisation a souhaité mettre en place des mesures permettant l’offre de plusieurs modes de transport (autobus, covoiturage, marche) et visant la réduction des émissions de GES des participants :
-� Des systèmes de navette et de covoiturage événementiel ont été envisagés par l’organisation mais n’ont finalement pas pu être mis en œuvre pour des questions de couts et de logistique.
-� Le mardi après le dîner, les participants ont été invités à se déplacer à la marche entre l’UQAC (où se déroulaient les activités du matin) et le Cégep de Chicoutimi (où se déroulaient les activités de l’après-midi), etpar la même occasion, visiter les aménagements comestibles de l’UQAC et de la Coulée Val-Lomberette situéeentre les deux établissements.
-� Les participants des visites organisées au Saguenay le mardi et au Lac-Saint-Jean le mercredi ont bénéficié d’un transport en autobus scolaire ou en autobus de la Société de transports du Saguenay.
 Les déplacements effectués par les participants pour assister aux diverses activités du Forum ont été pris en note à la table d’accueil chaque journée de l’événement..2 Mesures mises en œuvre dans le cadre du Forum PLANET’ERE
 * Compilation et compensation des émissions
 Tous les des transports effectués par l’organisation et les participants du Forum Planet’ERE ont donc été compilés, sansoublier les déplacements en avion (Québec et international) et autobus et les navettes mises en place par l’événement.

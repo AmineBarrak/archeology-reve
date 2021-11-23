@@ -696,13 +696,9 @@ Tableau 3.2
 Le lieu de naissance des répondants selon le territoire de résidence1
 Territoire de résidence
 Au SLSJ
-%
 Autre région du Québec
-%
 Hors Québec
-%
 Total
-%
 La Baie (n = 374) 83,9abc 12,5a 3,6a 100,0
 Chicoutimi (n = 400) 82,9 def 14,5bd 2,6b 100,0
 Jonquière (n = 379) 82,0 ghi 16,7ce 1,3 100,0
@@ -753,13 +749,9 @@ Tableau 3.4
 L’histoire migratoire des répondants selon le territoire de résidence1
 Territoire de CSSS
 Nés au SLSJ et y ont toujours vécu
-%
 Migrants de retour
-%
 Nés à l’extérieur du SLSJ
-%
 Total
-%
 La Baie (n = 374) 65,6ab 18,2abcde 16,2a 100,0
 Chicoutimi (n = 400) 53,9afg 28,9a 17,2bdg 100,0
 Jonquière (n = 379) 52,4bcde 29,7b 17,9cef 100,0
@@ -862,9 +854,7 @@ Le sentiment d’appartenance des résidants du Saguenay–Lac-Saint-Jean1À la 
 (n = 2271)
 %À la région SLSJ
 (n = 2285)
-%
 Au Québec (n = 2289)
-%
 Très fort 12,6ab 43,3a 46,1b
 Plutôt fort 38,5 41,1 40,1
 (Sous-total) Fort 51,1ab 84,4a 86,2b
@@ -977,10 +967,8 @@ Tableau 3.9
 Le niveau de fierté des résidants du Saguenay–Lac-Saint-Jean envers deux symboles emblématiques1
 Drapeau régional
 (n=2205)
-%
 Appellation de « Bleuet »
 (n=2274)
-%
 Très fiers 46,8a 53,5a
 Plutôt fiers 37,3a 32,7a
 (Sous-total) Fiers 84,1a 86,2a
@@ -1707,16 +1695,12 @@ Q_Couple Vivez-vous actuellement en couple?=*Oui /*Imputer si Q39=1*/=*Non=*Refu
 Q_Enfants0 Y a-t-il des enfants à la charge de votre famille qui vivent chez vous lamoitié du temps ou plus ?=*Oui=*Non->Enfants4=*Refus
 Q_Enfants1 Parmi ces enfants, combien sont âgés de cinq ans ou moins ?
 *8 : NSP : Refus*
-_
 Q_Enfants2 Combien sont âgés de 6 à 17 ans ?
 *8 : NSP : Refus*
-_
 Q_Enfants3 Et combien sont âgés de 18 ans ou plus ?
 *8 : NSP : Refus*
-_
 Q_Enfants4 Enfin, pouvez-vous me dire combien d'enfants, qui ne vivent pas chez vousla moitié du temps ou plus, soit en raison des études ou d’une situation particulière, sont à la charge de votre famille?
 *8 : NSP : Refus*
-_
 /*Légende
 *texte* : Texte non lu, apparaît à l’interviewer; … : Endroit de lecture des choix de réponses dans le texte de question; -> ou ->> : signifie : passez à la question…; 1=, 1= : Question à choix multiples; 1=, 2= : Une seule réponse, à moins d’indications contraires; /*texte*/ : commentaire n’apparaissant pas à l’interviewer*/
 /*Version : F_Annexe2_QuestPsySoc2007_ImageEtSocioDemo*/ /*Page 7*/
@@ -1778,7 +1762,6 @@ Q_Image11a *(Toujours) sur une échelle de 1 à 5, 1 représentant la note la pl
 *texte* : Texte non lu, apparaît à l’interviewer; … : Endroit de lecture des choix de réponses dans le texte de question; -> ou ->> : signifie : passez à la question…; 1=, 1= : Question à choix multiples; 1=, 2= : Une seule réponse, à moins d’indications contraires; /*texte*/ : commentaire n’apparaissant pas à l’interviewer*/
 /*Version : F_Annexe2_QuestPsySoc2007_ImageEtSocioDemo*/ /*Page 11*/=*NSP/Refus
 Q_Image11b pour la diversité des programmes offerts dans ses cégeps et son université
-?
 Q_Image11c pour l’ouverture face aux nouveaux immigrants provenant de pays étrangers ?
 Q_Image11d pour les opportunités d’emploi ?
 Q_Image11e pour la capacité de créer de petites et moyennes entreprises ?

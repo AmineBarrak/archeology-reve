@@ -49,14 +49,11 @@ La troisième partie de la Stratégie présente les priorités régionales, à r
 Enfin, la dernière partie du document précise quels sont les mécanismes de mise en œuvre de la Stratégie qui ont été déterminés et qui permettent d’atteindre les objectifs prescrits.
 TABLE DES MATIÈRES
 PREMIÈRE PARTIE
-LE SOUTIEN À L’OCCUPATION ET À LA VITALITÉ DES TERRITOIRES : HISTORIQUE ET OUTILS FINANCIERS ������� 8
 Un bref retour historique ........................................................................................................................................................................9
 Des fonds pour les régions ...................................................................................................................................................................11
 DEUXIÈME PARTIE
-LES OBJECTIFS DE LA STRATÉGIE ���������������������������������������������������������������������������������������������������������������������������� 14
 Les objectifs ...........................................................................................................................................................................................16
 TROISIÈME PARTIE
-LES CHAPITRES RÉGIONAUX ������������������������������������������������������������������������������������������������������������������������������������� 18
 Les priorités de l’Abitibi-Témiscamingue .............................................................................................................................................19
 Les priorités du Bas-Saint-Laurent .....................................................................................................................................................23
 Les priorités de la Capitale-Nationale .................................................................................................................................................26
@@ -76,7 +73,6 @@ Les priorités du Nord-du-Québec ..............................................
 Les priorités de l’Outaouais ..................................................................................................................................................................87
 Les priorités du Saguenay–Lac-Saint-Jean .........................................................................................................................................90
 QUATRIÈME PARTIE
-LA MISE EN ŒUVRE, POUR ARRIMER LES INTERVENTIONS AUX PRIORITÉS DES RÉGIONS ������������������������������ 96
 Les élus municipaux .............................................................................................................................................................................97
 Les ministères et organismes du gouvernement ................................................................................................................................97
 Les ministres responsables des régions ..............................................................................................................................................99
@@ -204,26 +200,18 @@ LES CHAPITRES
 RÉGIONAUXSTRATÉGIE GOUVERNEMENTALE POUR ASSURER L’OCCUPATION ET LA VITALITÉ DES TERRITOIRES 2018-2022
 LE
 S P
-R
 IO
-R
 ITÉ S D
-E
 L’
-A
 B
 IT
 IB
 I-
 TÉ M
 IS
-C
 A
-M
 IN
-G
 U
-E
 Située à la frontière de l’Ontario, la région de l’Abitibi-Témiscamingue a connu une légère augmentation de sa population au cours des dix dernières années. Cette situation est davantage due au taux de fécondité plus élevé que dans l’ensemble du Québec, puisque le solde migratoire de la région est négatif. La population témiscabitibienne est plutôt parseméesur le territoire : par exemple, les localités de moins de 1 000 personnes regroupent près du cinquième de la population régionale comparativement à environ 3 % pour l’ensemble du
 Québec. Seules trois municipalités comptent plus de 10 000 habitants, soit Rouyn-Noranda,
 Val-d’Or et Amos. Sept communautés algonquines sont aussi présentes dans la région.
@@ -292,24 +280,16 @@ De plus, une réduction des services de Nav Canada pourrait affecter la qualité
 Le transport par rail, une option intéressante pour remplacer le transport lourd par camion, selon les élus régionaux, est également problématique compte tenu de l’état des voies et de la disponibilité des wagons. La région souhaite donc améliorer la qualité du réseau ferroviaire.STRATÉGIE GOUVERNEMENTALE POUR ASSURER L’OCCUPATION ET LA VITALITÉ DES TERRITOIRES 2018-2022
 LE
 S P
-R
 IO
-R
 ITÉ S D
-U
 B
-A
 S
 -S
-A
 IN
 T-
 LA
-U
 R
-E
 N
-T
 La région du Bas-Saint-Laurent est située sur la rive sud de l’estuaire du Saint-Laurent.
 Elle est bordée par l’État du Maine et le Nouveau-Brunswick au sud, par la région de la Chaudière-Appalaches à l’ouest et par celle de la Gaspésie–Îles-de-la-Madeleine à l’est.
 Une proportion importante de la population se concentre dans les villes de Rimouski, de Rivière-du-Loup et de Matane. Ces villes regroupent à elles seules environ 40 % des résidents de la région. L’autre proportion est répartie dans des municipalités qui recensentsouvent moins de 1 000 personnes. Au cours des dix dernières années, la population a connuune légère diminution qui s’est davantage manifestée dans les milieux ruraux. La rétention des personnes représente donc un défi important pour les collectivités et les entreprises, notamment en ce qui concerne les individus âgés de 15 à 29 ans.
@@ -371,22 +351,15 @@ Développer l’accès à la culture pour l’ensemble de la populationÀ cet ef
 STRATÉGIE GOUVERNEMENTALE POUR ASSURER L’OCCUPATION ET LA VITALITÉ DES TERRITOIRES 2018-202226
 LE
 S P
-R
 IO
-R
 ITÉ S D
-E
 LA C
-A
 P
 IT
-A
 LE
 -N
-A
 T
 IO
-N
 A
 LE
 La région de la Capitale-Nationale est située au centre du Québec, bordée par le fleuve
@@ -454,22 +427,14 @@ Toutefois, concrétiser la vocation culturelle et favoriser le maintien d’infr
 STRATÉGIE GOUVERNEMENTALE POUR ASSURER L’OCCUPATION ET LA VITALITÉ DES TERRITOIRES 2018-202230
 LE
 S P
-R
 IO
-R
 ITÉ S D
-U
 C
-E
 N
-T
 R
-E
 -D
-U
 -Q
 UÉ B
-E
 C
 Créée en 1997, la région du Centre-du-Québec se caractérise par sa position géographique centrale, à mi-chemin entre la métropole et la capitale. Situé sur la rive sud du fleuve
 Saint-Laurent, le Centre-du-Québec est bordé par les régions de la Mauricie au nord, de l’Estrie au sud, de la Chaudière-Appalaches à l’est et de la Montérégie à l’ouest.
@@ -540,27 +505,17 @@ Plus particulièrement, le milieu établira une stratégieglobale de promotion, 
 STRATÉGIE GOUVERNEMENTALE POUR ASSURER L’OCCUPATION ET LA VITALITÉ DES TERRITOIRES 2018-202234
 LE
 S P
-R
 IO
-R
 ITÉ S D
-E
 LA C
-H
 A
-U
 D
 IÈ
-R
 E
 -A
 P
-P
-A
 LA
-C
 H
-E
 S
 La région de la Chaudière-Appalaches est située dans la partie sud du Québec, entre le fleuve Saint-Laurent et la frontière américaine. Sa population est en croissance depuis les dix dernières années. Cependant, à ce sujet, on constate des disparités entre les territoires : alors que, dans certains cas, la population a augmenté de façon importante (en borduredes axes autoroutiers), d’autres secteurs ont connu une décroissance, notamment dans les MRC situées plus à l’est.
 Le territoire est, entre autres, caractérisé par un secteur agricole fort. La région est d’ailleurs la deuxième en importance au Québec par rapport aux revenus générés par les entreprises agricoles. Les industries laitières, porcines et acéricoles y sont prédominantes. Par ailleurs, une importante portion du territoire, notamment au sud et à l’est, est composée de secteurs forestiers. Ces derniers sont essentiellement de tenure privée.
@@ -640,17 +595,11 @@ Malgré une bonne performance économique et un tauxde chômage faible, des prob
 En s’appuyant sur les outils financiers mis à sa disposition, notamment l’Alliance pour la solidarité,la région souhaite soutenir les initiatives touchant les déterminants sociaux de la santé, notamment le logement et la sécurité alimentaire. On vise égalementà lutter contre les préjugés liés aux personnes en situation de vulnérabilité.STRATÉGIE GOUVERNEMENTALE POUR ASSURER L’OCCUPATION ET LA VITALITÉ DES TERRITOIRES 2018-2022
 LE
 S P
-R
 IO
-R
 ITÉ S D
-E
 LA CÔ T
-E
 -N
-O
 R
-D
 La Côte-Nord est un vaste territoire se situant au nord-est du Québec. Bordée par l’estuaire du Saint-Laurent et le golfe du même nom au sud-est, la région est limitrophe du Labrador au nord-est et du Saguenay–Lac-Saint-Jean à l’ouest. Son territoire, composé d’une partie maritime, d’une route linéaire, d’un littoral assujetti à un processus dynamique d’érosion et d’un arrière-pays, est à l’origine de la pluralité et de la diversité de l’environnement.
 Une grande variété de paysages et d’habitats ainsi qu’une diversité de richesses naturelles la caractérisent également. Sa connectivité physique au reste de la province et du pays reste cependant limitée en raison des barrières naturelles que sont la rivière Saguenay, le fleuve
 Saint-Laurent et le golfe du Saint-Laurent de même que de son réseau routier incomplet.
@@ -717,15 +666,10 @@ Les activités de réseautage et de concertation devrontainsi être encouragées
 Le rôle de la conférence administrative régionale doit être renforcé. L’implantation ainsi que le maintien des centres décisionnels et des services gouvernementauxdoivent être soutenus. Il faut finalement intensifier les relations et les alliances entre les peuples autochtoneset non autochtones.STRATÉGIE GOUVERNEMENTALE POUR ASSURER L’OCCUPATION ET LA VITALITÉ DES TERRITOIRES 2018-2022
 LE
 S P
-R
 IO
-R
 ITÉ S D
-E
 L’
-E
 S
-T
 R
 IE
 L’Estrie se situe au sud-est du Québec et partage une frontière commune avec les États-Unis sur plus de 300 km. La population estrienne est en bonne croissance depuis dix ans, principalement grâce aux localités situées dans l’agglomération de Sherbrooke.
@@ -813,13 +757,9 @@ L’Estrie est une région prisée particulièrement pourses milieux naturels qu
 STRATÉGIE GOUVERNEMENTALE POUR ASSURER L’OCCUPATION ET LA VITALITÉ DES TERRITOIRES 2018-202248
 LE
 S P
-R
 IO
-R
 ITÉ S D
-E
 LA G
-A
 S
 PÉ S
 IE
@@ -895,25 +835,16 @@ Pour sa part, le secteur agroalimentaire connaîtdes enjeux relatifs à l’effi
 Finalement, l’industrie forestière gaspésienne faitaussi face à de nombreux défis. Le milieu régional s’attend à un engagement gouvernemental qui favorise les occasions d’affaires et qui aboutit à des solutions permettant l’écoulement des sous-produits du sciage et le développement d’activités de deuxième et troisième transformation. La région dispose également d’un important potentiel acéricole et souhaite que son développement soit accéléré.STRATÉGIE GOUVERNEMENTALE POUR ASSURER L’OCCUPATION ET LA VITALITÉ DES TERRITOIRES 2018-2022
 LE
 S P
-R
 IO
-R
 ITÉ S D
-E
 S ÎL
-E
 S
 -D
-E
 -L
-A
 -M
-A
 D
-E
 LE
 IN
-E
 En plus de la péninsule gaspésienne, la région de la Gaspésie–Îles-de-la-Madeleine secompose de l’archipel des Îles-de-la-Madeleine. Formées d’îlots rocheux et de dunes qui les relient, les Îles-de-la-Madeleine couvrent un total d’environ 200 km2, dont 37 % en territoire public. Le territoire est situé au milieu du golfe du Saint-Laurent, à 105 km de l’Île-du-Prince-Édouard, à 95 km du Cap-Breton et à 215 km de la péninsule gaspésienne.
 Pour se rendre dans la région, il faut donc emprunter les liens aériens ou la voie maritimeen passant par l’Île-du-Prince-Édouard.
 La population de l’archipel est surtout concentrée sur l’île centrale où se trouvent les collectivités de Cap-aux-Meules, Fatima et L’Étang-du-Nord. Bien que la populationtotale soit en décroissance depuis les années 90, on remarque un solde migratoire positifdepuis trois ans et, récemment, l’Institut de la statistique du Québec a annoncé une légère augmentation de la population en 2018.
@@ -974,18 +905,12 @@ L’apport du gouvernement est essentiel au maintien d’une offre de service de
 Une collaboration gouvernementale est aussi souhaitée pour favoriser l’accès à la culture de même que pour préserver et mettre en valeur le patrimoine.STRATÉGIE GOUVERNEMENTALE POUR ASSURER L’OCCUPATION ET LA VITALITÉ DES TERRITOIRES 2018-2022
 LE
 S P
-R
 IO
-R
 ITÉ S D
-E
 LA
-N
 A
-U
 D
 IÈ
-R
 E
 La région de Lanaudière est située sur la rive nord du fleuve Saint-Laurent entre les régions des Laurentides et de la Mauricie. Elle connaît depuis 10 ans une forte croissance démographique, l’une des plus importantes parmi les régions du Québec. Notons cependantque cette croissance se concentre davantage au sud-ouest du territoire.
 L’économie de Lanaudière est orientée vers le secteur des services. Le bioalimentaireet la foresterie représentent également des secteurs importants. Par ailleurs, l’industrie du tourisme est en forte progression.
@@ -1051,20 +976,13 @@ Soutenir et bonifier les produits d’appelet les événements culturels et tour
 Si la région de Lanaudière est une destination de plusen plus prisée sur le plan touristique et culturel, il est souhaitable que des initiatives visant le développement de nouveaux produits d’appel innovants soient déployées.STRATÉGIE GOUVERNEMENTALE POUR ASSURER L’OCCUPATION ET LA VITALITÉ DES TERRITOIRES 2018-2022
 LE
 S P
-R
 IO
-R
 ITÉ S D
-E
 S
 LA
-U
 R
-E
 N
-T
 ID
-E
 S
 Délimitée par la région de l’Outaouais et l’Ontario à l’ouest et par la région de Lanaudière à l’est, la région des Laurentides est située juste au nord des régions de Montréal et de Laval.
 Encore agricole, la région est notamment reconnue comme un endroit de villégiature oùle plein air, la gastronomie et l’hébergement touristique fleurissent. Au cours des années,de plus en plus de citoyens s’y sont installés, profitant de la diversité de ses activités économiques et industrielles de même que des milieux de vie agréables.
@@ -1112,15 +1030,10 @@ Laurentides doivent aussi continuer de se positionnercomme leader dans ce domai
 STRATÉGIE GOUVERNEMENTALE POUR ASSURER L’OCCUPATION ET LA VITALITÉ DES TERRITOIRES 2018-202264
 LE
 S P
-R
 IO
-R
 ITÉ S D
-E
 LA
-V
 A
-L
 Laval se distingue en étant à la fois une ville, une MRC et une région administrative, ce quilui confère une grande force de concertation. Troisième municipalité la plus populeuse au
 Québec, la ville de Laval est en pleine croissance, notamment grâce à l’immigration qui représente le quart de la population totale. Dans la région, le milieu urbain côtoie une zone agricole permanente qui occupe 30 % du territoire et des milieux naturels, dont le parc de la Rivière-des-Mille-Îles.
 Les secteurs clés de l’économie lavalloise sont l’aérospatiale, l’agroalimentaire et le commerce de détail. Le centre-ville de Laval, où se côtoient le savoir, l’innovation et les affaires, propose aussi un milieu culturel dynamique et une offre en divertissement enviable.
@@ -1188,15 +1101,10 @@ Laval s’est engagée à élaborer et à mettre en œuvre un plan d’atténuat
 Les intervenants régionaux privilégient des actions touchant le développement écoresponsable du territoire lavallois (conservation des milieux naturels, résilienceface aux phénomènes climatiques extrêmes, luttecontre les îlots de chaleur, etc.), de même que la mobilité durable, la transition énergétique, la réduction de la dépendance aux combustibles fossiles et la sainegestion des matières résiduelles.STRATÉGIE GOUVERNEMENTALE POUR ASSURER L’OCCUPATION ET LA VITALITÉ DES TERRITOIRES 2018-2022
 LE
 S P
-R
 IO
-R
 ITÉ S D
-E
 LA M
-A
 U
-R
 IC
 IE
 La région de la Mauricie est située à mi-chemin entre Montréal et Québec, couvrantun vaste territoire borné au sud par le fleuve Saint-Laurent et s’étendant jusqu’à la région du Nord-du-Québec. Depuis les dix dernières années, sa population est en constante croissance, quoique faiblement. Cependant, à ce sujet, on constate des disparités entre les territoires. Dans certains cas, comme dans la ville de Trois-Rivières qui regroupe déjà lamoitié de la population de la région, le nombre de résidents a augmenté de façon importante.
@@ -1271,13 +1179,9 @@ Pour pallier ces problématiques, la région souhaite soutenir et promouvoir des
 Les décideurs et la population devront être sensibilisésaux impacts des changements climatiques. Finalement, la protection et la conservation de la biodiversité etdes milieux naturels sont à privilégier, tout comme le maintien et l’amélioration de la qualité de l’eau,des sols et de l’air.STRATÉGIE GOUVERNEMENTALE POUR ASSURER L’OCCUPATION ET LA VITALITÉ DES TERRITOIRES 2018-2022
 LE
 S P
-R
 IO
-R
 ITÉ S D
-E
 LA M
-O
 N
 TÉ RÉ G
 IE
@@ -1351,17 +1255,11 @@ Or, elle fait face à de nombreux enjeux liés au transport des personnes et des
 Finalement, les élus de la Montérégie veulent êtreépaulés dans l’instauration de nouvelles façons de faireen matière de transport collectif. Le décloisonnementdes types de transport (scolaire, adapté, collectif) visant à optimiser les coûts doit entre autres être exploré.STRATÉGIE GOUVERNEMENTALE POUR ASSURER L’OCCUPATION ET LA VITALITÉ DES TERRITOIRES 2018-2022
 LE
 S P
-R
 IO
-R
 ITÉ S D
-E
 M
-O
 N
-T
 RÉ A
-L
 La région de Montréal se situe au sud-ouest du Québec, entre les régions de Laval et de la Montérégie. Métropole du Québec, elle regroupe le quart de la population québécoiseet se caractérise par une forte urbanisation. Sa population se distingue également par sa diversité, puisqu’une personne sur trois y est d’origine immigrante.
 Montréal contribue largement au développement et au rayonnement du Québec à l’étrangergrâce à ses activités économiques et scientifiques d’envergure mondiale dans plusieurs secteurs tels que le jeu vidéo, les effets visuels, l’aérospatiale, les sciences de la vie ainsique les technologies de l’information. Son influence sur le plan de la culture est également considérable. Que ce soit pour son design, ses réalisations artistiques remarquées, ses industries créatives ou sa scène événementielle, la région contribue avec les créateurs de l’ensemble du Québec à la notoriété de la société québécoise dans les réseaux internationaux.
 La région est en outre la plaque tournante du transport des marchandises et des exportations québécoises, avec près des deux tiers des entreprises exportatrices. Montréal offre finalement une concentration de services spécialisés propre à une métropole, en plus d’êtrele siège d’un grand nombre d’organisations internationales, dont certaines onusiennes.
@@ -1450,20 +1348,13 @@ Une mobilité durable et intégrée pour ce territoire passe notamment par la mi
 STRATÉGIE GOUVERNEMENTALE POUR ASSURER L’OCCUPATION ET LA VITALITÉ DES TERRITOIRES 2018-202282
 LE
 S P
-R
 IO
-R
 ITÉ S D
-U
 N
-O
 R
-D
 -D
-U
 -Q
 UÉ B
-E
 C
 La région du Nord-du-Québec couvre environ la moitié de la superficie du Québec.
 Le territoire est peu peuplé (moins de 0,1 habitant/km2) et la population est dispersée ausein de communautés souvent isolées les unes des autres. La population est en croissance,ce qui s’explique par un taux de fécondité supérieur et une population plus jeune qu’ailleurs au Québec. Cependant, ces caractéristiques se manifestent dans les communautés cries et les villages nordiques, tandis que la tendance démographique est négative dans les villes et localités jamésiennes.
@@ -1530,18 +1421,12 @@ La population crie connaît une croissance bien supérieure à la moyenne régio
 Les organisations touristiques, par leur proximité et leur interdépendance, ont naturellement établi un partenariat leur permettant de mener des projets conjoints. La situation récréotouristique actuelle pourrait s’avérer une occasion de penser différemment l’offre touristique régionale.STRATÉGIE GOUVERNEMENTALE POUR ASSURER L’OCCUPATION ET LA VITALITÉ DES TERRITOIRES 2018-2022
 LE
 S P
-R
 IO
-R
 ITÉ S D
-E
 L’
-O
 U
 TA
-O
 U
-A
 IS
 La région de l’Outaouais est située au sud-ouest du Québec, à la frontière de l’Ontarioet de la capitale canadienne. Sa population s’est distinguée par une forte croissance aucours des dix dernières années. Elle se concentre cependant davantage au sud, le long dela rivière des Outaouais, notamment dans la ville de Gatineau. En fait, près des trois quartsde la population de la région se concentrent dans cette municipalité.
 L’économie de la région repose essentiellement sur le secteur tertiaire, et plus particulièrement les services publics, bien que l’agriculture et la foresterie demeurent des secteurs d’activité importants dans les milieux ruraux.
@@ -1590,29 +1475,18 @@ Par ailleurs, sa situation frontalière peut être envisagéecomme un avantage d
 STRATÉGIE GOUVERNEMENTALE POUR ASSURER L’OCCUPATION ET LA VITALITÉ DES TERRITOIRES 2018-202290
 LE
 S P
-R
 IO
-R
 ITÉ S D
-U
 S
-A
 G
-U
 E
-N
 A
-Y
 –
 LA
-C
 -S
-A
 IN
 T-
-J
 E
-A
 N
 La région du Saguenay–Lac-Saint-Jean est située au nord de la région de la Capitale-Nationaleet est bordée à l’est par la région de la Côte-Nord et à l’ouest par la région du Nord-du-Québec.
 Globalement, la région a connu une faible hausse de sa population au cours des dix dernières années. Plus de la moitié de celle-ci se trouve dans la ville de Saguenay.

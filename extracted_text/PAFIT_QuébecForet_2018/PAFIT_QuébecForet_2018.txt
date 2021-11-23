@@ -767,7 +767,6 @@ Notes : Les PRAU sont associés à des détenteurs de permis pour récolte de bo
 Droits forestiers
 Bénéficiaire de garantie d’approvisionnement
 Usine
-√
 Localité Région TA Activité Essence
 Volume GA Nord-du-
 Québec (m³)
@@ -803,7 +802,6 @@ SEPM 135 900, 8663, 8664, 8665,
 GA
 Produits forestiers Résolu
 (Comtois)
-√
 Lebel-sur-
 Quévillon 048
 Sciage bois d’œuvre
@@ -830,7 +828,6 @@ GA Forex-Amos inc. (LVL) √ Amos 08 402
 Placage de bois lamellé
 Peupliers 35200 8551, 8652, 8751
 GA Forex-Amos inc. (OSB)
-√
 Amos 08 442
 Panneaux de lamellés orientés
 Peupliers 28 500 08751, 08763
@@ -1721,72 +1718,41 @@ Projet de PAFIT modifié pour la période 2018-2023 – Région Nord-du-Québec 
 Tableau 21 Scénarios sylvicoles retenus (R15) Types forestiers
 Ep x
 Ep x
-P
 G
 Ep x
-S
 B
 Ep x
-M
 L
 Ep x
-F
 X
-P
 G
 Pg Pg En Pg Fx Gradient d'intensité
 Végétation potentielle
-R
 E
-R
 E
-R
 S
-M
 E
-R
 E
-R
 E
-R
 S
-M
 E
-R
 S
-M
 S
-R
 S
-R
 E
-M
 E
-M
 S
-R
 S
-M
 E
-R
 E
-R
 S
-M
 S
-M
 E
-M
 S
-R
 E
-R
 S
-M
 E
-M
 S
-R
 S
 Scénarios sylvicoles
 Intensif CPRS-EPC-EC X X X X X X X X X X
@@ -1802,31 +1768,18 @@ Extensif CPPTM X X X X X X X X
 Extensif CPRS X X X X X X X X X X X X X X X X X X X X X X X X X Types forestiers
 Sb Rx Sb Bp Bp Bp Rx Pe Pe Rx Gradient d'intensité
 Végétation potentielle
-M
 S
-R
 S
-M
 S
-R
 S
-M
 S
-M
 J
-M
 S
-R
 S
-M
 E
-M
 S
-M
 E
-M
 S
-R
 S
 Scénarios sylvicoles
 Intensif CPRS-EPC-EC X X X

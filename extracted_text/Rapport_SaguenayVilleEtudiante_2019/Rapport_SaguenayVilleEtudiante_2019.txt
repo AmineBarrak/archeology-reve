@@ -2009,14 +2009,12 @@ Gestion d'un établissement de restauration
 C Arts visuels C Techniques d'éducation à l'enfance FP
 Conseil et vente de pièces d'équipement motorisé
 FP Électricité
-C
 Technologie d'analyses biomédicales
 M Maîtrise par cumul – Éco-conseil FP Vente-conseil B Intervention plein air C Arts, lettres et communication B Psychologie FP
 Conseil technique en entretien et en réparation de véhicules
 FP Arpentage et topographie
 C Techniques d'inhalothérapie D Sciences de l'environnement FP Vente-conseil automobile C
 Techniques de communicationdans les médias
-B
 Enseignement de l'éducation physique et à la santé
 FP Carrosserie FP Entretien général d'immeubles
 C Soins infirmiers D
@@ -2033,7 +2031,6 @@ B Enseignement au secondaire FP Électromécanique de systèmes automatisés
 C Technologie de l'architecture
 C Soins préhospitaliers d'urgence C Sciences humaines B Linguistique et langue française B Enseignement professionnel FP
 Mécanique industrielle construction et entretien
-C
 Techniques d'aménagement et d'urbanisme
 C Techniques de physiothérapie C
 Techniques de comptabilitéet de gestion
@@ -2041,7 +2038,6 @@ B Langues modernes B
 Enseignement en adaptation scolaire et sociale
 FP
 Mécanique d'entretien en commandes industrielles
-C
 Technologie de la mécanique du bâtiment
 C Techniques de diététique C Gestion de commerces B Études littéraires françaises B Histoire FP Mécanique de véhicules légers B Génie civil
 B Kinésiologie C Techniques de l'informatique B
@@ -2064,13 +2060,10 @@ Sciences informatiques et mathématiques
 M Sciences cliniques et biomédicales B Génie informatique M Lettres M Travail social C Technologie de l'électronique
 M Sciences infirmières B Informatique de gestion M Linguistique D Développement régional C
 Technologie de l'électronique industrielle
-M
 Sciences infirmières - soins de première ligne
 B Mathématique D Lettres D Éducation C Techniques de laboratoire
-M
 Sciences infirmières - santémentale et soins psychiatriques
 B Conception de jeux vidéo C Techniques de génie mécanique
-M
 Sciences appliquées en physiothérapie
 M Administration des affaires C Techniques du génie industriel
 D Biologie M Gestion de projet C
@@ -2079,15 +2072,12 @@ D Psychologie M Gestion des organisations C
 Techniques de procédés industriels
 D Médecine M
 Maîtrise par cumul – Sciences comptables
-C
 Technologie du génie métallurgique
 M Informatique B Génie mécanique
 M Informatique – Jeux vidéo B Génie électrique
 D Management de projet M
 Ingénierie (mécanique, métallurgique, informatique)
-D
 Sciences et technologies de l'information
-D
 Ingénierie (mécanique, métallurgique, informatique)
 Adapté d'un outil produit par les établissements d'enseignement de Saguenay pour les besoins de promotion des programmes d'enseignement durant le Salon de l'éducation ZigZag.
 Offre de programmes d'études à la formation professionnelle, à la formation collégiale et à l'université sur le territoire de la ville de Saguenay par secteur d'activités

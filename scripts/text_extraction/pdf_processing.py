@@ -107,6 +107,14 @@ def space_remove(text):
 	text=re.sub(r'(\s)+',  r'\1', text)
 	return text
 
+def remove_weird_characters(text):
+	text=re.sub(r'.*�.*\n',  r'', text)
+
+	return text
+
+def remove_one_char_line(text):
+	text =re.sub(r'\n.?\n',  r'\n', text)
+	return text
 
 
 def text_preprocessing(text, output_file):
@@ -122,6 +130,8 @@ def text_preprocessing(text, output_file):
 	
 	text = remove_empty_lines(text)
 	text = link_dashed_word(text)
+	text = remove_weird_characters(text)
+	text = remove_one_char_line(text)
 	
 	# ~ for line in text.splitlines():
 		# ~ print(line)
@@ -231,12 +241,13 @@ def main():
 		images_extraction(file_path, folder_save_image)
 
 
-def count_loss_percentages()
+
+def count_loss_percentages():
 	PATH="../../dataset/straight/"
 	RES_PATH="../../extracted_text/"
 	files_paths = [os.path.join(dp, f) for dp, dn, filenames in os.walk(PATH) for f in filenames if os.path.splitext(f)[1] == '.pdf']
 	
-	nbr_caracter_moyen_usage = 4.8
+	nbr_caracter_moyen_usage = 5.13
 	nbr_caracter_moyen_dict = 10.09
 
 	nbr_total_files = len (files_paths)

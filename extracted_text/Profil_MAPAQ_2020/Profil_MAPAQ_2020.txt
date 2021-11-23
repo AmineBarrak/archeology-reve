@@ -13,9 +13,6 @@ PRÉSENTATION Il s’agit du PIB réel aux prix de base (année de référence 2
 (hôtellerie et marché institutionnel) et les autres circuits de distribution (ex. : marchés publics). En incluant ces derniers, le PIB réel atteint,2 G$. Les données du PIB réel présentées pour l’industrie bioalimentaire et ses secteurs ne prennent pas en compte le cannabis.
 L’industrie bioalimentaire du Québec se distingue par la qualité et la diversité de ses produits, qui reflètent les territoires dontils sont issus, et le savoir-faire de ses artisans. Cette industrie dynamique s’appuie sur une variété de productions animales et végétales, sur la pêche et l’aquaculture, sur la transformation bioalimentaire, sur des créneaux de marchés incluant une vasteoffre de proximité ainsi que sur l’agrotourisme et la gastronomie.
 L’industrie bioalimentaire génère d’importantes retombées économiques. Elle constitue un puissant levier pour les régions et peut contribuer à la stabilisation de l’économie régionale et de l’ensemble du Québec. Faisant partie intégrante du milieu rural, l’industrie bioalimentaire joue aussi un rôle déterminant dans la conservation du patrimoine, l’occupation du territoire et le maintien du tissu social. Réparties sur tout le territoire, les entreprises bioalimentaires ont contribué à la vitalité des régions en procurant plus de 530 000 emplois en 2019 et en générant un produit intérieur brut (PIB) réel de 27,2 milliards de dollars (G$).1
-Le Profil régional de l’industrie bioalimentaire au Québec – Estimations pour l’année 2019, permet d’apprécier l’apport de cette industrie et de ses secteurs (agriculture, pêches maritimes, transformation bioalimentaire, commerce de gros et commercede détail alimentaires et restauration commerciale) dans chacune des régions administratives. Il répond aussi au besoin de disposer d’une information de qualité à l’échelle régionale. À l’aide de tableaux, de ratios et de graphiques concernant tous les secteurs de l’industrie, cette publication présente des estimations, région par région, pour les indicateurs ci-dessous : � Produit intérieur brut; � Recettes agricoles en provenance du marché; � Débarquements des pêches maritimes; � Livraisons manufacturières; � Ventes du commerce de gros et du commerce de détail ainsi que de la restauration; � Emplois; � Investissements; � Nombre d’exploitations agricoles; � Nombre d’établissements.
-Le profil présente également, pour chaque région, ses atouts, ses spécificités, ses défis particuliers ainsi que ses activités de production et de transformation distinctives. Il fournit de plus les statistiques suivantes : � Superficies agricoles et leurs parts du territoire; � Nombre de marchés publics et de fermes qui font de la vente directe; � Superficies et nombre d’entreprises qui possèdent la certification biologique; � Nombre de microbrasseries, de vignobles et de distilleries.
-Enfin, des données socio-économiques générales sont disponibles dans le document : � Population; � Revenu disponible des ménages par habitant; � Produit intérieur brut de l’ensemble de l’économie; � Emplois totaux.
 CARTE DES RÉGIONSPROFIL RÉGIONAL DE L’INDUSTRIE BIOALIMENTAIRE AU QUÉBEC | ESTIMATIONS POUR L’ANNÉE 2019
 TABLE DES MATIÈRES
 AVERTISSEMENT 10
@@ -139,7 +136,6 @@ Monté ré gie Ce nt re
 -d u-
 Qu éb ec
 Ensem ble du Q ué bec 10 12
-%
 %PROFIL RÉGIONAL DE L’INDUSTRIE BIOALIMENTAIRE AU QUÉBEC | ESTIMATIONS POUR L’ANNÉE 2019
 PORTRAIT SYNOPTIQUE PAR RÉGION. BAS!SAINT!LAURENT. SAGUENAY"LAC!SAINT!JEAN. CAPITALE!NATIONALE. MAURICIE. ESTRIE. MONTRÉAL. OUTAOUAIS. ABITIBI!TÉMISCAMINGUE ET 10. CÔTE!NORD ET NORD!DU!QUÉBEC. GASPÉSIE"ÎLES!DE!LA!MADELEINE. CHAUDIÈRE!APPALACHES. LAVAL. LANAUDIÈRE. LAURENTIDES. MONTÉRÉGIE. CENTRE!DU!QUÉBECPROFIL RÉGIONAL DE L’INDUSTRIE BIOALIMENTAIRE AU QUÉBEC | ESTIMATIONS POUR L’ANNÉE 2019 BAS!SAINT!LAURENT
 KAMOURASKA
@@ -158,8 +154,6 @@ DÉBARQUEMENTS DES PÊCHES
 MARITIMES : 20 M$
 RECETTES EN PROVENANCE
 DU MARCHÉ : 547 M$
-LES ATOUTS, LES SPÉCIFICITÉS... � Abattoir sous inspection provinciale � Types de sols diversifiés, terres agricoles de qualité à prix abordable � Centres de formation et d’expertise agricole et agroalimentaire de qualité
-LES DÉFIS... � Trouver de jeunes entrepreneurs pour plus de 450 entreprises sans relève � Augmenter la transformation bioalimentaire dans la région � Maintenir une agriculture diversifiée et une occupation dynamique du territoire
 AGRICULTURE TRANSFORMATION
 RÉPARTITION DES ÉTABLISSEMENTS
 TOTAL 92
@@ -256,8 +250,6 @@ AGRICOLES : 1 157
 SUPERFICIE AGRICOLE : kha (4 % du territoire)
 RECETTES EN PROVENANCE
 DU MARCHÉ : 332 M$
-LES ATOUTS, LES SPÉCIFICITÉS... � Image de marque pour l’industrie agroalimentaire régionale mise en avant par la stratégie de positionnement Zone boréale � Créneau d’excellence AgroBoréal, qui se caractérise par une forte concentration d’entreprises de production et de transformation exploitant le terroir boréal � Développement de la culture de la camerise au cours des dernières années � Premier rang au Québec pour les superficies de cultures et de pâturages biologiques avec 20 096 hectares
-LES DÉFIS... � Accroître la représentativité du secteur de la transformation alimentaire � Trouver une réponse à l’éloignement des marchés � S’adapter à des conditions climatiques plus limitatives
 TRANSFORMATION
 RÉPARTITION DES ÉTABLISSEMENTS
 TOTAL 102
@@ -350,8 +342,6 @@ AGRICOLES : 983
 SUPERFICIE AGRICOLE : kha (12 % du territoire)
 RECETTES EN PROVENANCE
 DU MARCHÉ : 272 M$
-LES ATOUTS, LES SPÉCIFICITÉS... � Grand bassin de consommateurs (locaux et touristiques) � Important réseau d’acteurs, de centres de recherche et d’organismes de soutien à l’industrie agroalimentaire � Images de marque fortes et diversité des produits agricoles et de créneau � Importance de l’offre agrotouristique et du tourisme gourmand
-LES DÉFIS... � Améliorer l’accès au marché pour les petites entreprises agroalimentaires � Faciliter l’accessibilité aux terres pour les membres de la relève � Favoriser l’accès à un abattoir pour les éleveurs de Charlevoix � Accroître la disponibilité d’une main-d’œuvre qualifiée
 TRANSFORMATION
 RÉPARTITION DES ÉTABLISSEMENTS
 TOTAL 217
@@ -447,8 +437,6 @@ AGRICOLES : 967
 SUPERFICIE AGRICOLE : kha (7 % du territoire)
 RECETTES EN PROVENANCE
 DU MARCHÉ : 354 M$
-LES ATOUTS, LES SPÉCIFICITÉS... � Culture d’orge brassicole � Circuit Mauricie Gourmande � La route des brasseurs � Développement de nouvelles cultures (safran, camerise et argousier)
-LES DÉFIS... � Pratiquer une agriculture respectueuse du cycle faunique dans le littoral du lac Saint-Pierre � Trouver de jeunes entrepreneurs pour plus de 300 entreprises sans relève � Mettre à profit le plein potentiel agricole du territoire public (érablières et bleuetières)
 TRANSFORMATION
 RÉPARTITION DES ÉTABLISSEMENTS
 TOTAL 77
@@ -545,9 +533,6 @@ AGRICOLES : 2 616
 SUPERFICIE AGRICOLE : kha (69 % du territoire)
 RECETTES EN PROVENANCE
 DU MARCHÉ : 690 M$
-LES ATOUTS, LES SPÉCIFICITÉS... � Ressources fourragères abondantes pour le développement de productions animales comme l’élevage de ruminants � Présence de L’Arterre (service offert à la relève agricole) dans toutes les MRC de l’Estrie � Offres de l’agrotourisme et du tourisme gourmand développées et reconnues, appuyées notamment par la signature régionale
-« Créateurs de saveurs Cantons-de-l’Est » � Proximité du marché américain
-LES DÉFIS... � Assurer la pérennité des services d’abattage et la desserte multiespèces de proximité pour les petits éleveurs désirant valoriser leur élevage � Mettre en place de nouvelles stratégies de mise en marché de proximité relationnelle et géographique pour faciliter le démarrage et l’établissement de nouvelles entreprises agroalimentaires de petite taille � Développer la filière de la biomasse agricole et celle du foin de commerce en valorisant les plantes fourragères pérennes � Renforcer la mobilisation et la cohésion régionale pour le développement du secteur � Accroître la productivité et la rentabilité des entreprises bioalimentaires pour réduire les conséquences de la rareté de la main-d’œuvre et faciliter la rétention du personnel, notamment chez les entreprises de petite taille
 TRANSFORMATION
 RÉPARTITION DES ÉTABLISSEMENTS
 TOTAL 117
@@ -624,7 +609,6 @@ INDUSTRIE BIOALIMENTAIRE %
 PIB RÉGIONAL %
 EMPLOIS DE LA RÉGION M$
 PIB % %5 % %
-%
 TRANSFORMATION
 BIOALIMENTAIRE 400
 EMPLOIS %
@@ -638,8 +622,6 @@ AGRICOLES : 34
 SUPERFICIE AGRICOLE : kha (4 % du territoire)
 RECETTES EN PROVENANCE
 DU MARCHÉ : 7 M$
-LES ATOUTS, LES SPÉCIFICITÉS... � Premier centre de transformation alimentaire du Québec � Importance du secteur de l’hôtellerie, de la restauration et de l’institutionnel (HRI) � Pôle logistique majeur (infrastructure portuaire, logistique de distribution et d’exportation) � Marchés importants et diversifiés � Émergence d’une agriculture urbaine innovante � Présence de grands marchés publics (Corporation des marchés publics de Montréal) � Entente sectorielle avec la Ville de Montréal visant le développement de l’industrie bioalimentaire et l’agriculture urbaine
-LES DÉFIS... � Développer le plein potentiel du secteur agricole et de la transformation alimentaire en synergie avec le développement urbain � Trouver un équilibre entre la main-d’œuvre employée et l’automatisation des entreprises de transformation � Promouvoir l’achat local et soutenir l’offre d’aliments santé
 TRANSFORMATION
 RÉPARTITION DES ÉTABLISSEMENTS
 TOTAL 729
@@ -730,8 +712,6 @@ AGRICOLES : 898
 SUPERFICIE AGRICOLE : kha (10 % du territoire)
 RECETTES EN PROVENANCE
 DU MARCHÉ : 117 M$
-LES ATOUTS, LES SPÉCIFICITÉS... � Important marché de consommateurs à proximité (Gatineau-Ottawa : 1,2 million de personnes) � Plateforme agricole biologique de L’Ange-Gardien � Terres de qualité et abordables
-LES DÉFIS... � Poursuivre la diversification agricole et favoriser l’établissement en agriculture � Accroître les investissements dans la transformation alimentaire � Accentuer le commerce interprovincial � Maintenir le nombre d’entreprises agricoles en productions animales pour assurer la disponibilité des services en région
 TRANSFORMATION
 RÉPARTITION DES ÉTABLISSEMENTS
 TOTAL 80
@@ -828,8 +808,6 @@ AGRICOLES : 551
 SUPERFICIE AGRICOLE : kha (11 % du territoire)
 RECETTES EN PROVENANCE
 DU MARCHÉ : 131 M$
-LES ATOUTS, LES SPÉCIFICITÉS... � Disponibilité de terres de qualité à un coût abordable � Grande partie des superficies cultivées servant à la culture fourragère � Bon nombre de productrices et de producteurs qui vivent uniquement de l’élevage de bovins de boucherie
-LES DÉFIS... � Maintenir le nombre d’entreprises agricoles pour assurer la disponibilité des services en région � Augmenter le nombre d’entreprises en productions animales � Augmenter la transformation alimentaire dans la région � Développer des entreprises aux productions diversifiées
 TRANSFORMATION
 RÉPARTITION DES ÉTABLISSEMENTS
 TOTAL 31
@@ -930,8 +908,6 @@ DÉBARQUEMENTS DES PÊCHES
 MARITIMES : 73 M$
 RECETTES EN PROVENANCE
 DU MARCHÉ : 11 M$
-LES ATOUTS, LES SPÉCIFICITÉS... � Disponibilité de divers produits forestiers non ligneux � Potentiel de développement exceptionnel pour la culture de petits fruits � Filière de pêche commerciale bien structurée de la mer à la table � Place prépondérante des communautés innues dans la pêche et la transformation de produits marins � Intégration progressive des communautés innues dans la production agricole
-LES DÉFIS... � Accroître l’offre d’aliments frais dans les diverses communautés nordiques isolées en soutenant l’implantation d’une agriculture nordique � Développer l’entrepreneuriat chez les jeunes (relève dans l’industrie bioalimentaire) � Accroître la présence des produits régionaux dans le marché des établissements publics et parapublics
 TRANSFORMATION
 RÉPARTITION DES ÉTABLISSEMENTS
 TOTAL 24
@@ -1033,9 +1009,7 @@ DÉBARQUEMENTS DES PÊCHES
 MARITIMES : 280 M$
 RECETTES EN PROVENANCE
 DU MARCHÉ : 27 M$
-LES ATOUTS, LES SPÉCIFICITÉS... � Milieu propice au développement de l’agriculture biologique � Filière de capture et de transformation des produits marins bien établie en région � Notoriété de la région et utilisation de deux marques distinctives pour la mise en valeur des produits bioalimentaires :
 Gaspésie gourmande et Le Bon Goût frais des Îles de la Madeleine
-LES DÉFIS... � Soutenir des mécanismes de distribution et de mise en marché des produits régionaux qui répondent aux besoins des entreprises et pallient leur éloignement des marchés � Développer, pour les produits des pêches et de l’aquaculture, une commercialisation adaptée au marché québécois, notamment par la diversification et la valeur ajoutée des produits � Favoriser l’établissement de la relève et le transfert des entreprises � Accroître et diversifier la production agricole et les activités agroalimentaires
 TRANSFORMATION
 RÉPARTITION DES ÉTABLISSEMENTS
 TOTAL 79
@@ -1141,8 +1115,6 @@ AGRICOLES : 5 369
 SUPERFICIE AGRICOLE : 002 kha (67 % du territoire)
 RECETTES EN PROVENANCE
 DU MARCHÉ :1 607 M$
-LES ATOUTS, LES SPÉCIFICITÉS... � Nombreuses possibilités pour le consommateur d’effectuer des achats en circuit court (marchés publics, activités agroalimentaires et autocueillette) � Proximité du marché de la Capitale-Nationale � Plus importante concentration, au Québec, d’entreprises certifiées biologiques
-LES DÉFIS... � Augmenter la présence des produits régionaux dans le marché des établissements publics et parapublics � Favoriser l’adoption de la gestion intégrée des ennemis des cultures et réduire les risques liés à l’utilisation des pesticides � Accroître la disponibilité et la rétention de la main-d’œuvre � Répondre aux nouvelles règles environnementales pour les producteurs qui sont situés en bordure des zones inondablesde la rivière Chaudière � Augmenter l’accessibilité et la capacité des réseaux de distribution d’énergie et de télécommunication dans le secteur sud pour permettre l’innovation et la robotisation des entreprises agricoles
 TRANSFORMATION
 RÉPARTITION DES ÉTABLISSEMENTS
 TOTAL 151
@@ -1233,8 +1205,6 @@ AGRICOLES : 118
 SUPERFICIE AGRICOLE : kha (29 % du territoire)
 RECETTES EN PROVENANCE
 DU MARCHÉ : 78 M$
-LES ATOUTS, LES SPÉCIFICITÉS... � Secteur de la transformation alimentaire très diversifié � Réseau de vente à la ferme bien établi � Engagement marqué de la Ville de Laval dans le développement bioalimentaire
-LES DÉFIS... � Soutenir le développement de la transformation alimentaire � Mettre en valeur le potentiel agricole (friches, boisés, patrimoine, etc.) � Innover dans les modes de mise en marché de proximité � Établir une relève agricole dans un contexte où les terres sont rares et chères
 TRANSFORMATION
 RÉPARTITION DES ÉTABLISSEMENTS
 TOTAL 118
@@ -1331,8 +1301,6 @@ AGRICOLES : 1 508
 SUPERFICIE AGRICOLE : kha (17 % du territoire)
 RECETTES EN PROVENANCE
 DU MARCHÉ : 651 M$
-LES ATOUTS, LES SPÉCIFICITÉS... � Croissance soutenue des superficies cultivées selon le mode de production biologique � Industrie bioalimentaire diversifiée � Agrotransformation, agrotourisme et signature régionale « Goûtez Lanaudière! » � Entente sectorielle de développement de l’industrie bioalimentaire qui lie toutes les MRC, la Table des préfets, l’UPA et le MAPAQ
-LES DÉFIS... � Préserver les acquis agricoles et bioalimentaires et développer un secteur innovant en synergie avec le développement urbain � Accéder au vaste marché de consommation de Montréal et de la Communauté métropolitaine de Montréal � Soutenir l’établissement en agriculture et développer un écosystème entrepreneurial
 TRANSFORMATION
 RÉPARTITION DES ÉTABLISSEMENTS
 TOTAL 146
@@ -1431,8 +1399,6 @@ AGRICOLES : 1 185
 SUPERFICIE AGRICOLE : kha (10 % du territoire)
 RECETTES EN PROVENANCE
 DU MARCHÉ : 320 M$
-LES ATOUTS, LES SPÉCIFICITÉS... � Importance de l’activité agrotouristique en raison de la proximité du marché de la région métropolitaine de Montréalet de la forte croissance démographique régionale � Agriculture diversifiée et dynamique � Nombreux démarrages d’entreprises dans le secteur de la transformation alimentaire
-LES DÉFIS... � Concilier le développement du secteur agricole et la préservation de l’environnement dans un contexte périurbain, notamment quant à la gestion de l’eau et à l’usage des pesticides � Assurer la concertation des acteurs régionaux pour mieux soutenir l’établissement d’entreprises agroalimentaires et favoriser l’accès aux terres agricoles � Contenir la pression exercée sur la zone agricole permanente en raison de la forte croissance démographique et économique
 TRANSFORMATION
 RÉPARTITION DES ÉTABLISSEMENTS
 TOTAL 203
@@ -1537,8 +1503,6 @@ AGRICOLES : 6 591
 SUPERFICIE AGRICOLE : kha (86 % du territoire)
 RECETTES EN PROVENANCE
 DU MARCHÉ : 2 735 M$
-LES ATOUTS, LES SPÉCIFICITÉS... � Utilisation de nouvelles pratiques culturales innovantes ou respectueuses de l’environnement et mise en valeur de nouveaux produits � Présence de plusieurs établissements et organismes à vocation agroalimentaire (Cité de la biotechnologie, Institut de recherche et de développement en agroenvironnement, CÉROM, Institut de technologie agroalimentaire, Faculté de médecine vétérinaire, Centre de recherche et de développement sur les aliments, l’Union des producteurs agricoles [siège social], Cintech agroalimentaire, Centre d’expertise fromagère du Québec, PELI, Phytodata, Centre ACER, etc.) � Présence sur le territoire du créneau d’excellence en transformation alimentaire (TransformAction) � Diffusion de la campagne « La Montérégie : le Garde-Manger du Québec »
-LES DÉFIS... � Poursuivre l’adoption de pratiques culturales favorables à la conservation des sols et à la réduction de l’utilisation de produits phytosanitaires � Contenir la pression exercée sur le territoire agricole, qui résulte de la très forte croissance socioéconomique et des problèmesliés à la gestion de l’eau � Favoriser la concertation des nombreux partenaires montérégiens autour de besoins communs avec l’entente sectorielle bioalimentaire
 TRANSFORMATION
 RÉPARTITION DES ÉTABLISSEMENTS
 TOTAL 498
@@ -1636,8 +1600,6 @@ AGRICOLES : 3 108
 SUPERFICIE AGRICOLE : kha (93 % du territoire)
 RECETTES EN PROVENANCE
 DU MARCHÉ : 1 240 M$
-LES ATOUTS, LES SPÉCIFICITÉS... � Culture de petits fruits, y compris la canneberge � Mise en œuvre de nombreuses initiatives en matière d’agroenvironnement � Circuits et activités agrotouristiques
-LES DÉFIS... � Favoriser une occupation plus dynamique et plus diversifiée de la zone agricole � Appuyer activement la mise en place du chantier agroalimentaire issu de la nouvelle gouvernance régionale afinde trouver et de soutenir un plus grand nombre de projets structurants pour le secteur agricole et apicole centriquois � Favoriser l’essor de l’agrotourisme et de la mise en marché de proximité
 TRANSFORMATION
 RÉPARTITION DES ÉTABLISSEMENTS
 TOTAL 103
@@ -1724,7 +1686,6 @@ AGRICULTURE 136 M$
 INVESTISSEMENTS 5
 %24 % CENTRE!DU!QUÉBEC % % % % %PROFIL RÉGIONAL DE L’INDUSTRIE BIOALIMENTAIRE AU QUÉBEC | ESTIMATIONS POUR L’ANNÉE 2019
 TABLEAU 1 AGRICULTURE EN 2019
-P
 IB aux prix de b ase Par t du Q ué bec Rec ette sen provena nce du m ar ché Par t du Q ué bec Em pl ois Par t du Q ué bec Investissem en ts
 Par t du Q ué bec Exploitat ions agric ol es
 Par t du Q ué bec RÉGIONS ADMINISTRATIVES M$ % M$ % k % M$ % n %
@@ -1802,7 +1763,6 @@ Notes :
 Les données de ce tableau doivent être interprétées avec prudence.
 Se référer à l’avertissement, au cadre méthodologique, à la liste des sources et aux principaux concepts.
 TABLEAU 2 #SUITE$
-P
 IB aux prix de b ase Par t du Q ué bec Débarquem en ts
 Par t du Q ué bec Em pl ois Par t du Q ué bec Investissem en ts
 Par t du Q ué bec RÉGIONS ADIMINISTRATIVES M$ % M$ % k % M$ %
@@ -1827,7 +1787,6 @@ Notes :
 Les données de ce tableau doivent être interprétées avec prudence.
 Se référer à l’avertissement, au cadre méthodologique, à la liste des sources et aux principaux concepts.
 TABLEAU 3 PÊCHES MARITIMES EN 2019PROFIL RÉGIONAL DE L’INDUSTRIE BIOALIMENTAIRE AU QUÉBEC | ESTIMATIONS POUR L’ANNÉE 2019
-P
 IB aux prix de b ase Par t du Q ué bec Livraisonsm anufac turi èr es
 Par t du Q ué bec Em pl ois Par t du Q ué bec Investissem en ts
 Par t du Québec Établissem en ts
@@ -1853,7 +1812,6 @@ Notes :
 Les données de ce tableau doivent être interprétées avec prudence.
 Se référer à l’avertissement, au cadre méthodologique, à la liste des sources et aux principaux concepts.
 TABLEAU 4 TRANSFORMATION BIOALIMENTAIRE EN 2019
-P
 IB aux prix de b ase Par t du Q ué bec Ve nt es
 Par t du Q ué bec Em pl ois Par t du Q ué bec Investissem en ts
 Par t du Québec Établissem en ts
@@ -1879,7 +1837,6 @@ Notes :
 Les données de ce tableau doivent être interprétées avec prudence.
 Se référer à l’avertissement, au cadre méthodologique, à la liste des sources et aux principaux concepts.
 TABLEAU 5 COMMERCE DE GROS EN 2019PROFIL RÉGIONAL DE L’INDUSTRIE BIOALIMENTAIRE AU QUÉBEC | ESTIMATIONS POUR L’ANNÉE 2019
-P
 IB aux prix de b ase Par t du Q ué bec Ve nt es
 Par t du Q ué bec Em pl ois Par t du Q ué bec Investissem en ts
 Par t du Québec Établissem en ts
@@ -1905,7 +1862,6 @@ Notes :
 Les données de ce tableau doivent être interprétées avec prudence.
 Se référer à l’avertissement, au cadre méthodologique, à la liste des sources et aux principaux concepts.
 TABLEAU 6 COMMERCE DE DÉTAIL EN 2019
-P
 IB aux prix de b ase Par t du Q ué bec Ve nt es
 Par t du Q ué bec Em pl ois Par t du Q ué bec Investissem en ts
 Par t du Québec Établissem en ts
@@ -2036,7 +1992,6 @@ Ce terme réfère à la fabrication d’aliments (SCIAN 311) et à la fabricatio
 Fabrication d’aliments
 Elle regroupe les établissements dont l’activité principale est la production d’aliments pour la consommation humaine ou animale.
 Fabrication de boissons et de produits du tabac
-Elle regroupe les établissements dont l’activité principale consiste à fabriquer des boissons et des produits du tabac � ASSOCIATION DES MARCHÉS PUBLICS DU QUÉBEC. www.ampq.ca � COMMISSION DE PROTECTION DU TERRITOIRE AGRICOLE DU QUÉBEC. www.cptaq.gouv.qc.ca � INSTITUT DE LA STATISTIQUE DU QUÉBEC. www.stat.gouv.qc.ca Ì Comparaisons interrégionales. Ì Profils statistiques par région et MRC géographiques. Ì Statistiques — Agriculture et industrie bioalimentaire. Ì Statistiques — Revenu disponible. Ì Statistiques — Comptes de production. Ì Compilations sur demande. � MINISTÈRE DE L’AGRICULTURE, DES PÊCHERIES ET DE L’ALIMENTATON. www.mapaq.gouv.qc.ca Ì Direction générale du développement et du soutien à l’inspection. Ì Direction de la planification, des politiques et des études économiques. Ì Direction des analyses et des politiques des pêches et de l’aquaculture. Ì Direction générale du développement régional. Ì Direction du développement des secteurs agroalimentaires. Ì Fiche d’enregistrement des exploitations agricoles. � PÊCHES ET OCÉANS CANADA. www.dfo-mpo.gc.ca � PORTAIL BIO QUÉBEC. www.portailbioquebec.info � RÉGIE DES ALCOOLS, DES COURSES ET DES JEUX DU QUÉBEC. www.racj.gouv.qc.ca � SITES INTERNET DES PRINCIPAUX DÉTAILLANTS EN ALIMENTATION. � SOCIÉTÉ DES ALCOOLS DU QUÉBEC. www.saq.com � STATISTIQUE CANADA. www.statcan.gc.ca Ì Recensement de l’agriculture Ì Tableau 14-10-0026-01 - Emploi selon la catégorie de travailleur, données mensuelles non désaisonnalisées (x 1 000). Ì Tableau 14-10-0201-01 - Emploi selon l’industrie, données mensuelles non désaisonnalisée. Ì Tableau 14-10-0202-01 - Emploi selon l’industrie, données annuelles. Ì Tableau 16-10-0048-01 - Ventes pour les industries manufacturières selon l’industrie et province, données mensuelles (dollars sauf indication contraire) (x 1 000). Ì Tableau 16-10-0117-01 - Statistiques principales pour les industries manufacturières, selon le Système de classification des industries de l’Amérique du Nord (SCIAN) (x 1 000). Ì Tableau 20-10-0008-01 - Ventes de commerce de détail par province et territoire (x 1 000). Ì Tableau 20-10-0074-01 - Commerce de gros, ventes (x 1 000). Ì Tableau 21-10-0019-01 - Enquête mensuelle sur les services de restauration et débits de boissons (x 1 000). Ì Tableau 32-10-0045-01 — Recettes monétaires agricoles, annuel (x 1 000). Ì Tableau 32-10-0364-01 — Superficie, production et valeur à la ferme des fruits commercialisés.
 LISTE DES SOURCES http://www.mapaq.gouv.qc.caPROFIL RÉGIONAL DE L’INDUSTRIE BIOALIMENTAIRE AU QUÉBEC | ESTIMATIONS POUR L’ANNÉE 2019 Ì Tableau 32-10-0365-01 — Superficie, production et valeur à la ferme des légumes commercialisés. Ì Tableau 32-10-0456-01 — Production et valeur des légumes de serre. Ì Tableau 33-10-0222-01 - Nombre d’entreprises canadiennes, avec employés, décembre 2019. Ì Tableau 33-10-0223-01 - Nombre d’entreprises canadiennes, sans employés, décembre 2019. Ì Tableau 34-10-0035-01 — Dépenses en immobilisation et réparations, actifs corporels non résidentiels, par industrie selon la géographie (x 1 000 000). Ì Tableau 36-10-0096-01 — Flux et stocks de capital fixe non résidentiel, selon l’industrie et le type d’actif, Canada, provinces et territoires (x 1 000 000). Ì Tableau 36-10-0402-01 — Produit intérieur brut (PIB) aux prix de base, par industries, provinces et territoires (x 1 000 000). Ì Compilations sur demande.
 RÉALISATION
 Ministère de l’Agriculture, des Pêcheries et de l’Alimentation

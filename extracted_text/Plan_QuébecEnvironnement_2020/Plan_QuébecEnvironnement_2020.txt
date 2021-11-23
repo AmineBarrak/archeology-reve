@@ -126,7 +126,6 @@ Le point de départ du Québec est déjà fort enviable : il affiche l’un des 
 De 1990 à 2017, le Québec a réussi à réduire de près de 9 % ses émissions de gaz à effet de serre.
 Cependant, ses émissions de gaz à effet de serre annuelles stagnent depuis 2014. Ceci ne place pas le Québec dans une trajectoire optimale pour 2030 et au delà.
 L’atteinte de la cible fixée pour 2030 correspond à un niveau d’émission de 54 millions de tonnes équivalent CO en 2030. Or, on estime que les émissions de gaz à effet de serre du Québec pourraient se chiffrer à 83 millions de tonnes équivalent CO en 2030, sans la poursuite des efforts actuels ou la mise en œuvre de nouvelles mesures. L’effort de réduction est donc estimé à 29 millions de tonnes équivalent CO
-.
 Plan pour une économie verte 2030 3
 Neuf principes pour guider l’action du gouvernement
 Le Plan pour une économie verte 2030 s’inscrit dans une perspective de développement durable.À titre de politique-cadre sur les changements climatiques, le Plan pour une économie verte 2030est fondé sur neuf principes qui guident l’action du gouvernement : X L’électrification et la lutte contre les changements climatiques sont des leviers majeurs de développement économique et de création de richesse. X L’électrification et la lutte contre les changements climatiques doivent permettre de maximiser la réduction des émissions de gaz à effet de serre sur le territoire québécois, tout en tirantprofit de la flexibilité qu’offre le marché du carbone. X L’électrification et la lutte contre les changements climatiques s’appuient sur une utilisation efficace de l’énergie et des ressources. X La responsabilité en matière d’électrification et de lutte contre les changements climatiques est collective. X L’électrification et la lutte contre les changements climatiques doivent être mises en œuvre avec une approche positive, soulignant les gains à réaliser et priorisant la motivation pour les obtenir. X Les objectifs d’électrification et de lutte contre les changements climatiques devront être intégrés dans les orientations, les politiques et les stratégies gouvernementales. X En matière d’électrification comme en matière de lutte contre les changements climatiques, le gouvernement entend agir de manière pragmatique, rigoureuse et efficace, en s’appuyantsur la science, en donnant la priorité aux résultats à obtenir et en tenant compte du climatfutur et des réalités des différents domaines d’intervention. X La vision gouvernementale de l’électrification et de la lutte contre les changements climatiquesne se limite pas au territoire québécois. Le Plan doit assurer la contribution du Québec audelà de ses frontières. X L’électrification et la lutte contre les changements climatiques doivent assurer une transitionjuste pour l’ensemble de la société et prendre en compte la réalité propre à chacune des régions du Québec.
@@ -340,8 +339,6 @@ Le Plan pour une économie verte 2030 se décline en trois axes : X Atténuer le
 Ce plan s’appuie sur les assises solides que possède le Québec dans le but de construire et d’approfondir les avantages d’une transition climatique pour tous les Québécois. Il tirera en particulier profit d’un atout inestimable : l’électricité propre du Québec. 1.
 LE POINT DE DÉPART
 Le point de départ du Québec est déjà fort enviable : il affiche un taux d’émission par habitantparmi les plus faibles en Amérique du Nord.
-Faits saillants5 : X Taux d’émission de gaz à effet de serre par habitant le plus faible parmi les provinces canadiennes etles États américains : 9,5 tonnes/habitant � production d’électricité issue à 99 % de sources renouvelables � absence d’un secteur de production d’hydrocarbures � fournisseur d’énergie propre à ses voisins X Principal secteur émetteur de gaz à effet de serre : transports, avec 43 % des émissions � forte dépendance au pétrole X Baisse des émissions de 9 % de 1990 à 2017 � réduction qui stagne depuis 2014 � performance inégale selon les secteurs X Pétrole : source de plus de 50 % des émissions totales de gaz à effet de serre � représente 57 % du déficit commercial en 2017. Le portrait des émissions de gaz à effet de serre du Québec présenté est le plus récent disponible au moment de la publication du Plan pour une économie verte 2030. Il s’agitdes données de l’année 2017 telles que publiées en décembre 2019 par le ministère de l’Environnement et de la Lutte contre les changements climatiques dans le document Inventaire
-X\tItJVPZ�KLZ�tTPZZPVUZ�KL�NHa�n�LќL[�KL�ZLYYL�LU������L[�SL\Y�t]VS\[PVU�KLW\PZ�� �.
 Plan pour une économie verte 2030 20
 Les émissions de gaz à e"etde serre par habitant
 Parmi les cinquante États américains et les treize provinces et territoires canadiens, le Québec est l’endroit où l’on émet le moins de gaz à effet deserre par habitant avec des émissions d’environ,5 tonnes par habitant. Rappelons égalementque les émissions de gaz à effet de serre du
@@ -413,10 +410,8 @@ Dakota!du!Nord
 Wyoming,5,3,5,9,3,3,3,8,1,1,4,5,6,7,4,5,3,5,0,4,7,7,9,0,0,2,4,7,7,5,7,9,8,9,4,5,1,7,7,8,3,4,9,1,9,3,4,2,3,4,1,1,2,1,0,4,3,9,3,7,3,7,9
 GRAPHIQUE!1 Émissions de gaz à effet de serre par habitant au Québec, dans les provinces et territoires canadiens et dans les États américains
 (en tonnes équivalent CO
-)
 Note : Les dernières données disponiblespour les provinces et territoires du Canada datent de 2017.
 Pour les États américains, elles datent de 2014.
-Source : Ministère de l’Environnement et de la Lutte contre les changements climatiques (2019). Inventaire québécois des émissions de gaz n�LќL[�KL�ZLYYL�LU������L[�SL\Y� t]VS\[PVU�KLW\PZ�� �, Québec, p., et World Resource Institute.
 Plan pour une économie verte 2030 22
 Les émissions de gaz à e"et de serre par forme d’énergie et par secteur
 En 2017, 68 % des émissions de gaz à effet de serre du Québec étaient attribuables à la consommation d’énergies fossiles, principalement du pétrole et du gaz naturel. Le pétrole était la source de plus de % des émissions totales de gaz à effet de serre au Québec6.
@@ -430,9 +425,6 @@ Agriculture,8 %
 Déchets,8 % Électricité,3 %
 Résidentiel, commercial et institutionnel,3 %
 Source : Ministère de l’Environnement et de la Lutte contre les changements climatiques (2019). Inventaire québécois des émissions de
-NHa�n�LќL[�KL�ZLYYL�LU������
-L[�SL\Y�t]VS\[PVU�KLW\PZ�� �,
-Québec, 44 p.. Whitmore, J., et P.-O. Pineau,�i[H[�KL� S»tULYNPL�H\�8\tILJ�����,
 Chaire de gestion du secteur de l’énergie, HEC Montréal, préparé pour Transition énergétique Québec, 2020, Montréal, p. 46.
 Plan pour une économie verte 2030 23
 L’évolution des émissions depuis 1990
@@ -440,7 +432,6 @@ De 1990 à 2017, le Québec a réussi à réduire de près de 9 % ses émissions
 Cette performance est toutefois inégale selon les secteurs. Alors que les émissions ont augmenté dansle secteur des transports (+23 %), accentuant au passage notre dépendance au pétrole importé, ellesont diminué de manière importante dans le secteur de l’industrie (-25 %) par l’effet d’une substitution d’énergies fossiles, de l’amélioration de l’efficacité énergétique et d’une restructuration de l’économie.
 GRAPHIQUE 3 Évolution des émissions de gaz à effet de serrepar secteur au Québec en 1990 et en 2017
 TransportsÉmis si ons (Mt é q. C
-O
 )
 Industrie Résidentiel, commercial et institutionnel
 Agriculture Déchets Électricité,0 %
@@ -468,8 +459,6 @@ Note : Les estimations ont été réalisées selon les informations disponibles 
 (1) Ce scénario de projection des émissions de gaz à effet de serre est fondé sur les données économiques réelles de 2017 à 2019 et sur la prévision économique du budget 2020-2021 pour les années suivantes.
 Il exclut les effets du marché du carbone et des mesures du Plan de mise en œuvre 2021-2026 du Planpour une économie verte 2030. Ce scénario de projection tient compte de plusieurs facteurs, tels que l’évolution des technologies, l’amélioration de l’efficacité énergétique et l’évolution prévue des prix dans l’économie.
 Sources : Ministère de l’Environnement et de la Lutte contre les changements climatiques et ministère des Finances du Québec.
-Note : Pour plus de détails sur la projection des émissions en 2030 en l’absence d’actions additionnelles, voir le fascicule du ministère des Finances du Québec intitulé Bâtir une tJVUVTPL�]LY[L�¶�)\KNL[������
-����, p. 11. Mt Mt Mt (estimé) Projection 2030(1) Carboneutralité 2050
 Historique Cible,5 % Effort : diminution de 29 Mt
 Cible : 54 Mt Mt nette % (7 Mt)
 Plan pour une économie verte 2030 26
@@ -565,7 +554,6 @@ Il s’agit du principal secteur émetteur de gaz à effet de serre et un secteu
 Les changements engagés en matière de mobilité durable seront poursuivis et l’aménagement du territoire sera repensé dans uneoptique de réduction à la source des déplacements, et en prenant en considération les nouvelles réalités et façons de faire, dont la pratique plus répandue du télétravail.
 L’État s’assurera pour sa part d’être exemplaire dans l’acquisition de ses véhicules.
 Plan pour une économie verte 2030 34
-Faits saillants : X 43,3 % des émissions de gaz à effet de serre en 2017 (1er secteur émetteur) � 79,6 % attribuables au transport routier X Hausse de 23 % des émissions de gaz à effet de serre de 1990 à 2017 � augmentation du nombre de véhicules par habitant � préférence de plus en plus forte des consommateurs pour les véhicules de grande taille � augmentation marquée du transport routier de marchandises (émissions triplées) X Forte dépendance au pétrole
 Plan pour une économie verte 2030 35.1
 Un chantier majeur en électrification
 Le Québec entreprend une action vigoureuse en vue d’électrifier le secteur des transports.
@@ -612,7 +600,6 @@ Québec, le véhicule électrique devient un choix avantageux.
 Les rabais offerts par les gouvernements du Québec et du Canada, respectivement de 8 000 $ et de 5 000 $ en 2020, réduisent de manière importante le surcoût à l’acquisition du véhicule électrique. Par exemple, si unménage se procure un modèle LeafMD de Nissan, l’acquisition lui coûte environ 17 725 $ de plus qu’un modèleà essence de la même catégorie, comme le modèle AltimaMD de Nissan. Toutefois, le ménage pourra béné!cier de 13 000 $ de rabais puisque la Nissan LeafMD se quali!e aux programmes du Québec et du Canada.
 Par ailleurs, sur une période de cinq années, le véhicule électrique permet des économies de plus de 7 500 $en énergie et de plus de 1 800 $ en entretien. Par conséquent, après cinq années d’utilisation, principalementen raison des divers rabais offerts, le coût total du véhicule électrique devient inférieur d’environ 3 800 $ à celui d’un modèle comparable à essence.
 Outre les économies mentionnées précédemment, un couple qui utilise un véhicule électrique réduira ses émissions de gaz à effet de serre de 3,7 tonnes équivalent CO par année. Cette diminution représente 19,5 % des émissions moyennes qu’on associe à un couple au Québec, sachant que celles-ci s’élèvent à 19 tonnes9 équivalent CO
-.
 TABLEAU!1
 Comparaison des coûts sur cinq ans d’une Nissan LeafMD et d’une Nissan AltimaMD (en dollars de 2020, sauf indication contraire)
 Nissan AltimaMD SV Nissan LeafMD S Plus Écart
@@ -632,7 +619,6 @@ TOTAL 50 045 46 265 - 3 780 Émissions de GES par année (t. éq. CO
 (5) Le coût inclut les taxes et comprend les changements d’huile (68,99 $/10 000 km) et de freins (574,88 $ tous les 000 km pour le véhicule à essence et tous les 120 000 km pour le véhicule électrique).
 Sources : Institut du véhicule innovant, www.nissan.ca, US
 Department of Energy, Hydro-Québec, Régie de l’énergie du Québec et ministère des Finances du Québec. Calculée sur la base des émissions moyennes par habitant, soit 9,5 tonnes équivalent CO par personne selon l’Inventaire québécois
-KLZ�tTPZZPVUZ�KL�NHa�n�LќL[�KL�ZLYYL�KL������L[�SL\Y�t]VS\[PVU�KLW\PZ�� ��
 Plan pour une économie verte 2030 40
 Les taxis et les parcs de véhicules commerciaux
 Les taxis feront aussi l’objet d’initiatives visant une électrification accrue afin d’atteindre un taux de % de taxis électriques en 2030. Au Québec, les quelque 11 000 taxis actuels (toutes catégories confondues) parcourent en moyenne 70 000 km par an et émettent cinq à six fois plus de gaz àeffet de serre qu’un véhicule de particuliers. Leur électrification offre donc un potentiel intéressant de réduction des émissions de gaz à effet de serre.
@@ -662,9 +648,6 @@ Plan pour une économie verte 2030 42
 L’approche « réduire, transférer, améliorer »
 L’approche « réduire, transférer, améliorer » vise à favoriser une modi!cation des habitudes de déplacementdes usagers à l’aide d’une meilleure plani!cation du territoire et de choix de transport plus nombreux. Le butest que les usagers adoptent des habitudes de déplacement favorisant des modes de transport plus durables.
 L’approche « réduire, transférer, améliorer » est fondée sur une priorisation des interventions selon l’ordre suivant : X Réduire les déplacements motorisés et les distances à parcourir par une meilleure intégration de la plani!cation du territoire et des transports; X Transférer les déplacements vers des moyens de transport consommant moins d’énergie et à plus faibles émissions de gaz à effet serre, comme le transport collectif ou actif; X Améliorer l’ef!cacité des véhicules en réduisant leurs émissions de gaz à effet de serre, notamment par l’électri!cation, tout en réduisant le coût des déplacements et en augmentant la sécurité.
-Source : Ministère des Transports du Québec (2018). ;YHUZWVY[LY�
-SL�8\tILJ�]LYZ�SH�TVKLYUP[t�¶�7VSP[PX\L�KL�TVIPSP[t�
-K\YHISL�¶������.2.1 L’aménagement du territoire : planifier des milieux de vie sobres en carbone selon une approche révisée
 Le gouvernement révisera son approche relative à l’aménagement durable du territoire pour que celle-ci contribue davantage aux objectifs de réduction des émissions de gaz à effet de serre.
 Des milieux de vie plus denses et conçus autour d’axes de transports collectifs permettront de réduireles temps de déplacement et les distances à parcourir. Grâce à cette densification et à une planificationurbaine conçue en fonction de la sécurité des usagers, une grande partie des déplacements pourrontse faire de manière active, à pied ou à vélo, avec en prime des gains pour tous sur les plans de laqualité de l’air et de la santé.
 Le gouvernement entreprendra une révision de la façon d’aménager le territoire. Il s’agira de doter le Québec d’une vision globale et cohérente en aménagement du territoire et en urbanisme pour structurer les actions de l’État, celles du milieu municipal et celles des autres acteurs de la société civile.
@@ -692,9 +675,6 @@ L’évolution vers la mobilité durable concerne également le transport des ma
 Le gouvernement entend réduire les déplacements de marchandises par camion en misant sur l’intermodalité et les réseaux multimodaux.
 Le gouvernement adoptera une approche axée sur des réseaux multimodaux intégrés et optimisésainsi que sur l’optimisation des chaînes logistiques afin de réduire le nombre de véhicules lourds surles routes au profit du transport ferroviaire et du transport maritime de façon à réduire les émissionsde gaz à effet de serre du secteur.
 Le gouvernement mise en particulier sur le transport maritime, dans le respect des écosystèmes, pour augmenter la richesse collective des Québécois et pour ouvrir une nouvelle voie de prospéritéet de croissance. Le transport maritime émet en moyenne huit fois moins de gaz à effet de serre partonne de marchandises transportées que le transport sur route10.
-Le gouvernement favorisera le recours au transport maritime sur courte distance et facilitera ainsi le transfert modal de la route vers le maritime pour certaines utilisations.. Source : Ministère des Transports, (2013).�0TWHJ[Z�LU]PYVUULTLU[H\_�L[�
-ZVJPH\_�K\�[YHUZWVY[�THYP[PTL�KHUZ�SH�YtNPVU�KLZ�.YHUKZ�3HJZ�L[�KL�SH�
-=VPL�THYP[PTL�K\�:HPU[�3H\YLU[, Research and Traffic Group, (figure ES4), p. [https://www.transports.gouv.qc.ca/fr/entreprises-partenaires/ entreprises-services-transport-maritime/Documents/Impacts.pdf]
 Plan pour une économie verte 2030 45.3 L’exemplarité de l’État
 Près de 25 % des émissions de gaz à effet de serre des activités de l’État québécois proviennent dela demande en énergies fossiles du parc de véhicules des ministères et des organismes.
 Dans la gestion de son parc de véhicules légers, l’État donnera l’exemple en priorisant l’électrificationet en réduisant ses émissions de gaz à effet de serre.À ce titre, le gouvernement s’engage à ce que la totalité des automobiles, des fourgonnettes, des minifourgonnettes et des véhicules utilitaires sport (VUS) et le quart des camionnettesdu parc gouvernemental soient électriques d’ici 2030.
@@ -710,7 +690,6 @@ L’innovation sera par ailleurs stimulée pour que de nouvelles façonsde faire
 L’électricité est déjà bien présente dans la production industrielle du
 Québec, mais elle n’est pas la solution pour toutes les situations.
 Les autres sources d’énergie seront alors utilisées efficacement en privilégiant les solutions les moins émettrices.
-Plan pour une économie verte 2030 46 Faits saillants : X 30,5 % des émissions de gaz à effet de serre en 2017 (2e secteur émetteur) � 52,6 % provenant des procédés industriels � 46,8 % provenant de l’usage de combustibles fossiles à des fins énergétiques X Baisse de 25 % des émissions de gaz à effet de serre de 1990 à 2017 � conversion vers des énergies plus sobres en carbone � amélioration des procédés � restructuration de certains secteurs X Grands émetteurs industriels (en 2017) � 73 établissements industriels assujettis au marché du carbone � 23 % des émissions de gaz à effet de serre � Environ 1/3 du PIB du secteur manufacturier
 Plan pour une économie verte 2030 47.1 Réduire les émissions de gaz à effet de serre en augmentant la compétitivité des entreprises
 Les défis que pose la transition climatique offrent une occasion privilégiée pour le secteur industriel d’investir, avec l’appui du gouvernement, dans des approches novatrices et des pratiques plus durables. En procédant à ces investissements, l’industrie québécoise sera mieux positionnée dans l’économie plus sobre en carbone de demain. Cela ajoutera à sa compétitivité et constituera un attrait incontournable pour ses clientèles..1.1 Des règles ajustées pour le marché du carbone et une invitation à l’investissement privé
 Les grands émetteurs industriels de gaz à effet de serre sont assujettis au marché du carbone.
@@ -778,7 +757,6 @@ Avec le Plan pour une économie verte 2030, le gouvernement adopte une approche 
 Dans cette approche, la complémentarité des réseaux électrique et gazier du Québec sera un vecteur de réussite qui maximisera les retombées économiques et réduira au minimum les coûts pour les clients. Le gouvernement misera aussi sur le verdissement du gaz naturel.
 Le gouvernement engage également une vigoureuse action pour que les bâtiments soient plus efficaces énergétiquement et pour réduire leur empreinte carbone.
 Plan pour une économie verte 2030 52
-Faits saillants : X 10,3 % des émissions totales du Québec en 2017 (3e secteur émetteur) � 59,5 % provenant des secteurs commercial et institutionnel (combustibles fossiles principales sources d’énergie utilisées) � 40,5 % provenant du secteur résidentiel (électricité principale source d’énergie utilisée – en 2017, plus de % des ménages se chauffaient à l’électricité11) X Baisse de 27,6 % des émissions de gaz à effet de serre de 1990 à 2017 � Diminution de 52,9 % dans le secteur résidentiel • conversion à l’électricité d’équipements fonctionnant au mazout � Augmentation de 13,9 % dans le secteur commercial institutionnel • augmentation marquée des superficies et de la consommation de gaz naturel. Source : Hydro-Québec.
 Plan pour une économie verte 2030 53.1
 Décarboniser le chauffage des bâtiments.1.1 Un recours optimal à l’électricité et au gaz naturel
 Le gouvernement a pour objectif d’électrifier une part croissante du chauffage actuellement assurépar le gaz naturel. Cela réduira les émissions de gaz à effet de serre, tout en améliorant la balance commerciale du Québec.
@@ -823,9 +801,7 @@ Les efforts d’atténuation des changements climatiques prévus dans le
 Plan pour une économie verte 2030 reposent aussi sur des actions danstrois autres secteurs : X Une approche adaptée au secteur agricole reposant sur l’accompagnement et le développement de la consommation locale; X La réduction du gaspillage et une meilleure gestion des matières résiduelles; X Un recours accru aux milieux naturels, dont la forêt, pour leur capacité de stockage et de séquestration du carbone.
 Plan pour une économie verte 2030 57
 Faits saillants :
-Secteur agricole X 9,8 % des émissions totales de gaz à effet de serre du Québec en 2017 (4e secteur émetteur) � émissions de sources non énergétiques, c’est-à-dire provenant principalement de la digestion des ruminants,de la gestion du fumier et de la gestion des sols agricoles12 X Hausse de 11 % des émissions de gaz à effet de serre de 1990 à 2017. Elles sont toutefois stablesdepuis une dizaine d’années. � Augmentation des émissions provenant de la gestion des fumiers (augmentation du nombre d’animaux) � Augmentation des émissions provenant de la gestion des sols agricoles (augmentation de l’usage d’engrais azotéssur les cultures) � Diminution des émissions associées à la fermentation entérique. Les émissions de gaz à effet de serre du secteur agricole liées à des utilisations énergétiques sont comptabilisées dans l’Inventaire québécois des émissions de gaz à effet de serre avec les émissions des secteurs du transport, pour ce qui est des carburants, et de la combustion industrielle, en ce qui concerne le chauffage des bâtiments.
 Plan pour une économie verte 2030 58
-Matières résiduelles X 5,8 % des émissions totales du Québec en 2017 (5e secteur émetteur) � proviennent des matières résiduelles organiques (60 % des matières résiduelles éliminées) X Baisse de 33,9 % des émissions de gaz à effet de serre de 1990 à 2017 � augmentation marquée du captage et de la destruction des biogaz des sites d’enfouissement
 Milieux naturels X Réservoir de carbone – potentiel de séquestration.1
 Une approche adaptéeau secteur agricole
 Les émissions du secteur agricole sont étroitement liées à la biologie des plantes, des sols et desanimaux et à leur interaction avec le climat. Leur réduction constitue donc un défi particulier.
@@ -850,7 +826,6 @@ Plan pour une économie verte 2030 60
 La réduction et la valorisation des matières organiques
 Avec le Plan pour une économie verte 2030, le gouvernement mise sur la réduction à la source des matières organiques provenant notamment des pertes et du gaspillage alimentaire par l’ensembledes acteurs de la chaîne bioalimentaire, soit les entreprises de production, les entreprises de transformation, les détaillants et les consommateurs, ce qui procurera des bénéfices environnementaux et économiques importants.
 Pour ce qui ne peut être réduit à la source, la valorisation des matières organiques sera mise de l’avant.
-Le gouvernement a défini une stratégie de valorisation de la matière organique13 dans le but de détourner les matières organiques résiduelles de l’élimination et de les valoriser en tant qu’intrants dans l’économie. Les initiatives de biométhanisation14 et de compostage y seront encouragées.. Ministère de l’Environnement et de la Lutte contre les changements climatiques.�:[YH[tNPL�KL�]HSVYPZH[PVU�KL�SH�TH[PuYL�VYNHUPX\L. Juillet 2020.. La biométhanisation est un processus biologique naturel de décomposition de la matière organique par des microorganismes
 (bactéries) qui s’activent dans des conditions anaérobiques
 (sans oxygène).
 La valorisation des matières organiques : un exemple d’économie circulaire
@@ -906,7 +881,6 @@ LA PRODUCTION ÉLECTRIQUE ET L’ACCÈS À CETTE ÉNERGIE PROPRE
 La production québécoise d’électricité est déjà issue à 99 % de sources renouvelables. Le Plan pour une économie verte 2030 visera néanmoins à accroître encore davantage l’approvisionnement en énergies renouvelables, en particulier dans les régions non branchéesau réseau de distribution d’Hydro-Québec.
 Dans les régions branchées au réseau de distribution, des efforts seront consentis pour que le réseau puisse répondre aux besoins de consommation. En particulier, l’accès au réseau triphasé sera étendu pour répondre aux besoins des communautés et du secteur agricole.
 Plan pour une économie verte 2030 64
-Faits saillants : X 0,3 % des émissions de gaz à effet de serre au Québec (plus faible secteur émetteur au Québec) � 22 réseaux autonomes devant produire leur propre énergie, le plus souvent au moyen de groupes diesel X Baisse de 83,8 % des émissions de gaz à effet de serre de 1990 à 2017 � baisse principalement due à la fermeture en 2011 de la centrale de Tracy fonctionnant avec du mazout lourd
 Des réseaux autonomes approvisionnés en énergies renouvelables
 Actuellement, 99 % des Québécois sont raccordés au réseau d’Hydro-Québec.
 Toutefois, une minorité de clients ne sont pas raccordés à ce réseau, parce qu’ils habitent en région éloignée.
@@ -1082,8 +1056,6 @@ L’industrie aérospatiale mondiale, appuyée par les gouvernements, a entamé 
 Le Québec dispose d’un secteur aérospatial bien développé et peut tirer parti de ces efforts visant à réduire les émissions de gaz à effet de serre de ce secteur.
 Ce virage nécessite d’importants investissements en recherche et développement qui permettront de développeret de mettre au point de nouvelles technologies applicables à l’aérospatiale, dans des domaines aussi variésque le stockage et la gestion sécuritaire de l’énergie, la génération et la distribution d’électricité, et la fabrication avancée. Les travaux issus de ces efforts de recherche et de développement devraient ouvrir la voie à de nouvelles con!gurations aérodynamiques, permettant ainsi la conception, le développement, l’homologationet la commercialisation de nouveaux aéronefs à faible empreinte carbone.
 L’appui au développement d’un avion écologique
-Dans le but d’appuyer le secteur aérospatial québécois dans ses efforts pour s’adapter aux nouvelles réglementations environnementales, le projet mobilisateur :`Z[uTLZ� HtYVUH\[PX\LZ� K»H]HU[�NHYKL� WV\Y�
-S»LU]PYVUULTLU[ ou :(�.,, communément appelé projet mobilisateur de l’avion écologique a été mis en place.
 Par le concept des projets mobilisateurs, le gouvernement soutient !nancièrement des entreprises privées a!n qu’elles regroupent leurs efforts pour mener à bien un projet de développement d’un produit, d’un procédé ou d’un service novateur, en mobilisant des universités, des centres publics de recherche ainsi que des
 PME sous-traitantes.
 L’innovation dans divers créneaux
@@ -1220,9 +1192,6 @@ On estime que pour chaque dollar investi en prévention des sinistres,en moyenne
 Les solutions requises pour s’adapter favorisent souvent l’atteinte d’autres objectifs économiques,sociaux ou environnementaux. En tenant compte des bénéfices qui découlent de la mise en placede ces solutions, plusieurs investissements réalisés pour s’adapter peuvent donc s’avérer rentables et assurément moins coûteux que le statu quo.
 Des investissements préventifs
 Des investissements préventifs seront nécessaires pour jeter les bases d’une économie robuste et dynamique.
-Ces investissements permettront de renforcer la capacité opérationnelle et financière de l’État, des municipalités et des entreprises à faire face à un climat changeant et à ses conséquences. Ils se traduiront par des économies issues d’une réduction des dommages : moins de routes endommagéesou de personnes à déplacer ou à hospitaliser. Les sommes épargnées pourront être réinvesties dans l’économie et les services à la population plutôt que dans la réparation des dommages.. Gouvernement du Québec (2018). 7SHU�K»HJ[PVU�LU�TH[PuYL�KL�ZtJ\YP[t�
-JP]PSL�YLSH[PM�H\_�PUVUKH[PVUZ�¶�=LYZ�\UL�ZVJPt[t�X\tItJVPZL�WS\Z�YtZPSPLU[L�
-H\_�JH[HZ[YVWOLZ. Selon des données du National Institute of Building
 Sciences des États-Unis.
 Plan pour une économie verte 2030 90
 Plan pour une économie verte 2030 91

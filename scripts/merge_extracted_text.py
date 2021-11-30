@@ -13,8 +13,9 @@ nltk.download('wordnet')
 import spacy
 import string
 from sklearn.feature_extraction.text import TfidfVectorizer
-
-
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
+from sklearn.cluster import KMeans
 
 
 def merge_dataset(PATH):
@@ -68,8 +69,7 @@ def main():
     X = vectorizer.fit_transform(wiki_lst)
 
 
-    import matplotlib.pyplot as plt
-    from sklearn.cluster import KMeans
+
     Sum_of_squared_distances = []
     K = range(2,10)
     for k in K:
@@ -89,9 +89,27 @@ def main():
     wiki_cl=pd.DataFrame(list(zip(title,labels)),columns=['filename','cluster'])
 
 
-    wiki_cl.sort_values(by=['cluster']).to_csv('../files_clustering.csv', index=False)
+    write_wiki_cl = wiki_cl.sort_values(by=['cluster'])
+
+    # write_wiki_cl.to_csv('../files_clustering.csv', index=False)
 
 
+    result={'cluster':labels,'wiki':wiki_lst}
+    result=pd.DataFrame(result)
+    for k in range(0,true_k):
+        s=result[result.cluster==k]
+        text=s['wiki'].str.cat(sep=' ')
+        text=text.lower()
+        text=' '.join([word for word in text.split()])
+        wordcloud = WordCloud(max_font_size=50, max_words=100, background_color="white").generate(text)
+        print('Cluster: {}'.format(k))
+        print('Titles')
+        titles=wiki_cl[wiki_cl.cluster==k]['filename']         
+        print(titles.to_string(index=False))
+        plt.figure()
+        plt.imshow(wordcloud, interpolation="bilinear")
+        plt.axis("off")
+        plt.show()
 
 if __name__ == '__main__':
     main()

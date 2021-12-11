@@ -1,12 +1,12 @@
- https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/environnement/publications-adm/plan-economie-verte/plan-economie-verte-2030.pdf?1605540555
+
 GAGNANT
 POUR LE QUÉBEC.
 GAGNANT
 POUR LA PLANÈTE.
 POLITIQUE-CADRE D’ÉLECTRIFICATION
 ET DE LUTTE CONTRE LES CHANGEMENTS CLIMATIQUES2030
-Demande de renseignements http://environnement.gouv.qc.ca/formulaires/renseignements.asp
-Pour consulter le document https://www.quebec.ca/gouv/politiques-orientations/plan-economie-verte/
+Demande de renseignements
+Pour consulter le document
 Dépôt légal – Bibliothèque et Archives nationales du Québec, 2020
 ISBN 978-2-550-86279-6 (PDF)
 Tous droits réservés pour tous les pays.
@@ -731,7 +731,7 @@ ELYSIS : de l’aluminium sans gaz à e"et de serre
 Le projet ELYSIS, soutenu par le gouvernement du Québec, vise à développer une « technologie de rupture » prometteuse permettant de réduire les émissions de gaz à effet de serre dans les procédés industriels. Pour s’adapter aux réglementations de plus en plus strictes entourant les émissions de gaz à effet de serre, les entreprises manufacturières sont forcées de trouver des solutions pour décarboniser leurs chaînes de productionet leurs procédés industriels.
 En mai 2018, Rio Tinto et Alcoa ont annoncé un nouveau procédé révolutionnaire d’électrolyse de l’aluminium produisant de l’oxygène et éliminant les émissions directes de gaz à effet de serre associées au procédé d’électrolyse traditionnel.
 La technologie ELYSIS, si elle était pleinement implantée dans les alumineries existantes, pourrait éliminer plus de 5 millions de tonnes équivalent CO par année au Québec.
-Source : https://www.elysis.com/fr..2
+Source : .2
 Les perspectives d’électrification etle recours aux autres énergies
 L’électricité est déjà bien présente dans la majorité des industries et des grandes entreprises, parexemple dans les secteurs de l’aluminium et des pâtes et papiers, mais son utilisation est très variable d’un secteur à l’autre.
 Il est essentiel que les entreprises québécoises puissent continuer d’avoir accès à cette ressource àun prix compétitif et que de nouvelles technologies soient développées pour qu’elles l’utilisent dansun nombre grandissant de procédés.
@@ -1129,7 +1129,7 @@ L’érosion côtière et la submersion marine sont des enjeux d’importance po
 Laurent, de la Gaspésie, de la Côte-Nord et des Îles-de-la-Madeleine, où l’essentiel du développement socioéconomique s’est effectué le long des côtes.
 La hausse du niveau de la mer, combinée à une diminution du couvert de glace et à des tempêtes plus intenses, accélère l’érosion des côtes et met à risque les communautés et les infrastructures. On estime que 65 % du littoral de ces régions est sensible à l’érosion et que les taux de recul moyens peuvent atteindre deux mètres par année à certains endroits16.
 Si aucune mesure d’adaptation n’est mise en place, plus de 5 000 bâtiments et près de 300 km de routes pourraient être exposés à l’érosion d’ici 2065, avec des coûts potentiels de près de 1,5 milliardde dollars sur cette période.. Université du Québec à Rimouski (2020). Comprendre et prévenir l’érosioncôtière dans un contexte de changements climatiques, [En ligne],
-Université du Québec à Rimouski, [https://www.uquebec.ca/reseau/fr/ medias/actualites-du-reseau/comprendre-et-prevenir-lerosion-cotieredans-un-contexte-dechangements-climatiques], 11 février 2020.
+Université du Québec à Rimouski, [ medias/actualites-du-reseau/comprendre-et-prevenir-lerosion-cotieredans-un-contexte-dechangements-climatiques], 11 février 2020.
 Plan pour une économie verte 2030 85
 Plan pour une économie verte 2030 86
 Des phénomènes touchant di"éremment les régions du Québec

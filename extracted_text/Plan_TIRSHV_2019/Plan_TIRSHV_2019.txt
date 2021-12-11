@@ -1680,14 +1680,15 @@ SHV : Saines habitudes de vie
 SLSJ : Saguenay-Lac-Saint-Jean
 TIR-SHV : Table intersectorielle régionale sur les saines habi-tudes de vie
 UQAC : Université du Québec à Chicoutimi b) Mesures gouvernementales (classés en ordre alphabétique)
-PAGIEPS : Plan d’action gouvernementale pour l’inclusion économique et la participation sociale https://www.mess.gouv.qc.ca/publications/pdf/ADMIN_plan_action_2017-2023.pdf
-PAI-PGPS : Plan d’action interministérielle de la Politique gouvernementale de prévention en santé http://publications.msss.gouv.qc.ca/msss/fichiers/2017/17-297-02W.pdf
-PAPSL : Politique de l’activité physique, du sport et du loisir – Au Québec, on bouge! http://www.education.gouv.qc.ca/fileadmin/site_web/documents/loisir-sport/Politique-FR-v18_sans-bouge3.pdf
-PAR-SP : Plan d’action régional de santé publique – Saguenay-Lac-Saint-Jean https://santesaglac.gouv.qc.ca/wp-content/uploads/2018/11/PAR_Plan_daction_regional_SAGLAC_2016-2017.pdf
-Politique alimentaire pour le Canada https://www.canada.ca/content/dam/aafc-aac/documents/20190613-fr.pdf
-Politique bioalim : Politique bioalimentaire – Alimenter notre monde https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/agriculture-pecheries-alimentation/publications-adm/dossier/politiquebioalimentaire/PO_politiquebioalimentaire_MAPAQ.pdf?1549643501
+PAGIEPS : Plan d’action gouvernementale pour l’inclusion économique et la participation sociale
+PAI-PGPS : Plan d’action interministérielle de la Politique gouvernementale de prévention en santé
+PAPSL : Politique de l’activité physique, du sport et du loisir – Au Québec, on bouge!
+PAR-SP : Plan d’action régional de santé publique – Saguenay-Lac-Saint-Jean
+Politique alimentaire pour le Canada
+Politique bioalim : Politique bioalimentaire – Alimenter notre monde
+ bioalimentaire/PO_politiquebioalimentaire_MAPAQ.pdf?1549643501
 Politique de mobilité durable :
-Plan d’action 2018-2023 https://www.transports.gouv.qc.ca/fr/ministere/role_ministere/DocumentsPMD/PMD-plan-action.pdf
-Cadre d’intervention en transport actif : https://www.transports.gouv.qc.ca/fr/ministere/role_ministere/DocumentsPMD/PMD-09-cadre-intervention.pdf
+Plan d’action 2018-2023
+Cadre d’intervention en transport actif :
 PSSAC du MSSS : Programme de subvention pour soutenir la sécurité alimentaire des communautés
-Strat.0-8 : Stratégie 0 – 8 ans, Tout pour nos enfants http://www.education.gouv.qc.ca/fileadmin/site_web/documents/PSG/politiques_orientations/Strate__gie_0-8_ans.pdf https://www.mess.gouv.qc.ca/publications/pdf/ADMIN_plan_action_2017-2023.pdf http://publications.msss.gouv.qc.ca/msss/fichiers/2017/17-297-02W.pdf http://www.education.gouv.qc.ca/fileadmin/site_web/documents/loisir-sport/Politique-FR-v18_sans-bouge3.pdf https://santesaglac.gouv.qc.ca/wp-content/uploads/2018/11/PAR_Plan_daction_regional_SAGLAC_2016-2017.pdf https://www.canada.ca/content/dam/aafc-aac/documents/20190613-fr.pdf https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/agriculture-pecheries-alimentation/publications-adm/dossier/politique-bioalimentaire/PO_politiquebioalimentaire_MAPAQ.pdf?1549643501 https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/agriculture-pecheries-alimentation/publications-adm/dossier/politique-bioalimentaire/PO_politiquebioalimentaire_MAPAQ.pdf?1549643501 https://www.transports.gouv.qc.ca/fr/ministere/role_ministere/DocumentsPMD/PMD-plan-action.pdf https://www.transports.gouv.qc.ca/fr/ministere/role_ministere/DocumentsPMD/PMD-09-cadre-intervention.pdf http://www.education.gouv.qc.ca/fileadmin/site_web/documents/PSG/politiques_orientations/Strate__gie_0-8_ans.pdf
+Strat.0-8 : Stratégie 0 – 8 ans, Tout pour nos enfants

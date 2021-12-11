@@ -75,7 +75,10 @@ def images_extraction(pdf_path, folder_save):
 	        except:
 	        	print("An exception occurred")
 	        
+def remove_urls(text):
+	text = re.sub(r"http\S+", "", text)
 
+	return text
 
 def fix_rotated_text(text):
 	
@@ -123,7 +126,7 @@ def text_preprocessing(text, output_file):
 	
 	# ~ add cleaning functions
 	text = space_remove(text)
-
+	text = remove_urls(text)
 
 	text = fix_rotated_text(text)
 	text = link_lines(text)

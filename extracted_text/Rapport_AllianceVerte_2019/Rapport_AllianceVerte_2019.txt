@@ -1,4 +1,4 @@
- https://allianceverte.org/wp-content/uploads/2020/06/AV_rapport_perfo2019_FR_WEB
+
 RAPPORT DE
 PERFORMANCE
 Ronald W. Tursi
@@ -63,7 +63,7 @@ JANVIER
 L’Alliance verte nomme un directeur général.
 Nouvel indicateur : leadership environnementalpour les ports.
 OCTOBRE
-L’Alliance verte élargit son membership à toutes les compagnies maritimes opérant au Canada et aux États-Unis. http://:%20https://allianceverte.org/green-marine-europe
+L’Alliance verte élargit son membership à toutes les compagnies maritimes opérant au Canada et aux États-Unis.
 RAPPORT DE PERFORMANCE // 5
 TOUJOURS!AU-DELÀ!DE!LA!CONFORMITÉ!RÉGLEMENTAIRE…
 Il faut un certain temps pour se familiariser avec tous les critères du programme pour chaque indicateur de rendement. Heureusement, les participants de l’Alliance verte s’engagent à long terme et leurs niveaux globaux de performance augmentent avec le temps, comme l’indique ce graphique dans lequel toutce qui dépasse le niveau 1 surpasse les exigences réglementaires. Pour rester fidèle à son principe d’amélioration continue, l’Alliance verte exige égalementque tout nouveau participant atteigne au moins un niveau 2 pour l’un des indicateurs dans le cadre de sa première année d’évaluation. 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 201720162012 20202014
@@ -511,4 +511,5 @@ HALIFAX
 CP 27021 Fenwick
 Halifax, Nova Scotia, B3H 4M8 680-6348
 BUREAUX ÉQUIPE allianceverte.org green-marine-alliance-verte
-@GMarine_AVerte http://allianceverte.org https://www.linkedin.com/company/green-marine-alliance-verte https://twitter.com/GMarine_AVerte
+@GMarine_AVerte
+

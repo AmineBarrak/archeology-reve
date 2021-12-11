@@ -26,7 +26,7 @@ ISBN 978-2-550-81535-8 (imprimé)
 ISBN 978-2-550-81536-5 (pdf)
 Dépôt légal – Bibliothèque et Archives nationales du Québec, 2018
 Dépôt légal – Bibliothèque et Archives Canada, 2018
-© Gouvernement du Québec, 2018 http://vieilliretvivreensemble.gouv.qc.ca
+© Gouvernement du Québec, 2018
 Avant-propos
 Le Québec affiche un accroissement rapide de sa population vieillissante.
 Selon les données les plus récentes, il compte plus de 1,5 million de personnes âgées de 65 ans et plus. Présentement, une personne sursix fait partie de cette catégorie d’âge et en 2031, ce sera une personne sur quatre.
@@ -1509,25 +1509,25 @@ Un Québec pour tous les âges 12 271,0
 (1) Incluant 45,8 M$ pour des mesures budgétaires, 267,6 M$ en mesures fiscales à l’égard du vieillissement actif des aînés, l’ajout de 1 000 unités AccèsLogis pour les aînés (65,4 M$)ainsi que les nouvelles mesures en santé pour les aînés prévues au Plan économique de mars 2018 (420,0 M$).
 ANNEXES
 Un Québecpour tous les âges
-ANDRÉ, D. (2016). « Quelques constats sur la population des municipalités du Québec au 1er juillet 2015 », Coup d’œil sociodémographique, 45, Institut de la statistique du Québec, [En ligne], http://www.stat.gouv.qc.ca/statistiques/populationdemographie/bulletins/coupdoeil-no45.pdf.
+ANDRÉ, D. (2016). « Quelques constats sur la population des municipalités du Québec au 1er juillet 2015 », Coup d’œil sociodémographique, 45, Institut de la statistique du Québec, [En ligne],  demographie/bulletins/coupdoeil-no45.pdf.
 BENGTSON, V.L., R. GIARRUSSO, J.B. MABRY et M. SILVERSTEIN (2002). “Solidarity, conflict and ambivalence: comple-mentary or competing perspectives on intergenerational relationships?”, Journal of Marriage and the Family, 64, p. 568-576.
 CHARPENTIER, M., et V. BILLETTE (2010). « Conjuguer vieillir au féminin pluriel »; dans CHARPENTIER et al. (éd.). Vieillir au pluriel : perspectives sociales, Québec, Presses de l’Université du Québec, p. 55-72.
 CHARPENTIER, M., N. GUBERMAN, V. BILLETTE, J.-P. LAVOIE, A. GRENIER et I. OLAZABAL (éd.). (2010). Vieillir au pluriel : perspectives sociales, Québec, Presses de l’Université du Québec.
 CHARPENTIER, M., et A. QUÉNIART (2007). Pas de retraite pour l’engagement citoyen, Québec, Presses de l’Université du
 Québec.
 CHARPENTIER, M., A. QUÉNIART, N. GUBERMAN et N. BLANCHARD (2004). « Les femmes aînées et l’engagement social :une analyse exploratoire du cas des mémés déchaînées », Lien social et Politiques, 51, p. 135-143.
-CCS – CONSEIL CANADIEN DE LA SANTÉ (2013). Les plus vulnérables au Canada : améliorer les soins de santé pour les personnes âgées des Premières Nations, inuites et métisses, Toronto, Conseil canadien de la santé, [En ligne], http:// publications.gc.ca/collections/collection_2013/ccs-hcc/H174-40-2013-fra.pdf.
-CONSEIL DES AÎNÉS (2008). Pour un équilibre vital : des responsabilités équitables. Avis sur l’état de situation des prochesaidants auprès des personnes âgées en perte d’autonomie, Québec, Gouvernement du Québec, [En ligne], http://collections. banq.qc.ca/ark:/52327/bs65910.
-CRESPO, S., et S. RHEAULT (2013). Revenu, faible revenu et inégalité de revenu : portrait des Québécoises et des Québécois de 55 ans et plus vivant en logement privé, Québec, Institut de la statistique du Québec, [En ligne], http://www.stat.gouv.qc.ca/ statistiques/conditions-vie-societe/revenu/revenu-faible-revenu-2013.pdf.
-CSE – CONSEIL SUPÉRIEUR DE L’ÉDUCATION (2016). L’éducation populaire : mise en lumière d’une approche éducative incontournable tout au long et au large de la vie, Québec, gouvernement du Québec, [En ligne], https://www.cse.gouv.qc.ca/ fichiers/documents/publications/Avis/50-0492.pdf.
+CCS – CONSEIL CANADIEN DE LA SANTÉ (2013). Les plus vulnérables au Canada : améliorer les soins de santé pour les personnes âgées des Premières Nations, inuites et métisses, Toronto, Conseil canadien de la santé, [En ligne],  publications.gc.ca/collections/collection_2013/ccs-hcc/H174-40-2013-fra.pdf.
+CONSEIL DES AÎNÉS (2008). Pour un équilibre vital : des responsabilités équitables. Avis sur l’état de situation des prochesaidants auprès des personnes âgées en perte d’autonomie, Québec, Gouvernement du Québec, [En ligne],  banq.qc.ca/ark:/52327/bs65910.
+CRESPO, S., et S. RHEAULT (2013). Revenu, faible revenu et inégalité de revenu : portrait des Québécoises et des Québécois de 55 ans et plus vivant en logement privé, Québec, Institut de la statistique du Québec, [En ligne],  statistiques/conditions-vie-societe/revenu/revenu-faible-revenu-2013.pdf.
+CSE – CONSEIL SUPÉRIEUR DE L’ÉDUCATION (2016). L’éducation populaire : mise en lumière d’une approche éducative incontournable tout au long et au large de la vie, Québec, gouvernement du Québec, [En ligne],  fichiers/documents/publications/Avis/50-0492.pdf.
 DE KONINCK, M., R. PAMPALON, G. PAQUET, M. CLÉMENT, A.-M. HAMELIN, M.-J. DISANT, G. TRUDEL et A. LEBEL (2008).
 Santé : pourquoi ne sommes-nous pas égaux? Comment les inégalités sociales de santé se créent et se perpétuent, Québec,
-Institut national de santé publique du Québec, [En ligne], https://www.inspq.qc.ca/pdf/publications/794_Inegalites_sociales_sante.pdf.
+Institut national de santé publique du Québec, [En ligne],  les_sante.pdf.
 FONDATION ÉMERGENCE (2013). Pour que vieillir soit gai, dans le respect et la dignité : fiches d’information, Montréal,
-Fondation Émergence, [En ligne], https://www.fondationemergence.org/wp-content/uploads/2015/02/PQVSG_fiches.pdf.
-FORUM INTERNATIONAL DES TRANSPORTS (2012). Piétons : sécurité, espace urbain et santé, Édition OCDE, [En ligne], http://www.oecd.org/fr/publications/pietons-9789282103678-fr.htm.
+Fondation Émergence, [En ligne], 
+FORUM INTERNATIONAL DES TRANSPORTS (2012). Piétons : sécurité, espace urbain et santé, Édition OCDE, [En ligne],
 FOURNIER, C., C. LECOURS et M. GAGNÉ (2012). « Les chutes chez les personnes âgées de 65 ans et plus vivant à domicile au Québec : ce que révèle l’Enquête sur la santé dans les collectivités canadiennes, Vieillissement en santé 2008-2009 »,
-Zoom santé, 39, Institut de la statistique du Québec, [En ligne], http://www.stat.gouv.qc.ca/statistiques/sante/bulletins/zoomsante-201211.pdf.
+Zoom santé, 39, Institut de la statistique du Québec, [En ligne],  sante-201211.pdf.
 FRÉCHET, G. (2012). « Un portrait équivoque : la pauvreté chez les personnes âgées au Québec »; dans RHEAULT, S., et
 J. POIRIER (éd.). Le vieillissement démographique : de nombreux enjeux à déchiffrer, Québec, Institut de la statistique du
 Québec, p. 113-129.
@@ -1538,103 +1538,103 @@ Case Studies From Quebec, Canada”, Journal of Aging and Social Policy, 26 (1-2
 GAUDREAULT, A., et L. CLOUTIER-VILLENEUVE (2012). « Conditions économiques et perspectives de retraite des travailleurs âgés au Québec »; dans RHEAULT, S., et J. POIRIER (éd.). Le vieillissement démographique : de nombreux enjeux à déchiffrer,
 Québec, Institut de la statistique du Québec, p. 69-83.
 GAUTHIER, H., S. JEAN, G. LANGIS, Y. NOBERT et M. ROCHON (2004). Les personnes âgées et le vieillissement démographique. Vie des générations et personnes âgées : aujourd’hui et demain, volume 1, Québec, Institut de la statistique du
-Québec, [En ligne], http://www.stat.gouv.qc.ca/statistiques/conditions-vie-societe/vie-generation-1.pdf.
+Québec, [En ligne], 
 Références
-GOUVERNEMENT DU CANADA (2017). Sécurité de la vieillesse (SV) – Nombre de personnes recevant des prestations de la sécuritéde la vieillesse, selon la province et le type, tableau de données, [En ligne], http://ouvert.canada.ca/data/fr/dataset/77381606-c0-411a-a7cd-eba5d038c1c4?_ga=2.118512833.933258156.1499094672-1571086548.1494351013.
+GOUVERNEMENT DU CANADA (2017). Sécurité de la vieillesse (SV) – Nombre de personnes recevant des prestations de la sécuritéde la vieillesse, selon la province et le type, tableau de données, [En ligne], c0-411a-a7cd-eba5d038c1c4?_ga=2.118512833.933258156.1499094672-1571086548.1494351013.
 GRENIER, A., et S. BROTMAN (2010). « Les multiples vieillissements et leurs représentations »; dans CHARPENTIER et al. (éd.). Vieillir au pluriel. Perspectives sociales, Montréal, Presses de l’Université du Québec, p. 23-33.
 GUSTAFSSON, P. E., M. SAN SEBASTIAN, U. JANLERT, T. THEORELL, H. WESTERLUND et A. HAMMARSTRÖM (2014).
 “Life-course accumulation of neighborhood disadvantage and allostatic load: empirical integration of three social determinantsof health frameworks”, American Journal of Public Health, 104(5), p. 904-910.
 ILC-BRAZIL – INTERNATIONAL LONGEVITY CENTRE BRAZIL (2015). Active Ageing: A Policy Framework in Response to the
 Longevity Revolution, Rio de Janeiro, Centro Internacional de Longevidade Brasil.
-INSTITUT DE LA STATISTIQUE DU QUÉBEC (2011). Le bilan démographique du Québec, édition 2011, Québec, Gouvernement du Québec, [En ligne], http://www.stat.gouv.qc.ca/statistiques/population-demographie/bilan2011.pdf.
+INSTITUT DE LA STATISTIQUE DU QUÉBEC (2011). Le bilan démographique du Québec, édition 2011, Québec, Gouvernement du Québec, [En ligne], 
 INSTITUT DE LA STATISTIQUE DU QUÉBEC (2011). Ménages privés selon la taille, Québec, 1951-2011, tableaux de données,
-Gouvernement du Québec, [En ligne], http://www.stat.gouv.qc.ca/statistiques/population-demographie/familles-menages/ tableau_03.htm.
-INSTITUT DE LA STATISTIQUE DU QUÉBEC (2014). Perspectives démographiques du Québec et des régions, 2011-2061, édition 2014, Québec, gouvernement du Québec, [En ligne], http://www.stat.gouv.qc.ca/statistiques/population-demographie/ perspectives/perspectives-2011-2061.pdf.
-INSTITUT DE LA STATISTIQUE DU QUÉBEC (2015). Répartition des bénéficiaires principaux âgés de 15 ans et plus selon certaines caractéristiques, proches aidants âgés de 15 ans et plus, Québec, Canada hors Québec et ensemble du Canada,, gouvernement du Québec, [En ligne] : http://www.stat.gouv.qc.ca/statistiques/conditions-vie-societe/soutien-socialentraide/statistiques_proches_aidants_t5_3_1.htm.
-INSTITUT DE LA STATISTIQUE DU QUÉBEC (2016). Le bilan démographique du Québec, édition 2016, Québec, gouvernement du Québec, [En ligne], http://www.stat.gouv.qc.ca/statistiques/population-demographie/bilan2016.pdf.
-INSTITUT DE LA STATISTIQUE DU QUÉBEC (2017). Panorama des régions du Québec, édition 2017, Québec, gouvernement du Québec, [En ligne], [http://www.bdso.gouv.qc.ca/docs-ken/multimedia/PB01629FR_pano_regions2017A00F01.pdf].
+Gouvernement du Québec, [En ligne],  tableau_03.htm.
+INSTITUT DE LA STATISTIQUE DU QUÉBEC (2014). Perspectives démographiques du Québec et des régions, 2011-2061, édition 2014, Québec, gouvernement du Québec, [En ligne],  perspectives/perspectives-2011-2061.pdf.
+INSTITUT DE LA STATISTIQUE DU QUÉBEC (2015). Répartition des bénéficiaires principaux âgés de 15 ans et plus selon certaines caractéristiques, proches aidants âgés de 15 ans et plus, Québec, Canada hors Québec et ensemble du Canada,, gouvernement du Québec, [En ligne] :  entraide/statistiques_proches_aidants_t5_3_1.htm.
+INSTITUT DE LA STATISTIQUE DU QUÉBEC (2016). Le bilan démographique du Québec, édition 2016, Québec, gouvernement du Québec, [En ligne], 
+INSTITUT DE LA STATISTIQUE DU QUÉBEC (2017). Panorama des régions du Québec, édition 2017, Québec, gouvernement du Québec, [En ligne], [
 INSTITUT DE LA STATISTIQUE DU QUÉBEC (2018). Taux d’activité et taux d’emploi, résultats selon le groupe d’âge détaillé,
-Québec, gouvernement du Québec, En ligne], [http://www.stat.gouv.qc.ca/statistiques/travail-remuneration/population-activechomage/indicateur-marche/index.html.
+Québec, gouvernement du Québec, En ligne], [ chomage/indicateur-marche/index.html.
 INSTITUT DE LA STATISTIQUE DU QUÉBEC (2018). Le Québec chiffres en main, édition 2018, Québec, gouvernement du
-Québec, [En ligne], http://stat.gouv.qc.ca/quebec-chiffre-main/pdf/qcm2018_fr.pdf.
-INSTITUT DE LA STATISTIQUE DU QUÉBEC (2018). Bénévolat, dons et participation sociale, gouvernement du Québec, [En ligne], http://www.stat.gouv.qc.ca/statistiques/conditions-vie-societe/benevolat/index.html.
+Québec, [En ligne], 
+INSTITUT DE LA STATISTIQUE DU QUÉBEC (2018). Bénévolat, dons et participation sociale, gouvernement du Québec, [En ligne], 
 LAVOIE, C., M. PARIS, S. GARON ET P. MORIN (2016). « Multiplier les modèles d’habitation innovants pour une meilleure santédes aînés et des communautés », Intervention, (143), p. 61-75.
-LECOURS, C. (2015). « Portrait des proches aidants et les conséquences de leurs responsabilités d’aidant », Coup d’œil sociodémographique, 43, Institut de la statistique du Québec, [En ligne], http://www.stat.gouv.qc.ca/statistiques/populationdemographie/bulletins/coupdoeil-no43.pdf.
+LECOURS, C. (2015). « Portrait des proches aidants et les conséquences de leurs responsabilités d’aidant », Coup d’œil sociodémographique, 43, Institut de la statistique du Québec, [En ligne],  demographie/bulletins/coupdoeil-no43.pdf.
 LECOURS, C., M.P. LABRIE et N. OUELLETTE (2015). « Inégalités sociales de santé au Québec : prévalence de l’incapacité et des maladies chroniques selon l’âge et le niveau de défavorisation en 2010-2011 », Canadian Public Policy, 41(supplément 2), p. S34-S43.
-LÉGER (2015). Les aspirations des Québécois en matière de politiques sociales, Montréal, projet 12989-034, réalisé pour lecompte de la Fondation Lucie et André Chagnon, [En ligne], http://fondationchagnon.org/media/117015/fondation-lucie-etandre-chagnon_etude-sur-les-aspirations-quebecoises_p.pdf.
+LÉGER (2015). Les aspirations des Québécois en matière de politiques sociales, Montréal, projet 12989-034, réalisé pour lecompte de la Fondation Lucie et André Chagnon, [En ligne],  andre-chagnon_etude-sur-les-aspirations-quebecoises_p.pdf.
 LEVESQUE, P., GAGNÉ M., PELLETIER, É., PERRON, P.A. (2018). La mortalité par suicide au Québec: 1981 à 2015 - Mise à jour 2018. Québec, Bureau d’information et d’études en santé des populations, Institut national de santé publique du Québec, p. 23, tableau A2.)
 MARMOT, M., T. ATKINSON, J. BELL, C. BLACK, P. BROADFOOT, J.I. CUMBERLEGE, I. DIAMOND, C. HAM, M. MEACHER et
 G. MULGAN (2010). Fair society, healthy lives: The Marmot Review, strategic review of health inequalities in England post-2010,
 Technical report, London, The Marmot Review.
-MARTEL-POLIQUIN, ÉRIC (2012). Mieux comprendre les déterminants du choix modal, Mémoire de maîtrise, École polytechnique, Montréal, [En ligne], http://publications.polymtl.ca/904/.
+MARTEL-POLIQUIN, ÉRIC (2012). Mieux comprendre les déterminants du choix modal, Mémoire de maîtrise, École polytechnique, Montréal, [En ligne], 
 MÉNARD, F.-P., et C. LE BOURDAIS (2012). « Diversification des trajectoires familiales et conséquences prévisibles sur leréseau de soutien des Canadiens âgés de demain », Cahiers québécois de démographie, 41(1), p. 131-161.
-MINISTÈRE DE LA FAMILLE (2012). Vieillir et vivre ensemble Chez soi, dans sa communauté, au Québec, Québec, gouvernement du Québec, [En ligne], https://www.mfa.gouv.qc.ca/fr/publication/Documents/politique-vieillir-et-vivre-ensemble.pdf.
+MINISTÈRE DE LA FAMILLE (2012). Vieillir et vivre ensemble Chez soi, dans sa communauté, au Québec, Québec, gouvernement du Québec, [En ligne], 
 RÉFÉRENCES
 Un Québecpour tous les âges
-MINISTÈRE DE LA FAMILLE (2015). « Comment vivent les personnes aînées? Une description de la situation résidentielle et familiale des Québécois âgés de 65 ans ou plus », Quelle famille?, 3(3), [En ligne], https://www.mfa.gouv.qc.ca/fr/publication/
+MINISTÈRE DE LA FAMILLE (2015). « Comment vivent les personnes aînées? Une description de la situation résidentielle et familiale des Québécois âgés de 65 ans ou plus », Quelle famille?, 3(3), [En ligne], 
 Documents/quelle-famille-automne-2015.pdf.
-MINISTÈRE DE LA FAMILLE (2017). La norme Conciliation travail-famille, Québec, gouvernement du Québec, [En ligne], https:// www.mfa.gouv.qc.ca/fr/Famille/travail-famille/norme/Pages/index.aspx.
-MINISTÈRE DE LA FAMILLE (2017). Plan d’action gouvernemental pour contrer la maltraitance envers les personnes aînées-2022, Québec, gouvernement du Québec, [En ligne], https://www.mfa.gouv.qc.ca/fr/publication/Documents/planaction-maltraitance-2017-2022.pdf.
-MINISTÈRE DE LA FAMILLE (2017). Vieillir et vivre ensemble chez soi, dans sa communauté, au Québec : bilan du plan d’action 2012-2017, Québec, gouvernement du Québec, [En ligne], https://www.mfa.gouv.qc.ca/fr/publication/Documents/ vve-12-17-bilan.pdf.
+MINISTÈRE DE LA FAMILLE (2017). La norme Conciliation travail-famille, Québec, gouvernement du Québec, [En ligne],  www.mfa.gouv.qc.ca/fr/Famille/travail-famille/norme/Pages/index.aspx.
+MINISTÈRE DE LA FAMILLE (2017). Plan d’action gouvernemental pour contrer la maltraitance envers les personnes aînées-2022, Québec, gouvernement du Québec, [En ligne],  action-maltraitance-2017-2022.pdf.
+MINISTÈRE DE LA FAMILLE (2017). Vieillir et vivre ensemble chez soi, dans sa communauté, au Québec : bilan du plan d’action 2012-2017, Québec, gouvernement du Québec, [En ligne],  vve-12-17-bilan.pdf.
 MINISTÈRE DE LA FAMILLE ET DES AÎNÉS (2011). Un portrait statistique des familles au Québec, gouvernement du Québec,
-[En ligne], https://www.mfa.gouv.qc.ca/fr/publication/Documents/SF_Portrait_stat_faits_saillants_11.pdf.
-MINISTÈRE DE LA JUSTICE (2017). Plan d’action gouvernemental de lutte contre l’homophobie et la transphobie 2017-2022, Québec, gouvernement du Québec, [En ligne], https://www.justice.gouv.qc.ca/ministere/ la-lutte-contre-lhomophobie-et-la-transphobie/.
-MINISTÈRE DE LA SANTÉ ET DES SERVICES SOCIAUX (2003). Chez soi : le premier choix. La politique de soutien à domicile, Québec, gouvernement du Québec, [En ligne], http://publications.msss.gouv.qc.ca/acrobat/f/documentation/2002/-704-01.pdf.
+[En ligne], 
+MINISTÈRE DE LA JUSTICE (2017). Plan d’action gouvernemental de lutte contre l’homophobie et la transphobie 2017-2022, Québec, gouvernement du Québec, [En ligne],  la-lutte-contre-lhomophobie-et-la-transphobie/.
+MINISTÈRE DE LA SANTÉ ET DES SERVICES SOCIAUX (2003). Chez soi : le premier choix. La politique de soutien à domicile, Québec, gouvernement du Québec, [En ligne], -704-01.pdf.
 MINISTÈRE DE LA SANTÉ ET DES SERVICES SOCIAUX (2014). Plan d’action interministériel en itinérance 2015-2020 –
-Mobilisés et engagés pour prévenir et réduire l’itinérance, Québec, gouvernement du Québec, [En ligne], http://publications. msss.gouv.qc.ca/msss/document-001028/.
-MINISTÈRE DE LA SANTÉ ET DES SERVICES SOCIAUX (2015). Programme national de santé publique 2015-2025 – Pour améliorer la santé de la population du Québec, Québec, gouvernement du Québec, [En ligne] http://publications.msss.gouv. qc.ca/msss/document-001565/.
-MINISTÈRE DE LA SANTÉ ET DES SERVICES SOCIAUX (2015). Plan d’action en santé mentale 2015-2020 – Faire ensemble et autrement, Québec, gouvernement du Québec, [En ligne], [http://publications.msss.gouv.qc.ca/msss/document-001319/]
-MINISTÈRE DE LA SANTÉ ET DES SERVICES SOCIAUX (2016). Politique gouvernementale de prévention en santé : un projet d’envergure pour améliorer la santé et la qualité de vie de la population, Québec, gouvernement du Québec, [En ligne], http:// publications.msss.gouv.qc.ca/msss/fichiers/2016/16-297-08W.pdf.
-MINISTÈRE DE L’ÉCONOMIE, DE LA SCIENCE ET DE L’INNOVATION (2015). Plan d’action gouvernemental en économie sociale 2015-2020 – L’économie sociale, des valeurs qui nous enrichissent, Québec, gouvernement du Québec, [En ligne], https://www.economie.gouv.qc.ca/bibliotheques/programmes/mesures-fiscales/ plan-daction-gouvernemental-en-economie-sociale-2015-2020/
-MINISTÈRE DE L’ÉDUCATION ET DE L’ENSEIGNEMENT SUPÉRIEUR (2017). Politique de l’activité physique, du sport et du loisir au Québec, on bouge !, Québec, gouvernement du Québec, [En ligne], http://www.education.gouv.qc.ca/municipalites/ politique-de-lactivite-physique-du-sport-et-du-loisir/au-quebec-on-bouge/.
-MINISTÈRE DE L’IMMIGRATION, DE LA DIVERSITÉ ET DE L’INCLUSION (2016). Bulletin statistique sur l’immigration permanente au Québec, gouvernement du Québec, [En ligne], http://www.midi.gouv.qc.ca/publications/fr/recherches-statistiques/
+Mobilisés et engagés pour prévenir et réduire l’itinérance, Québec, gouvernement du Québec, [En ligne],  msss.gouv.qc.ca/msss/document-001028/.
+MINISTÈRE DE LA SANTÉ ET DES SERVICES SOCIAUX (2015). Programme national de santé publique 2015-2025 – Pour améliorer la santé de la population du Québec, Québec, gouvernement du Québec, [En ligne]  qc.ca/msss/document-001565/.
+MINISTÈRE DE LA SANTÉ ET DES SERVICES SOCIAUX (2015). Plan d’action en santé mentale 2015-2020 – Faire ensemble et autrement, Québec, gouvernement du Québec, [En ligne], [
+MINISTÈRE DE LA SANTÉ ET DES SERVICES SOCIAUX (2016). Politique gouvernementale de prévention en santé : un projet d’envergure pour améliorer la santé et la qualité de vie de la population, Québec, gouvernement du Québec, [En ligne],  publications.msss.gouv.qc.ca/msss/fichiers/2016/16-297-08W.pdf.
+MINISTÈRE DE L’ÉCONOMIE, DE LA SCIENCE ET DE L’INNOVATION (2015). Plan d’action gouvernemental en économie sociale 2015-2020 – L’économie sociale, des valeurs qui nous enrichissent, Québec, gouvernement du Québec, [En ligne],  plan-daction-gouvernemental-en-economie-sociale-2015-2020/
+MINISTÈRE DE L’ÉDUCATION ET DE L’ENSEIGNEMENT SUPÉRIEUR (2017). Politique de l’activité physique, du sport et du loisir au Québec, on bouge !, Québec, gouvernement du Québec, [En ligne],  politique-de-lactivite-physique-du-sport-et-du-loisir/au-quebec-on-bouge/.
+MINISTÈRE DE L’IMMIGRATION, DE LA DIVERSITÉ ET DE L’INCLUSION (2016). Bulletin statistique sur l’immigration permanente au Québec, gouvernement du Québec, [En ligne], 
 BulletinStatistique-2016trimestre1-ImmigrationQuebec.pdf.
-MINISTÈRE DE L’IMMIGRATION, DE LA DIVERSITÉ ET DE L’INCLUSION (2016). Stratégie d’action en matière d’immigration, de participation et d’inclusion 2016-2021, Québec, gouvernement du Québec, [En ligne], http://www.midi.gouv.qc.ca/fr/ dossiers/consultation-publique.html.
-MINISTÈRE DES TRANSPORTS, DE LA MOBILITÉ DURABLE ET DE L’ÉLECTRIFICATION DES TRANSPORTS (2018). Politique de mobilité durable 2030 -Transporter le Québec vers la modernité, Québec, gouvernement du Québec, [En ligne], https:// www.transports.gouv.qc.ca/fr/ministere/role_ministere/DocumentsPMD/politique-mobilite-durable.pdf.
+MINISTÈRE DE L’IMMIGRATION, DE LA DIVERSITÉ ET DE L’INCLUSION (2016). Stratégie d’action en matière d’immigration, de participation et d’inclusion 2016-2021, Québec, gouvernement du Québec, [En ligne],  dossiers/consultation-publique.html.
+MINISTÈRE DES TRANSPORTS, DE LA MOBILITÉ DURABLE ET DE L’ÉLECTRIFICATION DES TRANSPORTS (2018). Politique de mobilité durable 2030 -Transporter le Québec vers la modernité, Québec, gouvernement du Québec, [En ligne],  www.transports.gouv.qc.ca/fr/ministere/role_ministere/DocumentsPMD/politique-mobilite-durable.pdf.
 MINISTÈRE DU CONSEIL EXÉCUTIF – SECRÉTARIAT À LA JEUNESSE (2016a). Politique québécoise de la jeunesse 2030,
-[En ligne], https://www.jeunes.gouv.qc.ca/politique/index.asp.
-MINISTÈRE DU CONSEIL EXÉCUTIF – SECRÉTARIAT À LA JEUNESSE (2016b). Stratégie d’action jeunesse 2016-2021, En ligne], https://www.jeunes.gouv.qc.ca/publications/documents/strategie-2016-2021.pdf.
+[En ligne], 
+MINISTÈRE DU CONSEIL EXÉCUTIF – SECRÉTARIAT À LA JEUNESSE (2016b). Stratégie d’action jeunesse 2016-2021, En ligne], 
 MINISTÈRE DU CONSEIL EXÉCUTIF – SECRÉTARIAT AUX AFFAIRES AUTOCHTONES (2017). Plan d’action gouvernementalpour le développement social et culturel des Premières Nations et des Inuits 2017-2022, Québec, gouvernement du Québec,
-[En ligne], https://www.autochtones.gouv.qc.ca/plan-action-social-culturel/index.asp.
-MINISTÈRE DU TRAVAIL, DE L’EMPLOI ET DE LA SOLIDARITÉ SOCIALE (2017). Plan d’action gouvernemental pour l’inclusion économique et la participation sociale 2017-2023 – Un revenu de base pour une société plus juste, Québec, gouvernement du Québec, [En ligne], https://www.mtess.gouv.qc.ca/grands-dossiers/plan-action/index.asp.
+[En ligne], 
+MINISTÈRE DU TRAVAIL, DE L’EMPLOI ET DE LA SOLIDARITÉ SOCIALE (2017). Plan d’action gouvernemental pour l’inclusion économique et la participation sociale 2017-2023 – Un revenu de base pour une société plus juste, Québec, gouvernement du Québec, [En ligne], 
 MOULAERT, T et S. GARON (sous la direction, 2016). “Age-Friendly Cities and Communities in International Comparison”,
 New York, Springer editor.
-OFFICE DES PERSONNES HANDICAPÉES DU QUÉBEC (2017). Vers des parcours sans obstacles : éléments à considérer pour favoriser l’accessibilité des espaces publics extérieurs, gouvernement du Québec, site de l’OPHQ, [En ligne], https:// www.ophq.gouv.qc.ca/publications/guides-de-loffice/guides-pour-les-ministeres-les-organismes-publics-et-les-municipalites/ vers-des-parcours-sans-obstacles.html.
+OFFICE DES PERSONNES HANDICAPÉES DU QUÉBEC (2017). Vers des parcours sans obstacles : éléments à considérer pour favoriser l’accessibilité des espaces publics extérieurs, gouvernement du Québec, site de l’OPHQ, [En ligne],  www.ophq.gouv.qc.ca/publications/guides-de-loffice/guides-pour-les-ministeres-les-organismes-publics-et-les-municipalites/ vers-des-parcours-sans-obstacles.html.
 OLAZABAL, I., J. LE GALL, C. MONTGOMERY, M.-E. LAQUERRE et I. WALLACH (2010). « Diversité ethnoculturelle et personnes âgées immigrantes »; dans CHARPENTIER et al. (éd.), Vieillir au pluriel : perspectives sociales, Québec, Presses de l’Université du Québec, p. 73-92.
-ORGANISATION MONDIALE DE LA SANTÉ (2002). Vieillir en restant actif : cadre d’orientation, contribution de l’Organisation mondiale de la santé à la deuxième Assemblée mondiale des Nations Unies sur le vieillissement, Madrid, Espagne, [En ligne], http://apps.who.int/iris/bitstream/10665/67758/1/WHO_NMH_NPH_02.8_fre.pdf.
-ORGANISATION MONDIALE DE LA SANTÉ (2011). Statistiques sanitaires mondiales 2011, Genève, Organisation mondiale de la santé, [En ligne], http://www.who.int/entity/gho/publications/world_health_statistics/FR_WHS2011_Full.pdf?ua=1.
-PAMPALON, R., D. HAMEL et P. GAMACHE (2008). Les inégalités sociales de santé augmentent-elles au Québec? Une étude de l’évolution récente de la mortalité prématurée selon l’indice de défavorisation matérielle et sociale, le sexe, la cause principalede décès et le milieu géographique, Québec, Institut national de santé publique du Québec, [En ligne], https://www.inspq. qc.ca/pdf/publications/778-BulletinMortaliteEvolution.pdf.
+ORGANISATION MONDIALE DE LA SANTÉ (2002). Vieillir en restant actif : cadre d’orientation, contribution de l’Organisation mondiale de la santé à la deuxième Assemblée mondiale des Nations Unies sur le vieillissement, Madrid, Espagne, [En ligne],
+ORGANISATION MONDIALE DE LA SANTÉ (2011). Statistiques sanitaires mondiales 2011, Genève, Organisation mondiale de la santé, [En ligne], 
+PAMPALON, R., D. HAMEL et P. GAMACHE (2008). Les inégalités sociales de santé augmentent-elles au Québec? Une étude de l’évolution récente de la mortalité prématurée selon l’indice de défavorisation matérielle et sociale, le sexe, la cause principalede décès et le milieu géographique, Québec, Institut national de santé publique du Québec, [En ligne],  qc.ca/pdf/publications/778-BulletinMortaliteEvolution.pdf.
 PAMPALON, R., D. HAMEL et P. GAMACHE (2009). “A comparison of individual and area-based socio-economic data for monitoring social inequalities in health”, Statistique Canada, no 82-003-X au catalogue, Health Reports, 20(3), p. 85-94.
 PAYEUR, FRÉDÉRIC F. (2018). « La population en logement collectif au Québec en 2016 », Données sociodémographiques en bref, vol. 22, no 2, février, Institut de la statistique du Québec, [En ligne], www.stat.gouv.qc.ca/statistiques/conditions-viesociete/bulletins/sociodemo-vol22-no2.pdf.
 QUESNEL-VALLÉE, A., et J. OGG (2015). « Évaluer la pauvreté au Québec », Retraite et société, 70(1), p. 135-138.
-REID, R., J. HAGGERTY et R. MCKENDRY (2002). Dissiper la confusion : concepts et mesures de la continuité des soins, Fondation canadienne de la recherche sur les services de santé, [En ligne], http://www.fcass-cfhi.ca/Migrated/PDF/
+REID, R., J. HAGGERTY et R. MCKENDRY (2002). Dissiper la confusion : concepts et mesures de la continuité des soins, Fondation canadienne de la recherche sur les services de santé, [En ligne], 
 ResearchReports/CommissionedResearch/cr_contcare_f.pdf.
 ROY, B., et M. DE KONINCK (2013). « La recherche qualitative sur les inégalités sociales de santé : le parcours de vie », Revue canadienne de santé publique, 104(2), p. 154-158.
-SECRÉTARIAT À LA CONDITION FÉMININE (2016). Stratégie gouvernementale pour prévenir et contrer les violences sexuelles-2021, Québec, gouvernement du Québec, [En ligne], http://www.scf.gouv.qc.ca/index.php?id=949.
-SECRÉTARIAT À LA CONDITION FÉMININE (2017). Stratégie gouvernementale pour l’égalité entre les femmes et les hommes vers 2021, Québec, gouvernement du Québec, [En ligne], http://www.scf.gouv.qc.ca/index.php?id=998.
-SÉNAT DU CANADA (2009). Le vieillissement de la population, un phénomène à valoriser, Ottawa, Comité sénatorial sur le vieillissement, rapport final, [En ligne], https://sencanada.ca/content/sen/Committee/402/agei/rep/AgingFinalReport-f.pdf.
-SERVICES QUÉBEC (2018). Programmes et services pour les aînés, Québec, gouvernement du Québec, [En ligne], http:// www4.gouv.qc.ca/FR/portail/citoyens/evenements/aines/pages/accueil.aspx?pgs.
-SINHA, M. (2013). « Portrait des aidants familiaux, 2012 », Mettre l’accent sur les Canadiens : résultats de l’Enquête sociale générale, Statistique Canada, n° 89-652-X au catalogue - n° 001, septembre 2013, [En ligne], http://www.statcan.gc.ca/ pub/89-652-x/89-652-x2013001-fra.pdf.
-SOCIÉTÉ DE L’ASSURANCE AUTOMOBILE DU QUÉBEC (2017). Données et statistiques 2016, [En ligne], https://saaq.gouv. qc.ca/fileadmin/documents/publications/donnees-statistiques-2016.pdf.
+SECRÉTARIAT À LA CONDITION FÉMININE (2016). Stratégie gouvernementale pour prévenir et contrer les violences sexuelles-2021, Québec, gouvernement du Québec, [En ligne], 
+SECRÉTARIAT À LA CONDITION FÉMININE (2017). Stratégie gouvernementale pour l’égalité entre les femmes et les hommes vers 2021, Québec, gouvernement du Québec, [En ligne], 
+SÉNAT DU CANADA (2009). Le vieillissement de la population, un phénomène à valoriser, Ottawa, Comité sénatorial sur le vieillissement, rapport final, [En ligne], 
+SERVICES QUÉBEC (2018). Programmes et services pour les aînés, Québec, gouvernement du Québec, [En ligne],  www4.gouv.qc.ca/FR/portail/citoyens/evenements/aines/pages/accueil.aspx?pgs.
+SINHA, M. (2013). « Portrait des aidants familiaux, 2012 », Mettre l’accent sur les Canadiens : résultats de l’Enquête sociale générale, Statistique Canada, n° 89-652-X au catalogue - n° 001, septembre 2013, [En ligne],  pub/89-652-x/89-652-x2013001-fra.pdf.
+SOCIÉTÉ DE L’ASSURANCE AUTOMOBILE DU QUÉBEC (2017). Données et statistiques 2016, [En ligne],  qc.ca/fileadmin/documents/publications/donnees-statistiques-2016.pdf.
 SOCIÉTÉ DE L’ASSURANCE AUTOMOBILE DU QUÉBEC (2017). Le Bilan 2016 : accidents, parc automobile et permis de conduire, 222 p.
-SOCIÉTÉ DE L’ASSURANCE AUTOMOBILE DU QUÉBEC (2018). Conducteurs aînés – le saviez-vous?, [En ligne], https://saaq. gouv.qc.ca/securite-routiere/clienteles/aines/saviez-vous/.
+SOCIÉTÉ DE L’ASSURANCE AUTOMOBILE DU QUÉBEC (2018). Conducteurs aînés – le saviez-vous?, [En ligne],  gouv.qc.ca/securite-routiere/clienteles/aines/saviez-vous/.
 STATISTIQUE CANADA. Recensement du Canada de 2016, compilation effectuée par le ministère de la Famille à partir desdonnées du tableau A1 de la commande spéciale CO-1758.
 STATISTIQUE CANADA. Enquête canadienne sur le revenu (ECR), fichiers maîtres adaptés par l’Institut de la statistique du
-Québec, [En ligne], http://www.bdso.gouv.qc.ca/docs-ken/vitrine/vieillissement/index.html?theme=population&tab=1.
-STATISTIQUE CANADA (2011). Enquête nationale auprès des ménages, tableaux de données, gouvernement du Canada, [En ligne], http://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/dt-td/Index-fra.cfm?LANG=F&APAT
+Québec, [En ligne], 
+STATISTIQUE CANADA (2011). Enquête nationale auprès des ménages, tableaux de données, gouvernement du Canada, [En ligne], 
 H=3&DETAIL=0&DIM=0&FL=A&FREE=0&GC=24&GID=0&GK=1&GRP=1&PID=108055&PRID=0&PTYPE=105277&S=0&SH
 OWALL=0&SUB=0&Temporal=2013&THEME=0&VID=0&VNAMEE=&VNAMEF.
 STATISTIQUE CANADA (2011). Programme du Recensement de la population de 2011. Les peuples autochtones au Canada :
-Premières Nations, Métis et Inuits, gouvernement du Canada, n°99-011-X au catalogue, [En ligne], http://www12.statcan. gc.ca/nhs-enm/2011/as-sa/99-011-x/99-011-x2011001-fra.cfm#a6.
+Premières Nations, Métis et Inuits, gouvernement du Canada, n°99-011-X au catalogue, [En ligne],  gc.ca/nhs-enm/2011/as-sa/99-011-x/99-011-x2011001-fra.cfm#a6.
 STATISTIQUE CANADA (2015). Enquête sur la population active, 2015, compilation effectuée par l’Institut de la statistique du
-Québec, [En ligne], http://www.bdso.gouv.qc.ca/docs-ken/vitrine/vieillissement/index.html?theme=population&tab=1.
+Québec, [En ligne], 
 RÉFÉRENCES
 Un Québecpour tous les âges
-STATISTIQUE CANADA (2017). Tableau 206-0052 - Revenu des particuliers selon le groupe d’âge, le sexe et la source de revenu, Canada, provinces et certaines régions métropolitaines de recensement, gouvernement du Canada, CANSIM (base de données), [En ligne], http://www5.statcan.gc.ca/cansim/a05?lang=fra&id=2060052.
+STATISTIQUE CANADA (2017). Tableau 206-0052 - Revenu des particuliers selon le groupe d’âge, le sexe et la source de revenu, Canada, provinces et certaines régions métropolitaines de recensement, gouvernement du Canada, CANSIM (base de données), [En ligne], 
 STATISTIQUE CANADA (2017). Estimations démographiques, compilation effectuée par le ministère de la Famille à partir dedonnées parues le 27 septembre 2017 sur le site Web de l’Institut de la statistique du Québec.
 STATISTIQUE CANADA (2017). Enquête sur la population active de 2017, adapté par l’Institut de la statistique du Québec
 (ISQ). Site Web de l’ISQ, 16 février 2018. Consulté le 28 février 2018.
-TURCOTTE, M. (2013). « Être aidant familial : quelles sont les conséquences? », Statistique Canada, no 75-006-X au catalogue, septembre 2013, [En ligne], http://www.statcan.gc.ca/pub/75-006-x/2013001/article/11858-fra.pdf.
+TURCOTTE, M. (2013). « Être aidant familial : quelles sont les conséquences? », Statistique Canada, no 75-006-X au catalogue, septembre 2013, [En ligne], 
 VENN, S., K. DAVIDSON et S. ARBER (2011). “Gender and aging”; dans SETTERSTEN, R., et J. Angel (éd.). Handbook of
 Sociology of Aging, New York, Springer, p. 71-81.
 WISTER, A. V., et B.D. MCPHERSON (2014). Aging as a Social Process: Canadian Perspectives, Don Mills, Oxford University

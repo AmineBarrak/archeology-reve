@@ -1,0 +1,811 @@
+Le marché du travail dans la région du Saguenay - Lac-Saint-Jean
+Perspectives d’emploi par profession-2015
+Le marché du travail dans la région du Saguenay - Lac-Saint-Jean
+Perspectives d’emploi par profession 2011-2015
+Production :
+Direction de la planification et du partenariat de la région du Saguenay - Lac-Saint-Jean
+Emploi-Québec
+Collaboration :
+Direction de l’analyse et de l’information sur le marché du travail (DAIMT)
+Emploi-Québec
+© Gouvernement du Québec
+Dépôt légal – Bibliothèque et Archives nationales du Québec, 2011
+ISBN : 978-2-550-63444-7 (PDF)
+La reproduction totale ou partielle de ce document est autorisée à condition d’en mentionner la source.
+Le marché du travail dans la région du Saguenay - Lac-Saint-Jean
+Perspectives d’emploi par profession 2011-2015
+Table des matières
+Définition des variables, méthodologie et interprétation des résultats 4
+Perspectives d’emploi par profession 2011-2015 - tableau des résultats 9
+Index alphabétique des groupes professionnels de la CNP 45
+Le marché du travail dans la région du Saguenay - Lac-Saint-Jean
+Perspectives d’emploi par profession 2011-2015
+Définition des variables, méthodologie et interprétation des résultats
+Groupes professionnels
+(Code CNP et titre de la profession)
+La classification et la définition des groupes professionnels de cette publication reposent sur la Classification nationale des professions (CNP), élaborée par le ministère des Ressources humaines et du Développement social du
+Canada. La CNP est une classification hiérarchique des professions et comporte trois niveaux. Elle comprend 26 grands groupes (code numérique à 2 chiffres)qui se subdivisent en 140 groupes intermédiaires (code numérique à 3 chiffres) et, par la suite, en 520 groupes de base (code numérique à 4 chiffres).
+Le niveau et le genre de compétence sontles deux principaux critères employés dans l’élaboration de la CNP.
+Niveau de compétence
+Le niveau de compétence est généralement défini selon la durée et lanature des études et de la formation requises pour accéder à un emploi et enexercer les fonctions. L’expériencerequise pour accéder à un emploi, la complexité des tâches et les responsabilités inhérentes à cet emploi sont également prises en compte, parrapport aux exigences des autres emplois,
+NIVEAUX DE
+COMPÉTENCE ÉTUDES / FORMATION AUTRES CRITÈRES Gestion i Peu déterminant dans la majorité des cas. i Expérience dans le domaine visé. i Capital financier.
+A Professionnel i Un diplôme universitaire (baccalauréat, maîtrise ou doctorat).
+B Technique i De deux à trois ans d’études postsecondaires dans un collège communautaire, un institut de techniqueou un cégep, oui de deux à cinq ans d’apprentissage, oui de trois à quatre ans d’études secondaireset plus de deux ans de formation en cours d’emploi, de cours de formation liés à l’emploi ou d’expérience de travail précise. i Le niveau de compétence B est aussi attribué au personnel qui assume des responsabilités de supervision. i Le niveau de compétence B a été attribué au personnel qui assume des responsabilités importantes dans ledomaine de la santé et de la sécurité
+(par exemple, les pompiers et pompières, les policiers et policières et les infirmiers et infirmières auxiliaires).
+C Intermédiaire i De un à quatre ans d’études secondaires,ou i jusqu’à deux ans de formation en cours d’emploi, des cours de formation externeou une expérience de travail précise.
+D Élémentaire i Une brève démonstration du travail ou une formation en cours d’emploi, oui pas d’exigences scolaires particulières.
+Sources : Ministère des Ressources humaines et du Développement social du Canada, Classification nationale des professions 2006 et Emploi-Québec.
+Le marché du travail dans la région du Saguenay - Lac-Saint-Jean
+Perspectives d’emploi par profession 2011-2015pour établir le niveau de compétenceassocié à cet emploi1.
+Quatre niveaux de compétence sont établis dans la CNP, auxquels celui de la gestion a été ajouté :. Professionnel.. Technique.. Intermédiaire.. Élémentaire.
+L’encadré sur les niveaux de compétence présente les grandes lignes des portes d’entrée les plus usuelles en matière d’études. Il définit ainsi les catégories deniveaux de compétence.
+Genre de compétence
+Le genre de compétence est fonction dugenre de travail exécuté, quoique la CNP reflète d’autres facteurs liés au genre de compétence. L’un de ces facteurs est la similitude de la discipline scolaire ou des domaines d’études donnant accès à une profession. Un autre de ces facteurs est l’industrie ou le secteur d’activité dans lequel l’expérience à l’interne ou dans une industrie particulière constitue. Ministère des Ressources humaines et du
+Développement social du Canada,
+Classification nationale des professions–Critères de classification utilisés dans la CNP, p. vii. généralement une condition préalable d’accès à la profession2.
+En plus de la gestion, neuf catégories selonle genre de compétence sont établies dans la CNP :. Affaires, finance et administration.. Sciences naturelles et appliquées.. Secteur de la santé.. Sciences sociales, enseignement, administration publique et religion.. Arts, culture, sports et loisirs.. Vente et services.. Métiers, transport et machinerie.. Secteur primaire.. Transformation, fabrication et services d’utilité publique.
+Emploi estimé en 2010
+Le niveau d’emploi estimé en 2010 correspond au volume de l’emploi dechaque groupe professionnel pour l’annéede base de l’exercice de prévisions d’Emploi-Québec. On l’obtient au moyende la répartition sectorielle de l’emploi estimée en 2010, par Emploi-Québec, en utilisant notamment les estimations de personnes occupées de l’Enquête sur la population active (EPA) de Statistique
+Canada.
+Le niveau d’emploi est ensuite réparti engroupes sur la base de la structure professionnelle des secteurs d’activité du. Ibid., p. viii. recensement de 2006, qui fournit la répartition de l’emploi d’un secteur entre les différents groupes de la CNP. La structure professionnelle de 2006 a été actualisée et rajustée en tenant compte, entre autres, de l’évolution de l’emploi par profession selon l’EPA.
+L’emploi estimé correspond au nombre de personnes résidentes de la région qui occupent un emploi, quelle que soit larégion de leur lieu de travail. Ainsi, lorsqu’un marché du travail régionalrecoupe deux ou plusieurs régions (comme à Montréal, Québec, Trois-Rivières et
+Ottawa), il est fréquent que des personnes occupent un emploi dans une autre région administrative que la leur. Pour ces régions, les perspectives d’emploi peuvent dépendre de l’activité économique d’une région limitrophe.
+Le niveau d’emploi estimé des différents groupes professionnels doit être considérécomme une approximation, comportantune marge d’erreur qui peut être importante, en particulier lorsque le volume d’emplois est faible. Il ne doit êtreperçu que comme une indication de l’importance relative du groupe professionnel.
+Le marché du travail dans la région du Saguenay - Lac-Saint-Jean
+Perspectives d’emploi par profession 2011-2015
+Revenu annuel moyen d’emploi à temps plein (2005)
+Le revenu annuel moyen d’emploi à tempsplein est fourni par le recensement de, la seule source disponible.
+Le revenu annuel moyen d’emploi à temps plein correspond au revenu moyen gagné, en 2005, par les travailleurs et travailleuses qui occupaient un poste à temps plein (30heures ou plus par semaine), pendant au moins 49 semaines durant l’année, dans un groupe professionnel, peu importe le nombre d’années d’expérience. Lesrevenus à l’entrée sont généralement plus faibles. Sont inclus dans le revenu annuel moyen d’emploi les salaires et traitementsavant les différentes retenues, les revenusnets dans une entreprise non agricole non constituée en société ou dans l’exercice d’une profession, ainsi que les revenus quisont tirés d’un travail agricole autonome.
+Le revenu annuel moyen d’emploi à tempsplein pour l’ensemble des groupes professionnels, au Québec, se situait alors à 300 $.
+Taux de demande de main-d’œuvre entre et 20153
+La demande de main-d’œuvre est composée de la variation de l’emploi
+(croissance ou décroissance) en raison de l’évolution économique ainsi que du remplacement des personnes qui, d’une part, se retirent du marché du travail et, d’autre part, quittent leur emploi pourcombler un poste disponible dans une autre profession (mobilité interprofessionnelle).
+Le taux de demande de main-d’œuvreprévu est présenté en quatre classes, qui se définissent comme suit :
+Nul ou négatif
+Le taux de demande de main-d’œuvreprévu est égal ou inférieur à zéro.. Le taux de demande de main-d’œuvre est lerapport entre la demande de main-d’œuvreprévue au cours des années 2011 à 2015 et l’emploi de 2010. Ainsi, pour l’année 2011,le taux de demande prévu porte sur la demande attendue en 2011 par rapport auniveau de l’emploi en 2010. Il en va demême pour les autres variables projetées etpour les autres années couvertes. C’est pourquoi la perspective porte sur les années-2015, mais l’horizon pris en compte va de 2010 à 2015.
+Faible
+Le taux de demande de main-d’œuvreprévu est supérieur à 0 % mais inférieur à 19,6 %.
+Modéré
+Le taux de demande de main-d’œuvreprévu est supérieur ou égal à 19,6 % mais inférieur à 30 %. Élevé
+Le taux de demande de main-d’œuvreprévu est supérieur ou égal à 30 %.
+Taux de chômage estimé pour 2010
+Le taux de chômage estimé pour 2010 correspond au nombre de chômeurs et chômeuses par rapport à la population active. Ce nombre a été calculé en fonctiondu total des chômeurs et chômeuses en, relevé par l’EPA. Il a par la suite étéréparti dans chacun des groupes professionnels selon la structure duchômage tirée du recensement de 2006 etde son évolution entre 2006 et 2010, selon l’EPA.
+Le taux de chômage estimé est présenté en trois classes, qui se définissent comme suit :
+Le marché du travail dans la région du Saguenay - Lac-Saint-Jean
+Perspectives d’emploi par profession 2011-2015
+Faible
+Le taux de chômage estimé est inférieur à 5,7 %.
+Modéré
+Le taux de chômage est supérieur ou égal à 5,7 % mais inférieur à 12,9 %. Élevé
+Le taux de chômage estimé est supérieur ou égal à 12,9 %.
+Perspectives
+L’approche utilisée pour établir les perspectives d’emploi par professionrepose à la fois sur l’estimation de lademande de main-d’œuvre (l’ampleur desbesoins à combler) et sur l’estimation dunombre de chômeurs et chômeuses endébut de période (la concurrence entre les personnes pour obtenir les emplois disponibles). Le croisement de ces deux facteurs nous renseigne sur les possibilités d’intégration au marché du travail.
+Une méthode de regroupement statistique,soit une analyse selon les écarts-types, apermis de répartir, dans un premier temps, l’indicateur de perspectives en trois classes. Par la suite, une analyse qualitativea permis d’infirmer ou de confirmer l’attribution d’une classe à un groupe professionnel. Dans cette analyse qualitative sont pris en considération, entre autres, un investissement marquant, unemise à pied massive ainsi que l’évolution NIVEAUX DE DIAGNOSTICS DES PERSPECTIVES D’EMPLOI
+PAR PROFESSION
+Favorables Considérant l’évolution de la demande de main-d’œuvre prévue et la situation par rapportau chômage en début de période, les perspectives d’intégration au marché du travail seront bonnes.
+L’établissement de ce diagnostic ne doit pas être interprété comme une garantie d’emploidans le groupe professionnel visé.
+Acceptables Considérant l’évolution de la demande de main-d’œuvre prévue et la situation par rapportau chômage en début de période, les perspectives d’intégration au marché du travail seront satisfaisantes.
+Même si les personnes incluses dans ces groupes professionnels subiront une concurrence importante, elles pourront espérer obtenir un emploi en adoptant une stratégie de recherche d’emploi appropriée.
+Restreintes Considérant l’évolution de la demande de main-d’œuvre prévue et la situation par rapportau chômage en début de période, les perspectives d’intégration au marché du travail seront limitées.
+Même si les personnes incluses dans ces groupes professionnels subiront une concurrence importante, elles pourront espérer obtenir un emploi en adoptant une stratégie de recherche d’emploi appropriée. Ainsi, ce diagnostic ne doit pas être interprété comme une absencetotale de débouchés sur le marché du travail.
+N. P. Pour certains groupes professionnels, aucun diagnostic de perspectives n’a été posé. Un nombre d’emplois peu important, un manque d’information de nature qualitative ou l’absence de marché du travail pour ces groupes professionnels expliquent le fait que cette information est non publiée (N. P.).
+Le marché du travail dans la région du Saguenay - Lac-Saint-Jean
+Perspectives d’emploi par profession 2011-2015récente de certains indicateurs opérationnels, comme l’évolution dunombre de prestataires de l’aide sociale et de l’assurance-emploi par profession et les résultats des enquêtes d’intégration aumarché du travail des nouveaux diplômés et diplômées du réseau de l’éducation. Desétudes et des enquêtes sur la situation dans certaines professions sont aussi considérées.
+Trois niveaux de perspectives d’emploi par profession, qui déterminent les possibilités d’intégration au marché du travail, ontainsi été retenus (voir le tableau sur lesniveaux de diagnostics).
+Interprétation des résultats
+Malgré l’intérêt qu’il suscite auprès de ses utilisateurs et utilisatrices, un exercice d’estimation des perspectives pour les professions présente des limites qui obligent à une certaine prudence dans l’interprétation des résultats. On peutrepérer une série de ces limites qui, prisesde façon individuelle ou en bloc, peuvent influencer les résultats, sans qu’il soit possible d’en mesurer les incidences sur laqualité des prévisions pour les professions.
+Il n’en demeure pas moins que, malgré les difficultés d’estimer l’offre et de prévoir lademande de main-d’œuvre en raison de ce facteur, la production de telles prévisions est essentielle. Ces limites exigent cependant que les prévisions soient considérées comme des tendances, d’où l’utilisation de classes et non pas de données chiffrées dans la présentation des principaux résultats. De plus, ces résultatsdoivent être mis en relation avec d’autres sources d’information. On pense ici au savoir-être ou aux compétences qui sontexigées sur le marché du travail, aux connaissances qualitatives que peuventavoir de ce marché les utilisateurs et utilisatrices ou, encore, à l’information quileur a été transmise par les différentsacteurs et actrices du domaine ou par d’autres sources. Mentionnons finalementque les résultats obtenus ne déterminent enrien la qualité des emplois mais plutôt la possibilité, pour les personnes en mesure d’exercer une profession choisie, d’intégrerle marché du travail.
+Perspectives d'emploi par profession 2011-2015 – Tableau des résultats
+Saguenay–Lac–Saint-Jean Gestion
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec Membres des corps législatifs 50 73 000 Non publié Non publié Non publié Non publié Cadres supérieurs/cadres supérieures - administration publique 65 000 Non publié Non publié Non publié Non publié Cadres supérieurs/cadres supérieures - services financiers, communications et autres services aux entreprises 74 000 Non publié Non publié Non publié Non publié Cadres supérieurs/cadres supérieures - santé, enseignement, services communautaires et sociaux et associations mutuelles 57 000 Non publié Non publié Non publié Non publié Cadres supérieurs/cadres supérieures - commerce, radiotélédiffusion et autres services, n.c.a. 45 000 Non publié Non publié Non publié Non publié Cadres supérieurs/cadres supérieures - production de biens, services d'utilité publique, transport et construction 66 000 Non publié Non publié Non publié Non publié Directeurs financiers/directrices financières 300 58 000 Faible Faible Acceptables Favorables Directeurs/directrices des ressources humaines 200 73 000 Modéré Faible Favorables Favorables Directeurs/directrices des achats Moins de 50 Non publié Non publié Non publié Non publié Favorables Directeurs/directrices d'autres services administratifs 250 51 000 Faible Faible Acceptables Acceptables Directeurs/directrices des assurances, de l'immobilier et du courtage financier 65 000 Modéré Faible Favorables Favorables Directeurs/directrices de banque, du crédit et d'autres services de placements 64 000 Faible Faible Acceptables Favorables Directeurs/directrices d'autres services aux entreprises Moins de 50 Non publié Non publié Non publié Non publié Favorables Directeurs/directrices de la transmission des télécommunications
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Gestion
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec Directeurs/directrices des services postaux et de messageries Moins de 50 Non publié Non publié Non publié Non publié Non publié Directeurs/directrices des services de génie 100 76 000 Modéré Modéré Acceptables Favorables Directeurs/directrices de services d'architecture et de sciences
+Moins de 50 Non publié Non publié Non publié Non publié Favorables Gestionnaires de systèmes informatiques 100 57 000 Faible Faible Acceptables Favorables Directeurs/directrices des soins de santé 150 79 000 Élevé Faible Favorables Favorables Administrateurs/administratrices - enseignement postsecondaire et formation professionnelle
+Moins de 50 Non publié Non publié Non publié Non publié Favorables Directeurs/directrices d'école et administrateurs/administratrices de programmes d'enseignement aux niveaux primaire et secondaire 74 000 Faible Faible Acceptables Favorables Directeurs/directrices des services sociaux, communautaires et correctionnels 51 000 Modéré Faible Favorables Favorables Gestionnaires de la fonction publique - élaboration de politiques et administration de programmes sociaux et de santé
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Gestionnaires de la fonction publique - analyse économique, élaboration de politiques et administration de programmes
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Gestionnaires de la fonction publique - élaboration de politiques et administration de programmes d'enseignement
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Autres gestionnaires de la fonction publique Moins de 50 Non publié Non publié Non publié Non publié Non publié Directeurs/directrices de bibliothèque, d'archives, de muséeet de galerie d'art
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Directeurs/directrices - édition, cinéma, radiotélédiffusionet arts de la scène
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Gestion
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec Directeurs/directrices de programmes et de services desports et de loisirs 54 000 Élevé Faible Favorables Acceptables Directeurs/directrices des ventes, du marketing et de la publicité 62 000 Élevé Faible Favorables Favorables Directeurs/directrices - commerce de détail 3 000 34 000 Faible Faible Acceptables Favorables Directeurs/directrices de la restauration et des services alimentaires 23 000 Faible Modéré Restreintes Acceptables Directeurs/directrices de services d'hébergement 200 25 000 Modéré Modéré Acceptables Acceptables Officiers/officières de direction des services de police Moins de 50 Non publié Non publié Non publié Non publié Acceptables Chefs et officiers supérieurs/officières supérieures des services d'incendie
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Officiers/officières de direction des Forces armées 100 72 000 Non publié Non publié Non publié Non publié Directeurs/directrices d'autres services 100 32 000 Non publié Non publié Non publié Non publié Directeurs/directrices de la construction 350 51 000 Faible Faible Acceptables Favorables Constructeurs/constructrices et rénovateurs/rénovatrices en construction domiciliaire Non publié Faible Faible Acceptables Favorables Directeurs/directrices des transports Moins de 50 Non publié Non publié Non publié Non publié Acceptables Directeurs/directrices de l'exploitation et de l'entretien d'immeubles 54 000 Élevé Élevé Acceptables Acceptables Directeurs/directrices de la production primaire (sauf l'agriculture) 69 000 Faible Faible Acceptables Favorables Directeurs/directrices de la fabrication 500 79 000 Modéré Faible Favorables Favorables Directeurs/directrices des services d'utilité publique 50 97 000 Élevé Faible Favorables Acceptables
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Affaires, finance et administration
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec
+Niveau Professionnel Vérificateurs/vérificatrices et comptables 1 000 50 000 Modéré Faible Favorables Favorables Analystes financiers/analystes financières et analystes en placements 54 000 Faible Faible Acceptables Favorables Agents/agentes en valeurs, agents/agentes en placements et négociateurs/négociatrices en valeurs 41 000 Faible Faible Acceptables Favorables Autres agents financiers/agentes financières 800 52 000 Modéré Faible Favorables Favorables Spécialistes des ressources humaines 300 61 000 Élevé Faible Favorables Favorables Professionnels/professionnelles des services aux entreprises de gestion 67 000 Élevé Faible Favorables Favorables
+Niveau Technique Superviseurs/superviseures de commis de bureau et de soutien administratif 45 000 Modéré Faible Favorables Acceptables Superviseurs/superviseures de commis de finance et d'assurance 49 000 Modéré Faible Favorables Favorables Superviseurs/superviseures de commis de bibliothèque, de correspondanciers et d'autres commis à l'information 41 000 Modéré Faible Favorables Acceptables Surveillants/surveillantes de services postaux et de messageries 43 000 Faible Faible Acceptables Favorables Superviseurs/superviseures de commis à la transcription, à la distribution et aux horaires 53 000 Modéré Modéré Acceptables Acceptables Agents/agentes d'administration 600 45 000 Élevé Modéré Favorables Acceptables Adjoints/adjointes de direction 250 40 000 Élevé Faible Favorables Favorables Agents/agentes du personnel et recruteurs/recruteuses 50 65 000 Non publié Non publié Non publié Acceptables Agents/agentes de gestion immobilière 100 47 000 Faible Faible Acceptables Favorables
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Affaires, finance et administration
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec Agents/agentes aux achats 350 61 000 Modéré Faible Favorables Favorables Planificateurs/planificatrices de congrès et d'événements 50 41 000 Élevé Faible Favorables Acceptables Juges de paix et officiers/officières de justice Moins de 50 Non publié Non publié Non publié Non publié Favorables Agents/agentes d'immigration, d'assurance-emploi et du revenu 45 000 Modéré Modéré Acceptables Acceptables Teneurs/teneuses de livres 350 36 000 Faible Faible Acceptables Acceptables Agents/agentes de prêts Moins de 50 Non publié Non publié Non publié Non publié Favorables Experts/expertes en sinistres et rédacteurs/rédactrices sinistres 58 000 Faible Faible Acceptables Favorables Assureurs/assureures Moins de 50 Non publié Non publié Non publié Non publié Favorables Estimateurs/estimatrices et évaluateurs/évaluatrices 150 45 000 Modéré Faible Favorables Favorables Courtiers/courtières en douanes, courtiers/courtières maritimes et autres courtiers/courtières
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Secrétaires (sauf domaines juridique et médical) 3 000 30 000 Modéré Modéré Acceptables Acceptables Secrétaires juridiques 150 28 000 Modéré Modéré Acceptables Acceptables Secrétaires médicaux/secrétaires médicales 250 32 000 Faible Faible Acceptables Favorables Rapporteurs/rapporteuses judiciaires et transcripteurs médicaux/transcriptrices médicales
+Moins de 50 Non publié Non publié Non publié Non publié Non publié
+Niveau Intermédiaire Commis de bureau généraux/commis de bureau générales 1 500 36 000 Faible Modéré Restreintes Acceptables Commis au classement et à la gestion des documents 200 34 000 Faible Modéré Restreintes Acceptables Réceptionnistes et standardistes 500 26 000 Modéré Élevé Restreintes Restreintes Commis à la saisie de données 100 38 000 Faible Élevé Restreintes Acceptables
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Affaires, finance et administration
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec Opérateurs/opératrices d'équipement d'éditique et personnel assimilé
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes Téléphonistes 150 27 000 Faible Modéré Restreintes Restreintes Commis à la comptabilité et personnel assimilé 2 000 33 000 Modéré Modéré Acceptables Favorables Commis à la paye 150 47 000 Faible Faible Acceptables Favorables Représentants/représentantes au service à la clientèle - services financiers 31 000 Faible Faible Acceptables Favorables Commis de banque, d'assurance et d'autres services financiers 33 000 Faible Faible Acceptables Acceptables Agents/agentes de recouvrement Moins de 50 Non publié Non publié Non publié Non publié Acceptables Commis de soutien administratif 250 39 000 Faible Modéré Restreintes Acceptables Commis des services du personnel 50 62 000 Faible Faible Acceptables Acceptables Commis des services judiciaires Moins de 50 Non publié Non publié Non publié Non publié Acceptables Commis de bibliothèque 100 29 000 Faible Faible Acceptables Acceptables Correspondanciers/correspondancières, commis aux publications et personnel assimilé
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes Commis aux services à la clientèle, commis à l'information et personnel assimilé 37 000 Modéré Élevé Restreintes Acceptables Intervieweurs/intervieweuses pour enquêtes et commis aux statistiques 36 000 Modéré Faible Favorables Acceptables Commis au courrier et aux services postaux et personnel assimilé 37 000 Modéré Modéré Acceptables Acceptables Facteurs/factrices 200 44 000 Modéré Modéré Acceptables Acceptables Messagers/messagères et distributeurs/distributrices porte-àporte 20 000 Faible Faible Acceptables Acceptables
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Affaires, finance et administration
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec Expéditeurs/expéditrices et réceptionnaires 500 38 000 Modéré Faible Favorables Acceptables Magasiniers/magasinières et commis aux pièces 700 37 000 Modéré Faible Favorables Acceptables Commis à la production 100 58 000 Élevé Faible Favorables Acceptables Commis aux achats et à l'inventaire 150 32 000 Modéré Élevé Restreintes Acceptables Répartiteurs/répartitrices et opérateurs radio/opératrices radio 43 000 Faible Faible Acceptables Acceptables Horairistes de trajets et préposés/préposées à l'affectation des équipages
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Sciences naturelles et appliquées et professions apparentées
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec
+Niveau Professionnel Physiciens/physiciennes et astronomes Moins de 50 Non publié Non publié Non publié Non publié Favorables Chimistes 50 52 000 Modéré Faible Favorables Favorables Géologues, géochimistes et géophysiciens/géophysiciennes Moins de 50 Non publié Non publié Non publié Non publié Favorables Météorologistes Moins de 50 Non publié Non publié Non publié Non publié Non publié Autres professionnels/professionnelles des sciences physiques
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Biologistes et autres scientifiques Moins de 50 Non publié Non publié Non publié Non publié Favorables Professionnels/professionnelles des sciences forestières 200 56 000 Modéré Modéré Acceptables Acceptables Agronomes, conseillers/conseillères et spécialistes en agriculture 38 000 Modéré Faible Favorables Acceptables Ingénieurs civils/ingénieures civiles 300 64 000 Modéré Faible Favorables Favorables Ingénieurs mécaniciens/ingénieures mécaniciennes 100 67 000 Modéré Faible Favorables Favorables Ingénieurs électriciens et électroniciens/ingénieures électriciennes et électroniciennes 75 000 Modéré Faible Favorables Favorables Ingénieurs chimistes/ingénieures chimistes Moins de 50 Non publié Non publié Non publié Non publié Favorables Ingénieurs/ingénieures d'industrie et de fabrication 150 82 000 Modéré Faible Favorables Favorables Ingénieurs/ingénieures métallurgistes et des matériaux 50 91 000 Modéré Faible Favorables Favorables Ingénieurs miniers/ingénieures minières Moins de 50 Non publié Non publié Non publié Non publié Favorables Ingénieurs géologues/ingénieures géologues Moins de 50 Non publié Non publié Non publié Non publié Non publié Ingénieurs/ingénieures de l'extraction et du raffinage du pétrole
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Ingénieurs/ingénieures en aérospatiale Moins de 50 Non publié Non publié Non publié Non publié Favorables
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Sciences naturelles et appliquées et professions apparentées
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec Ingénieurs informaticiens/ingénieures informaticiennes
+(sauf ingénieurs/ingénieures en logiciel) 79 000 Modéré Faible Favorables Favorables Autres ingénieurs/ingénieures, n.c.a. Moins de 50 Non publié Non publié Non publié Non publié Non publié Architectes 50 50 000 Modéré Faible Favorables Favorables Architectes paysagistes Moins de 50 Non publié Non publié Non publié Non publié Non publié Urbanistes et planificateurs/planificatrices de l'utilisation des sols Moins de 50 Non publié Non publié Non publié Non publié Favorables Arpenteurs-géomètres/arpenteuses-géomètres 100 52 000 Modéré Modéré Acceptables Favorables Mathématiciens/mathématiciennes, statisticiens/statisticiennes et actuaires
+Moins de 50 Non publié Non publié Non publié Non publié Favorables Analystes et consultants/consultantes en informatique 400 51 000 Faible Faible Acceptables Favorables Analystes de bases de données et administrateurs/administratrices de données
+Moins de 50 Non publié Non publié Non publié Non publié Favorables Ingénieurs/ingénieures en logiciel Moins de 50 Non publié Non publié Non publié Non publié Favorables Programmeurs/programmeuses et développeurs/développeuses en médias interactifs 38 000 Modéré Faible Favorables Favorables Concepteurs/conceptrices et développeurs/développeuses
+Web
+Moins de 50 Non publié Non publié Non publié Non publié Favorables
+Niveau Technique Technologues et techniciens/techniciennes en chimie 250 61 000 Modéré Modéré Acceptables Acceptables Technologues et techniciens/techniciennes en géologie et en minéralogie 57 000 Élevé Modéré Favorables Favorables Techniciens/techniciennes en météorologie Moins de 50 Non publié Non publié Non publié Non publié Non publié Technologues et techniciens/techniciennes en biologie 100 42 000 Faible Modéré Restreintes Acceptables Inspecteurs/inspectrices des produits agricoles et de la pêche Moins de 50 Non publié Non publié Non publié Non publié Acceptables
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Sciences naturelles et appliquées et professions apparentées
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec Technologues et techniciens/techniciennes en sciences forestières 49 000 Modéré Modéré Acceptables Acceptables Techniciens/techniciennes du milieu naturel et de la pêche Moins de 50 Non publié Non publié Non publié Non publié Restreintes Techniciens/techniciennes et spécialistes de l'aménagement paysager et de l'horticulture 36 000 Modéré Modéré Acceptables Acceptables Technologues et techniciens/techniciennes en génie civil 200 56 000 Modéré Faible Favorables Favorables Technologues et techniciens/techniciennes en génie mécanique 58 000 Modéré Faible Favorables Favorables Technologues et techniciens/techniciennes en génie industriel et en génie de fabrication 61 000 Modéré Faible Favorables Favorables Estimateurs/estimatrices en construction 200 51 000 Élevé Faible Favorables Favorables Technologues et techniciens/techniciennes en génie électronique et électrique 61 000 Modéré Faible Favorables Acceptables Électroniciens/électroniciennes d'entretien (biens de consommation) 35 000 Faible Faible Acceptables Acceptables Techniciens/techniciennes et mécaniciens/mécaniciennes d'instruments industriels 55 000 Faible Faible Acceptables Acceptables Mécaniciens/mécaniciennes, techniciens/techniciennes et contrôleurs/contrôleuses d'avionique et d'instruments et d'appareillages électriques d'aéronefs 52 000 Faible Faible Acceptables Favorables Technologues et techniciens/techniciennes en architecture 150 37 000 Élevé Faible Favorables Favorables Designers industriels/designers industrielles Moins de 50 Non publié Non publié Non publié Non publié Favorables Technologues et techniciens/techniciennes en dessin 400 44 000 Élevé Faible Favorables Favorables Technologues et techniciens/techniciennes en arpentage et en techniques géodésiques
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Sciences naturelles et appliquées et professions apparentées
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec Technologues et techniciens/techniciennes en cartographie et personnel assimilé
+Moins de 50 Non publié Non publié Non publié Non publié Favorables Vérificateurs/vérificatrices et essayeurs/essayeuses desessais non destructifs
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Inspecteurs/inspectrices d'ingénierie et officiers/officières de réglementation
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Inspecteurs/inspectrices de la santé publique, de l'environnement et de l'hygiène et de la sécurité au travail 73 000 Modéré Faible Favorables Favorables Inspecteurs/inspectrices en construction 150 48 000 Modéré Faible Favorables Favorables Pilotes, navigateurs/navigatrices et instructeurs/instructrices de pilotage du transport aérien
+Moins de 50 Non publié Non publié Non publié Non publié Favorables Spécialistes du contrôle de la circulation aérienne et personnel assimilé
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Officiers/officières de pont du transport par voies navigables Moins de 50 Non publié Non publié Non publié Non publié Acceptables Officiers mécaniciens/officières mécaniciennes du transportpar voies navigables
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Contrôleurs/contrôleuses de la circulation ferroviaire et régulateurs/régulatrices de la circulation maritime
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Opérateurs/opératrices en informatique, opérateurs/opératrices réseau et techniciens/techniciennes
+Web 46 000 Modéré Faible Favorables Favorables Agents/agentes de soutien aux utilisateurs 250 46 000 Modéré Faible Favorables Favorables Évaluateurs/évaluatrices de logiciels et de systèmes informatiques
+Moins de 50 Non publié Non publié Non publié Non publié Favorables
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Secteur de la santé
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec
+Niveau Professionnel Médecins spécialistes 200 226 000 Élevé Faible Favorables Favorables Omnipraticiens/omnipraticiennes et médecins en médecine familiale 154 000 Élevé Faible Favorables Favorables Dentistes 150 191 000 Faible Faible Acceptables Favorables Vétérinaires Moins de 50 Non publié Non publié Non publié Non publié Favorables Optométristes 100 71 000 Modéré Faible Favorables Favorables Chiropraticiens/chiropraticiennes 50 57 000 Élevé Faible Favorables Favorables Autres professionnels/professionnelles en diagnostic et en traitement de la santé
+Moins de 50 Non publié Non publié Non publié Non publié Favorables Pharmaciens/pharmaciennes 300 153 000 Modéré Faible Favorables Favorables Diététistes et nutritionnistes Moins de 50 Non publié Non publié Non publié Non publié Favorables Audiologistes et orthophonistes 50 54 000 Élevé Faible Favorables Favorables Physiothérapeutes 200 51 000 Élevé Faible Favorables Favorables Ergothérapeutes 100 48 000 Élevé Faible Favorables Favorables Autres professionnels/professionnelles en thérapie et en évaluation
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Infirmiers/infirmières en chef et superviseurs/superviseures 100 60 000 Modéré Faible Favorables Favorables Infirmiers autorisés/infirmières autorisées 2 000 51 000 Élevé Faible Favorables Favorables
+Niveau Technique Technologues médicaux/technologues médicales et assistants/assistantes en anatomopathologie 46 000 Modéré Faible Favorables Favorables Techniciens/techniciennes de laboratoire médical 150 45 000 Modéré Faible Favorables Favorables Technologues et techniciens/techniciennes en santé animale 50 22 000 Modéré Faible Favorables Favorables
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Secteur de la santé
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec Inhalothérapeutes, perfusionnistes cardio-vasculaires et technologues cardio-pulmonaires 47 000 Modéré Faible Favorables Favorables Technologues en radiation médicale 100 49 000 Élevé Faible Favorables Favorables Technologues en échographie Moins de 50 Non publié Non publié Non publié Non publié Non publié Technologues en cardiologie Moins de 50 Non publié Non publié Non publié Non publié Non publié Technologues en électroencéphalographie et autres technologues du diagnostic, n.c.a.
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Autres technologues et techniciens/techniciennes des sciences de la santé (sauf soins dentaires)
+Moins de 50 Non publié Non publié Non publié Non publié Favorables Denturologistes Moins de 50 Non publié Non publié Non publié Non publié Favorables Hygiénistes et thérapeutes dentaires 200 31 000 Modéré Faible Favorables Favorables Technologues et techniciens/techniciennes dentaires et auxiliaires dans les laboratoires dentaires
+Moins de 50 Non publié Non publié Non publié Non publié Favorables Opticiens/opticiennes d'ordonnances Moins de 50 Non publié Non publié Non publié Non publié Favorables Sages-femmes et praticiens/praticiennes des médecines douces
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Infirmiers auxiliaires/infirmières auxiliaires 800 36 000 Modéré Faible Favorables Favorables Ambulanciers/ambulancières et autre personnel paramédical 250 43 000 Modéré Faible Favorables Favorables Autre personnel technique en thérapie et en diagnostic 100 24 000 Non publié Non publié Non publié Non publié
+Niveau Intermédiaire Assistants/assistantes dentaires 150 21 000 Modéré Modéré Acceptables Acceptables Aides-infirmiers/aides-infirmières, aides-soignants/aidessoignantes et préposés/préposées aux bénéficiaires 000 26 000 Modéré Modéré Acceptables Favorables Autre personnel de soutien des services de santé 700 23 000 Modéré Faible Favorables Favorables
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Sciences sociales, enseignement, administration publique et religion
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec
+Niveau Professionnel Juges Moins de 50 Non publié Non publié Non publié Non publié Non publié Avocats/avocates (partout au Canada) et notaires (au
+Québec) 71 000 Faible Faible Acceptables Favorables Professeurs/professeures d'université 300 90 000 Faible Faible Acceptables Favorables Assistants/assistantes d'enseignement et de recherche au niveau postsecondaire 49 000 Faible Modéré Restreintes Acceptables Enseignants/enseignantes au niveau collégial et dans lesécoles de formation professionnelle 000 59 000 Faible Faible Acceptables Favorables Enseignants/enseignantes au niveau secondaire 2 000 51 000 Faible Faible Acceptables Favorables Enseignants/enseignantes aux niveaux primaire et préscolaire 500 52 000 Faible Faible Acceptables Favorables Conseillers/conseillères d'orientation et conseillers/conseillères en information scolaire et professionnelle 54 000 Faible Faible Acceptables Favorables Psychologues 250 59 000 Modéré Faible Favorables Favorables Travailleurs sociaux/travailleuses sociales 600 43 000 Modéré Faible Favorables Favorables Thérapeutes conjugaux/thérapeutes conjugales, thérapeutes familiaux/thérapeutes familiales et personnel assimilé 49 000 Modéré Modéré Acceptables Favorables Ministres du culte 50 27 000 Non publié Non publié Non publié Non publié Agents/agentes de probation et de libération conditionnelle et personnel assimilé
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Agents/agentes de programmes, recherchistes et expertsconseils/expertes-conseils en sciences naturelles et appliquées 93 000 Faible Faible Acceptables Favorables
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Sciences sociales, enseignement, administration publique et religion
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec Économistes, recherchistes et analystes des politiques économiques
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Agents/agentes de développement économique, recherchistes et experts-conseils/expertes-conseils en marketing 43 000 Modéré Modéré Acceptables Favorables Agents/agentes de programmes, recherchistes et expertsconseils/expertes-conseils en politiques sociales 44 000 Modéré Modéré Acceptables Favorables Agents/agentes de programmes, recherchistes et expertsconseils/expertes-conseils en politiques de la santé
+Moins de 50 Non publié Non publié Non publié Non publié Favorables Agents/agentes de programmes, recherchistes et expertsconseils/expertes-conseils en politiques de l'enseignement 61 000 Faible Faible Acceptables Favorables Superviseurs/superviseures et experts-conseils/expertesconseils en programmes de sports, de loisirs et de conditionnement physique 42 000 Faible Faible Acceptables Favorables Agents/agentes de programmes de l'administration publique 50 48 000 Faible Faible Acceptables Acceptables Autres professionnels/professionnelles des sciences sociales Moins de 50 70 000 Non publié Non publié Non publié Non publié
+Niveau Technique Techniciens/techniciennes juridiques et personnel assimilé Moins de 50 Non publié Non publié Non publié Non publié Favorables Travailleurs/travailleuses des services communautaires et sociaux 33 000 Modéré Faible Favorables Acceptables Conseillers/conseillères en emploi 150 48 000 Faible Faible Acceptables Acceptables Éducateurs/éducatrices et aides-éducateurs/aideséducatrices de la petite enfance 000 22 000 Modéré Faible Favorables Favorables Éducateurs spécialisés/éducatrices spécialisées 600 43 000 Faible Faible Acceptables Favorables Autres instructeurs/instructrices Moins de 50 Non publié Non publié Non publié Non publié Non publié Autre personnel relié à la religion 100 31 000 Non publié Non publié Non publié Non publié
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Arts, culture, sports et loisirs
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec
+Niveau Professionnel Bibliothécaires Moins de 50 Non publié Non publié Non publié Non publié Favorables Restaurateurs/restauratrices et conservateurs/conservatrices Moins de 50 Non publié Non publié Non publié Non publié Non publié Archivistes Moins de 50 Non publié Non publié Non publié Non publié Favorables Auteurs/auteures, rédacteurs/rédactrices et écrivains/écrivaines
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Réviseurs/réviseures, rédacteurs-réviseurs/rédactricesréviseures et chefs du service des nouvelles
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Journalistes 100 51 000 Faible Faible Acceptables Acceptables Professionnels/professionnelles des relations publiques et des communications 37 000 Modéré Modéré Acceptables Favorables Traducteurs/traductrices, terminologues et interprètes Moins de 50 Non publié Non publié Non publié Non publié Favorables Producteurs/productrices, réalisateurs/réalisatrices, chorégraphes et personnel assimilé 43 000 Faible Faible Acceptables Acceptables Chefs d'orchestre, compositeurs/compositrices et arrangeurs/arrangeuses
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Musiciens/musiciennes et chanteurs/chanteuses 50 Non publié Non publié Non publié Non publié Non publié Danseurs/danseuses Moins de 50 Non publié Non publié Non publié Non publié Non publié Acteurs/actrices et comédiens/comédiennes Moins de 50 Non publié Non publié Non publié Non publié Non publié Peintres, sculpteurs/sculpteures et autres artistes des arts visuels 8 000 Non publié Non publié Non publié Non publié
+Niveau Technique Techniciens/techniciennes et assistants/assistantes dans les bibliothèques et les services d'archives 40 000 Modéré Faible Favorables Acceptables Personnel technique des musées et des galeries d'art Moins de 50 Non publié Non publié Non publié Non publié Restreintes
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Arts, culture, sports et loisirs
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec Photographes Moins de 50 Non publié Non publié Non publié Non publié Acceptables Cadreurs/cadreuses de films et cadreurs/cadreuses vidéo Moins de 50 Non publié Non publié Non publié Non publié Acceptables Techniciens/techniciennes en graphisme 50 30 000 Faible Modéré Restreintes Acceptables Techniciens/techniciennes en radiotélédiffusion Moins de 50 Non publié Non publié Non publié Non publié Restreintes Techniciens/techniciennes en enregistrement audio et vidéo Moins de 50 Non publié Non publié Non publié Non publié Restreintes Autre personnel technique et personnel de coordination du cinéma, de la radiotélédiffusion et des arts de la scène 53 000 Non publié Non publié Non publié Non publié Personnel de soutien du cinéma, de la radiotélédiffusion etdes arts de la scène
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes Annonceurs/annonceures et autres communicateurs/communicatrices de la radio et de la télévision 48 000 Faible Modéré Restreintes Acceptables Autres artistes de spectacle Moins de 50 Non publié Non publié Non publié Non publié Non publié Designers graphiques et illustrateurs/illustratrices 150 30 000 Modéré Faible Favorables Acceptables Designers d'intérieur 50 Non publié Modéré Faible Favorables Acceptables Ensembliers/ensemblières de théâtre, dessinateurs/dessinatrices de mode, concepteurs/conceptrices d'expositions et autres concepteurs/conceptrices artistiques
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Artisans/artisanes 50 25 000 Non publié Non publié Non publié Non publié Patronniers/patronnières de produits textiles, d'articles encuir et en fourrure
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes Athlètes Moins de 50 Non publié Non publié Non publié Non publié Non publié Entraîneurs/entraîneuses Moins de 50 Non publié Non publié Non publié Non publié Non publié Arbitres et officiels/officielles de sports Moins de 50 Non publié Non publié Non publié Non publié Non publié
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Arts, culture, sports et loisirs
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec Animateurs/animatrices et responsables de programmes desports et de loisirs 35 000 Élevé Élevé Acceptables Acceptables
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Vente et services
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec
+Niveau Technique Superviseurs/superviseures - commerce de détail 450 32 000 Modéré Faible Favorables Favorables Superviseurs/superviseures des services alimentaires 50 26 000 Modéré Faible Favorables Acceptables Gouvernants principaux/gouvernantes principales d'hôtel ou d'établissement
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Surveillants/surveillantes du blanchissage et du nettoyage à sec
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Surveillants/surveillantes des services de nettoyage 50 49 000 Faible Faible Acceptables Acceptables Surveillants/surveillantes des autres services Moins de 50 Non publié Non publié Non publié Non publié Non publié Spécialistes des ventes techniques - commerce de gros 300 60 000 Modéré Faible Favorables Acceptables Agents/agentes et courtiers/courtières d'assurance 500 38 000 Modéré Faible Favorables Favorables Agents/agentes et vendeurs/vendeuses en immobilier 300 52 000 Modéré Faible Favorables Favorables Acheteurs/acheteuses des commerces de gros et de détail 50 25 000 Modéré Faible Favorables Favorables Exploitants/exploitantes de silos à grains Moins de 50 Non publié Non publié Non publié Non publié Non publié Chefs 250 31 000 Modéré Modéré Acceptables Acceptables Cuisiniers/cuisinières 2 500 19 000 Modéré Modéré Acceptables Acceptables Bouchers/bouchères et coupeurs/coupeuses de viandes - commerce de gros ou de détail 32 000 Élevé Faible Favorables Favorables Boulangers-pâtissiers/boulangères-pâtissières 300 21 000 Faible Modéré Restreintes Acceptables Policiers/policières (sauf cadres supérieurs) 400 68 000 Faible Faible Acceptables Favorables Pompiers/pompières 200 56 000 Faible Faible Acceptables Favorables Coiffeurs/coiffeuses et barbiers/barbières 1 000 13 000 Faible Faible Acceptables Acceptables Directeurs/directrices de funérailles et embaumeurs/embaumeuses
+Moins de 50 Non publié Non publié Non publié Non publié Favorables
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Vente et services
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec
+Niveau Intermédiaire Représentants/représentantes des ventes non techniques - commerce de gros 000 46 000 Modéré Faible Favorables Favorables Vendeurs/vendeuses et commis-vendeurs/commisvendeuses - commerce de détail 000 26 000 Modéré Modéré Acceptables Favorables Conseillers/conseillères en voyages Moins de 50 Non publié Non publié Non publié Non publié Acceptables Commissaires et agents/agentes de bord Moins de 50 Non publié Non publié Non publié Non publié Acceptables Agents/agentes à la billetterie et aux services aériens Moins de 50 Non publié Non publié Non publié Non publié Restreintes Agents/agentes à la billetterie et représentants/représentantes du service en matière de fret et personnel assimilé (sauf transport aérien)
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes Réceptionnistes d'hôtel 150 20 000 Modéré Modéré Acceptables Acceptables Guides touristiques et guides itinérants/guides itinérantes 50 Non publié Faible Élevé Restreintes Restreintes Guides d'activités récréatives et sportives de plein air Moins de 50 Non publié Non publié Non publié Non publié Restreintes Personnel préposé au jeu dans les casinos Moins de 50 Non publié Non publié Non publié Non publié Acceptables Maîtres d'hôtel et hôtes/hôtesses 100 Non publié Modéré Faible Favorables Acceptables Barmans/barmaids 500 17 000 Modéré Modéré Acceptables Acceptables Serveurs/serveuses d'aliments et de boissons 2 000 19 000 Modéré Modéré Acceptables Acceptables Shérifs et huissiers/huissières de justice Moins de 50 Non publié Non publié Non publié Non publié Favorables Agents/agentes de services correctionnels Moins de 50 Non publié Non publié Non publié Non publié Favorables Agents/agentes d'application de règlements municipaux et autres agents/agentes de réglementation, n.c.a.
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Personnel exclusif aux Forces armées 600 55 000 Non publié Non publié Non publié Non publié Autre personnel de services de protection 100 66 000 Non publié Non publié Non publié Acceptables
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Vente et services
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec Aides familiaux/aides familiales, aides de maintien à domicile et personnel assimilé 17 000 Faible Faible Acceptables Favorables Aides-enseignants/aides-enseignantes aux niveaux primaire et secondaire 41 000 Faible Faible Acceptables Acceptables Gardiens/gardiennes d'enfants, gouvernants/gouvernantes etaides aux parents 19 000 Faible Modéré Restreintes Acceptables Conseillers/conseillères imagistes, conseillers mondains/conseillères mondaines et autres conseillers/conseillères en soins personnalisés
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Esthéticiens/esthéticiennes, électrolystes et personnel assimilé 17 000 Faible Faible Acceptables Acceptables Soigneurs/soigneuses d'animaux et travailleurs/travailleusesen soins des animaux 17 000 Faible Faible Acceptables Acceptables Autre personnel des soins personnalisés Moins de 50 Non publié Non publié Non publié Non publié Non publié
+Niveau Elémentaire Caissiers/caissières 4 000 18 000 Élevé Élevé Acceptables Favorables Préposés/préposées de stations-service 700 17 000 Modéré Modéré Acceptables Acceptables Commis d'épicerie et autres garnisseurs/garnisseuses de tablettes - commerce de détail 500 20 000 Modéré Modéré Acceptables Acceptables Autre personnel élémentaire de la vente 200 31 000 Non publié Non publié Non publié Acceptables Serveurs/serveuses au comptoir, aides de cuisine et personnel assimilé 500 20 000 Élevé Élevé Acceptables Acceptables Gardiens/gardiennes de sécurité et personnel assimilé 800 32 000 Modéré Modéré Acceptables Acceptables Préposés/préposées à l'entretien ménager et au nettoyage - travaux légers 500 27 000 Modéré Modéré Acceptables Acceptables Nettoyeurs spécialisés/nettoyeuses spécialisées 250 39 000 Faible Modéré Restreintes Restreintes
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Vente et services
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec Concierges et concierges d'immeubles 2 500 35 000 Faible Modéré Restreintes Acceptables Opérateurs/opératrices et préposés/préposées aux sports,aux loisirs et dans les parcs d'attractions 36 000 Modéré Élevé Restreintes Acceptables Autres préposés/préposées en hébergement et en voyage Moins de 50 Non publié Non publié Non publié Non publié Non publié Personnel de blanchisseries et d'établissements de nettoyage à sec 26 000 Faible Modéré Restreintes Restreintes Repasseurs/repasseuses, presseurs/presseuses et finisseurs/finisseuses
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes Autre personnel élémentaire de services personnels 150 39 000 Non publié Non publié Non publié Non publié
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Métiers, transport et machinerie
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec
+Niveau Technique Contremaîtres/contremaîtresses des machinistes et du personnel assimilé 48 000 Non publié Non publié Non publié Acceptables Entrepreneurs/entrepreneuses et contremaîtres/contremaîtresses en électricité et en télécommunications 86 000 Modéré Faible Favorables Acceptables Entrepreneurs/entrepreneuses et contremaîtres/contremaîtresses en tuyauterie 55 000 Modéré Faible Favorables Acceptables Entrepreneurs/entrepreneuses et contremaîtres/contremaîtresses du formage, façonnage etmontage des métaux 44 000 Modéré Faible Favorables Acceptables Entrepreneurs/entrepreneuses et contremaîtres/contremaîtresses en charpenterie 47 000 Faible Faible Acceptables Acceptables Entrepreneurs/entrepreneuses et contremaîtres/contremaîtresses en mécanique 54 000 Modéré Modéré Acceptables Favorables Entrepreneurs/entrepreneuses et contremaîtres/contremaîtresses des équipes de construction lourde 77 000 Faible Modéré Restreintes Acceptables Surveillants/surveillantes de l'imprimerie et du personnel assimilé
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Entrepreneurs/entrepreneuses et contremaîtres/contremaîtresses des autres métiers de la construction et des services de réparation et d'installation 37 000 Modéré Faible Favorables Acceptables Surveillants/surveillantes des opérations du transport ferroviaire
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Surveillants/surveillantes du transport routier et du transport en commun
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Métiers, transport et machinerie
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec Machinistes et vérificateurs/vérificatrices d'usinage et d'outillage 42 000 Modéré Modéré Acceptables Acceptables Outilleurs-ajusteurs/outilleuses-ajusteuses Moins de 50 Non publié Non publié Non publié Non publié Acceptables Électriciens/électriciennes (sauf électriciens industriels etde réseaux électriques) 53 000 Modéré Modéré Acceptables Acceptables Électriciens industriels/électriciennes industrielles 350 73 000 Faible Faible Acceptables Acceptables Électriciens/électriciennes de réseaux électriques 150 73 000 Modéré Faible Favorables Acceptables Monteurs/monteuses de lignes électriques et de câbles 200 64 000 Modéré Faible Favorables Acceptables Monteurs/monteuses de lignes et de câbles de télécommunications 58 000 Faible Faible Acceptables Acceptables Installateurs/installatrices et réparateurs/réparatrices de matériel de télécommunications 55 000 Faible Faible Acceptables Acceptables Techniciens/techniciennes en montage et en entretien d'installations de câblodistribution
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Plombiers/plombières 450 59 000 Modéré Modéré Acceptables Acceptables Tuyauteurs/tuyauteuses, monteurs/monteuses d'appareils de chauffage et monteurs/monteuses de gicleurs 57 000 Modéré Élevé Restreintes Acceptables Monteurs/monteuses d'installations au gaz Moins de 50 Non publié Non publié Non publié Non publié Acceptables Tôliers/tôlières 100 56 000 Modéré Modéré Acceptables Acceptables Chaudronniers/chaudronnières Moins de 50 Non publié Non publié Non publié Non publié Restreintes Assembleurs/assembleuses et ajusteurs/ajusteuses deplaques et de charpentes métalliques
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes Monteurs/monteuses de charpentes métalliques 100 66 000 Faible Élevé Restreintes Acceptables Soudeurs/soudeuses et opérateurs/opératrices de machines àsouder et à braser 500 41 000 Élevé Modéré Favorables Acceptables
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Métiers, transport et machinerie
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec Forgerons/forgeronnes et monteurs/monteuses de matrices Moins de 50 Non publié Non publié Non publié Non publié Non publié Charpentiers-menuisiers/charpentières-menuisières 1 500 55 000 Modéré Modéré Acceptables Acceptables Ébénistes 350 30 000 Modéré Modéré Acceptables Acceptables Briqueteurs-maçons/briqueteuses-maçonnes 100 33 000 Modéré Modéré Acceptables Acceptables Finisseurs/finisseuses de béton 50 52 000 Faible Faible Acceptables Acceptables Carreleurs/carreleuses Moins de 50 Non publié Non publié Non publié Non publié Acceptables Plâtriers/plâtrières, latteurs/latteuses et poseurs/poseuses de systèmes intérieurs 15 000 Modéré Modéré Acceptables Acceptables Couvreurs/couvreuses et poseurs/poseuses de bardeaux 100 Non publié Modéré Modéré Acceptables Acceptables Vitriers/vitrières Moins de 50 Non publié Non publié Non publié Non publié Restreintes Calorifugeurs/calorifugeuses Moins de 50 Non publié Non publié Non publié Non publié Acceptables Peintres et décorateurs/décoratrices 250 29 000 Modéré Élevé Restreintes Acceptables Poseurs/poseuses de revêtements d'intérieur 50 29 000 Faible Modéré Restreintes Acceptables Mécaniciens/mécaniciennes de chantier et mécaniciens industriels/mécaniciennes industrielles (sauf l'industrie du textile) 000 67 000 Modéré Modéré Acceptables Acceptables Mécaniciens/mécaniciennes d'équipement lourd 600 50 000 Modéré Faible Favorables Favorables Mécaniciens/mécaniciennes en réfrigération et en climatisation 42 000 Modéré Faible Favorables Acceptables Réparateurs/réparatrices de wagons Moins de 50 Non publié Non publié Non publié Non publié Favorables Mécaniciens/mécaniciennes et contrôleurs/contrôleuses d'aéronefs
+Moins de 50 Non publié Non publié Non publié Non publié Favorables Ajusteurs/ajusteuses de machines Moins de 50 39 000 Modéré Faible Favorables Favorables
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Métiers, transport et machinerie
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec Mécaniciens/mécaniciennes et monteurs/monteuses de machines dans l'industrie du textile
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Constructeurs/constructrices et mécaniciens/mécaniciennes d'ascenseurs
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Mécaniciens/mécaniciennes et réparateurs/réparatrices de véhicules automobiles, de camions et d'autobus 500 37 000 Modéré Faible Favorables Acceptables Débosseleurs/débosseleuses et réparateurs/réparatrices de carrosserie 36 000 Modéré Modéré Acceptables Acceptables Installateurs/installatrices de brûleurs à l'huile et à combustibles solides
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes Réparateurs/réparatrices d'appareils électroménagers 50 23 000 Faible Faible Acceptables Acceptables Électromécaniciens/électromécaniciennes 100 44 000 Faible Faible Acceptables Acceptables Mécaniciens/mécaniciennes de motocyclettes et personnel assimilé
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes Mécaniciens/mécaniciennes de petits moteurs et autres équipements
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes Tapissiers-garnisseurs/tapissières-garnisseuses Moins de 50 Non publié Non publié Non publié Non publié Acceptables Tailleurs/tailleuses, couturiers/couturières, fourreurs/fourreuses et modistes 15 000 Faible Élevé Restreintes Restreintes Cordonniers/cordonnières et fabricants/fabricantes de chaussures
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Bijoutiers/bijoutières, horlogers-rhabilleurs/horlogèresrhabilleuses et personnel assimilé 19 000 Faible Faible Acceptables Restreintes Mécaniciens/mécaniciennes de machines fixes et opérateurs/opératrices de machines auxiliaires 60 000 Faible Faible Acceptables Acceptables Opérateurs/opératrices de centrales et de réseaux électriques 150 82 000 Faible Faible Acceptables Acceptables
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Métiers, transport et machinerie
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec Mécaniciens/mécaniciennes de locomotive et de cour de triage
+Moins de 50 Non publié Non publié Non publié Non publié Favorables Chefs de train et serre-freins Moins de 50 Non publié Non publié Non publié Non publié Favorables Grutiers/grutières 250 85 000 Modéré Faible Favorables Acceptables Foreurs/foreuses et dynamiteurs/dynamiteuses des mines à ciel ouvert, des carrières et des chantiers de construction
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes Foreurs/foreuses de puits d'eau Moins de 50 Non publié Non publié Non publié Non publié Non publié Opérateurs/opératrices de presse à imprimer Moins de 50 Non publié Non publié Non publié Non publié Restreintes Scaphandriers/scaphandrières Moins de 50 Non publié Non publié Non publié Non publié Non publié Autre personnel spécialisé des métiers 150 38 000 Non publié Non publié Non publié Non publié
+Niveau Intermédiaire Conducteurs/conductrices de camions 2 500 41 000 Modéré Modéré Acceptables Acceptables Conducteurs/conductrices d'autobus et opérateurs/opératrices de métro et autres transports en commun 37 000 Modéré Modéré Acceptables Acceptables Chauffeurs/chauffeuses de taxi, chauffeurs/chauffeuses de limousine et chauffeurs/chauffeuses 16 000 Faible Faible Acceptables Acceptables Chauffeurs-livreurs/chauffeuses-livreuses - services de livraison et de messagerie 000 30 000 Faible Modéré Restreintes Acceptables Conducteurs/conductrices d'équipement lourd (sauf les grues) 000 49 000 Modéré Modéré Acceptables Acceptables Conducteurs/conductrices de machinerie d'entretien public 200 41 000 Modéré Modéré Acceptables Acceptables Mécaniciens/mécaniciennes de gare de triage du transport ferroviaire
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Ouvriers/ouvrières à l'entretien de la voie ferrée Moins de 50 Non publié Non publié Non publié Non publié Non publié
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Métiers, transport et machinerie
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec Matelots de pont du transport par voies navigables Moins de 50 Non publié Non publié Non publié Non publié Restreintes Matelots de salle des machines du transport par voies navigables
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Personnel des écluses et des bacs à câble Moins de 50 Non publié Non publié Non publié Non publié Non publié Propriétaires-exploitants/propriétaires-exploitantes debateau à moteur
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Agents/agentes de piste dans le transport aérien Moins de 50 Non publié Non publié Non publié Non publié Acceptables Personnel d'installation, d'entretien et de réparation d'équipement résidentiel et commercial 33 000 Modéré Modéré Acceptables Acceptables Personnel d'entretien des canalisations d'eau et de gaz Moins de 50 Non publié Non publié Non publié Non publié Non publié Préposés/préposées à la pose et à l'entretien des pièces mécaniques d'automobiles 30 000 Modéré Modéré Acceptables Acceptables Fumigateurs/fumigatrices et préposés/préposées au contrôlede la vermine
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Autres réparateurs/réparatrices Moins de 50 Non publié Non publié Non publié Non publié Non publié Débardeurs/débardeuses 50 62 000 Modéré Élevé Restreintes Restreintes Manutentionnaires 800 38 000 Modéré Élevé Restreintes Acceptables
+Niveau Elémentaire Aides de soutien des métiers et manoeuvres en construction 1 000 39 000 Modéré Élevé Restreintes Restreintes Autres manoeuvres et aides de soutien de métiers Moins de 50 Non publié Non publié Non publié Non publié Restreintes Manoeuvres à l'entretien des travaux publics 300 38 000 Faible Modéré Restreintes Restreintes Manoeuvres dans le transport ferroviaire et routier Moins de 50 Non publié Non publié Non publié Non publié Restreintes
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Secteur primaire
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec
+Niveau Technique Surveillants/surveillantes de l'exploitation forestière 150 60 000 Faible Modéré Restreintes Restreintes Surveillants/surveillantes de l'exploitation des mines et des carrières
+Moins de 50 Non publié Non publié Non publié Non publié Favorables Surveillants/surveillantes du forage et des services reliés à l'extraction de pétrole et de gaz
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Mineurs/mineuses d'extraction et de préparation, mines souterraines 62 000 Élevé Modéré Favorables Favorables Foreurs/foreuses et personnel de mise à l'essai et des autres services relatifs à l'extraction de pétrole et de gaz
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Conducteurs/conductrices de machines d'abattage 400 45 000 Modéré Élevé Restreintes Restreintes Exploitants/exploitantes agricoles et gestionnaires d'exploitations agricoles 000 25 000 Modéré Faible Favorables Favorables Entrepreneurs/entrepreneuses et gestionnaires des services agricoles
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Surveillants/surveillantes d'exploitations agricoles et ouvriers spécialisés/ouvrières spécialisées dans l'élevage du bétail
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Propriétaires-exploitants/propriétaires-exploitantes et gestionnaires de pépinière et de serre
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes Entrepreneurs/entrepreneuses et gestionnaires de l'aménagement paysager et de l'entretien des terrains
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Surveillants/surveillantes de l'aménagement paysager et de l'horticulture 35 000 Modéré Modéré Acceptables Acceptables Propriétaires-exploitants/propriétaires-exploitantes d'entreprises aquicoles
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Capitaines et officiers/officières de bateaux de pêche Moins de 50 Non publié Non publié Non publié Non publié Non publié
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Secteur primaire
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec Patrons/patronnes de bateaux de pêche et pêcheurs indépendants/pêcheuses indépendantes
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes
+Niveau Intermédiaire Personnel d'entretien et de soutien des mines souterraines Moins de 50 Non publié Non publié Non publié Non publié Favorables Personnel du forage et de l'entretien des puits de pétrole et de gaz Moins de 50 Non publié Non publié Non publié Non publié Non publié Conducteurs/conductrices de scies à chaîne et d'engins de débardage 47 000 Modéré Élevé Restreintes Restreintes Ouvriers/ouvrières en sylviculture et en exploitation forestière Non publié Modéré Élevé Restreintes Restreintes Ouvriers/ouvrières agricoles 700 29 000 Modéré Modéré Acceptables Acceptables Ouvriers/ouvrières de pépinières et de serres 150 Non publié Modéré Élevé Restreintes Restreintes Matelots de pont sur les bateaux de pêche Moins de 50 Non publié Non publié Non publié Non publié Restreintes Chasseurs/chasseuses et trappeurs/trappeuses Moins de 50 Non publié Non publié Non publié Non publié Non publié
+Niveau Elémentaire Manoeuvres agricoles 50 Non publié Modéré Modéré Acceptables Acceptables Manoeuvres en aménagement paysager et en entretien des terrains 24 000 Modéré Modéré Acceptables Acceptables Manoeuvres de l'aquiculture et de la mariculture Moins de 50 Non publié Non publié Non publié Non publié Non publié Manoeuvres des mines Moins de 50 Non publié Non publié Non publié Non publié Favorables Manoeuvres de forage et d'entretien des puits de pétrole et de gaz Moins de 50 Non publié Non publié Non publié Non publié Non publié Manoeuvres de l'exploitation forestière 50 Non publié Modéré Élevé Restreintes Restreintes
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Transformation, fabrication et services d'utilité publique
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec
+Niveau Technique Surveillants/surveillantes dans la transformation des métauxet des minerais 80 000 Modéré Faible Favorables Acceptables Surveillants/surveillantes dans le raffinage du pétrole, le traitement du gaz et des produits chimiques et les services d'utilité publique 89 000 Faible Faible Acceptables Acceptables Surveillants/surveillantes dans la transformation des aliments, des boissons et du tabac
+Moins de 50 Non publié Non publié Non publié Non publié Favorables Surveillants/surveillantes dans la fabrication de produits en caoutchouc et en plastique
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Surveillants/surveillantes dans la transformation des produits forestiers 67 000 Faible Faible Acceptables Acceptables Surveillants/surveillantes dans la transformation des produits textiles
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Surveillants/surveillantes dans la fabrication de véhicules automobiles
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Surveillants/surveillantes dans la fabrication du matériel électronique
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Surveillants/surveillantes dans la fabrication d'appareils électriques
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Surveillants/surveillantes dans la fabrication de meubles et d'accessoires
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Surveillants/surveillantes dans la confection d'articles en tissu, en cuir et en fourrure
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes Surveillants/surveillantes dans la fabrication d'autres produits métalliques et de pièces mécaniques
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Surveillants/surveillantes dans la fabrication et le montage de produits divers
+Moins de 50 Non publié Non publié Non publié Non publié Non publié
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Transformation, fabrication et services d'utilité publique
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec Opérateurs/opératrices de poste central de contrôle et de conduite de procédés industriels dans le traitement desmétaux et des minerais 79 000 Faible Faible Acceptables Acceptables Opérateurs/opératrices de salle de commande centrale dans le raffinage du pétrole et le traitement du gaz et des produits chimiques
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes Opérateurs/opératrices au contrôle de la réduction en pâtedes pâtes et papiers
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Opérateurs/opératrices au contrôle de la fabrication dupapier et du couchage 68 000 Faible Modéré Restreintes Restreintes
+Niveau Intermédiaire Opérateurs/opératrices de machines dans le traitement desmétaux et des minerais 72 000 Faible Faible Acceptables Acceptables Mouleurs/mouleuses, noyauteurs/noyauteuses et fondeurs/fondeuses de métaux dans les aciéries 64 000 Faible Faible Acceptables Restreintes Opérateurs/opératrices de machines à former et à finir leverre et coupeurs/coupeuses de verre
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes Opérateurs/opératrices de machines dans le façonnage et la finition des produits en béton, en argile ou en pierre 34 000 Modéré Élevé Restreintes Restreintes Contrôleurs/contrôleuses et essayeurs/essayeuses dans la transformation des métaux et des minerais 62 000 Modéré Faible Favorables Acceptables Opérateurs/opératrices d'installation de traitement des produits chimiques
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Opérateurs/opératrices de machines de traitement des matières plastiques
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Opérateurs/opératrices de machines de transformation du caoutchouc et personnel assimilé
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Transformation, fabrication et services d'utilité publique
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec Opérateurs/opératrices d'installations de l'assainissement de l'eau et du traitement des déchets
+Moins de 50 62 000 Modéré Faible Favorables Acceptables Opérateurs/opératrices de machines à scier dans les scieries 450 40 000 Modéré Élevé Restreintes Restreintes Opérateurs/opératrices de machines dans les usines de pâte à papier 74 000 Faible Faible Acceptables Restreintes Opérateurs/opératrices de machines dans la fabrication et finition du papier 78 000 Faible Faible Acceptables Restreintes Autres opérateurs/opératrices de machines dans la transformation du bois 34 000 Modéré Élevé Restreintes Restreintes Opérateurs/opératrices de machines à façonner le papier Moins de 50 Non publié Non publié Non publié Non publié Restreintes Classeurs/classeuses de bois d'oeuvre et autres vérificateurs/vérificatrices et classeurs/classeuses dans la transformation du bois 39 000 Faible Modéré Restreintes Restreintes Opérateurs/opératrices de machines de préparation de fibres textiles et de filés
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes Tisseurs/tisseuses, tricoteurs/tricoteuses et autres opérateurs/opératrices de machines textiles
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes Teinturiers/teinturières et finisseurs/finisseuses de produits textiles
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes Contrôleurs/contrôleuses de la qualité, trieurs/trieuses et échantillonneurs/échantillonneuses de produits textiles
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes Opérateurs/opératrices de machines à coudre industrielles Moins de 50 Non publié Non publié Non publié Non publié Restreintes Coupeurs/coupeuses de tissu, de fourrure et de cuir Moins de 50 Non publié Non publié Non publié Non publié Restreintes Ouvriers spécialisés/ouvrières spécialisées dans le traitement du cuir et des peaux
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Contrôleurs/contrôleuses et essayeurs/essayeuses dans la confection d'articles en tissu, en cuir et en fourrure
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Transformation, fabrication et services d'utilité publique
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec Opérateurs/opératrices de machines et de procédés industriels dans la transformation des aliments et des boissons 34 000 Modéré Modéré Acceptables Favorables Bouchers industriels/bouchères industrielles, dépeceursdécoupeurs/dépeceuses-découpeuses de viande, préparateurs/préparatrices de volaille et personnel assimilé
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Ouvriers/ouvrières dans les usines de conditionnement du poisson
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes Opérateurs/opératrices de machines dans le traitement du tabac
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Échantillonneurs/échantillonneuses et trieurs/trieuses dans la transformation des aliments et des boissons
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Opérateurs/opératrices de machines à imprimer Moins de 50 Non publié Non publié Non publié Non publié Restreintes Photograveurs-clicheurs/photograveuses-clicheuses, photograveurs-reporteurs/photograveuses-reporteuses et autre personnel de pré-mise en train
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes Opérateurs/opératrices de machines à relier et de finition Moins de 50 Non publié Non publié Non publié Non publié Restreintes Développeurs/développeuses de films et de photographies 50 Non publié Non publié Non publié Non publié Restreintes Monteurs/monteuses d'aéronefs et contrôleurs/contrôleusesde montage d'aéronefs
+Moins de 50 Non publié Non publié Non publié Non publié Favorables Assembleurs/assembleuses, contrôleurs/contrôleuses et vérificateurs/vérificatrices de véhicules automobiles
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes Assembleurs/assembleuses, monteurs/monteuses, contrôleurs/contrôleuses et vérificateurs/vérificatrices de matériel électronique
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes Monteurs/monteuses et contrôleurs/contrôleuses dans la fabrication de matériel, d'appareils et d'accessoires électriques
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Transformation, fabrication et services d'utilité publique
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec Assembleurs/assembleuses, monteurs/monteuses et contrôleurs/contrôleuses dans la fabrication de transformateurs et de moteurs électriques industriels
+Moins de 50 Non publié Non publié Non publié Non publié Non publié Monteurs/monteuses et contrôleurs/contrôleuses de matériel mécanique
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Opérateurs/opératrices de machines et contrôleurs/contrôleuses dans la fabrication d'appareils électriques
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes Monteurs/monteuses de bateaux et contrôleurs/contrôleusesde montage de bateaux
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Monteurs/monteuses et contrôleurs/contrôleuses demeubles et d'accessoires 34 000 Faible Modéré Restreintes Acceptables Monteurs/monteuses et contrôleurs/contrôleuses d'autres produits en bois
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes Vernisseurs/vernisseuses en finition et en réparation de meubles
+Moins de 50 Non publié Non publié Non publié Non publié Restreintes Assembleurs/assembleuses, finisseurs/finisseuses et contrôleurs/contrôleuses de produits en plastique
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Peintres et enduiseurs/enduiseuses - secteur industriel Moins de 50 Non publié Non publié Non publié Non publié Restreintes Opérateurs/opératrices d'équipement de métallisation et de galvanisation et personnel assimilé 77 000 Faible Faible Acceptables Acceptables Autres monteurs/monteuses et contrôleurs/contrôleuses Moins de 50 Non publié Non publié Non publié Non publié Non publié Opérateurs/opératrices de machines d'usinage Moins de 50 Non publié Non publié Non publié Non publié Acceptables Opérateurs/opératrices de machines de formage Moins de 50 Non publié Non publié Non publié Non publié Acceptables Opérateurs/opératrices de machines à travailler le bois 50 32 000 Non publié Non publié Non publié Restreintes Opérateurs/opératrices de machines à travailler les métauxlégers et lourds
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean Transformation, fabrication et services d'utilité publique
+CODE
+CNP4 Titre de la profession
+Emploi estimé
+(2010)
+Revenu annuel moyen d'emploià temps plein
+(2005)
+Taux de demande de main-d'oeuvre entre et 2015
+Taux de chômage estimé
+(2010)
+Région
+PERSPECTIVES
+Ensemble du Québec Opérateurs/opératrices de machines d'autres produits métalliques
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Opérateurs/opératrices de machines à fabriquer de produits divers
+Moins de 50 Non publié Non publié Non publié Non publié Non publié
+Niveau Elémentaire Manoeuvres dans le traitement des métaux et des minerais 400 67 000 Faible Modéré Restreintes Restreintes Manoeuvres en métallurgie 150 70 000 Modéré Élevé Restreintes Restreintes Manoeuvres dans le traitement des produits chimiques et les services d'utilité publique
+Moins de 50 Non publié Non publié Non publié Non publié Acceptables Manoeuvres dans le traitement des pâtes et papiers et la transformation du bois 46 000 Faible Élevé Restreintes Restreintes Manoeuvres dans la fabrication des produits en caoutchoucet en plastique Non publié Non publié Non publié Non publié Restreintes Manoeuvres des produits du textile Moins de 50 Non publié Non publié Non publié Non publié Restreintes Manoeuvres dans la transformation des aliments, des boissons et du tabac 25 000 Élevé Élevé Acceptables Acceptables Manoeuvres dans la transformation du poisson Moins de 50 Non publié Non publié Non publié Non publié Restreintes Autres manoeuvres des services de transformation, de fabrication et d'utilité publique 42 000 Non publié Non publié Non publié Acceptables
+Perspectives d'emploi par profession 2011-2015
+Le marché du travail dans la région du Saguenay–Lac–Saint-Jean
+Le marché du travail dans la région du Saguenay - Lac-Saint-Jean
+Perspectives d’emploi par profession 2011-2015
+Index alphabétique des groupes professionnels de la CNP
+A Acheteurs/acheteuses des commerces de gros et de détail Acteurs/actrices et comédiens/comédiennes Adjoints/adjointes de direction Administrateurs/administratrices – enseignement postsecondaire et formation professionnelle Agents/agentes à la billetterie et aux services aériens Agents/agentes à la billetterie et représentants/représentantes du service en matière de fret et personnel assimilé (sauf transport aérien) Agents/agentes aux achats Agents/agentes d'administration Agents/agentes d'application de règlements municipaux et autres agents/agentes de réglementation, n.c.a. Agents/agentes de développement économique, recherchistes et experts-conseils/expertes-conseils en marketing Agents/agentes de gestion immobilière Agents/agentes de piste dans le transport aérien Agents/agentes de prêts Agents/agentes de probation et de libération conditionnelle et personnel assimilé Agents/agentes de programmes de l'administration publique Agents/agentes de programmes, recherchistes et experts-conseils/expertes-conseils en politiques de la santé Agents/agentes de programmes, recherchistes et experts-conseils/expertes-conseils en politiques de l'enseignement Agents/agentes de programmes, recherchistes et experts-conseils/expertes-conseils en politiques sociales Agents/agentes de programmes, recherchistes et experts-conseils/expertes-conseils en sciences naturelles et appliquées Agents/agentes de recouvrement Agents/agentes de services correctionnels Agents/agentes de soutien aux utilisateurs Agents/agentes d'immigration, d'assurance-emploi et du revenu Agents/agentes du personnel et recruteurs/recruteuses Agents/agentes en valeurs, agents/agentes en placements et négociateurs/négociatrices en valeurs Agents/agentes et courtiers/courtières d'assurance
+Le marché du travail dans la région du Saguenay - Lac-Saint-Jean
+Perspectives d’emploi par profession 2011-2015 Agents/agentes et vendeurs/vendeuses en immobilier Agronomes, conseillers/conseillères et spécialistes en agriculture Aides de soutien des métiers et manœuvres en construction Aides-enseignants/aides-enseignantes aux niveaux primaire et secondaire Aides familiaux/aides familiales, aides de maintien à domicile et personnel assimilé Aides-infirmiers/aides-infirmières, aides-soignants/aides-soignantes et préposés/préposées aux bénéficiaires Ajusteurs/ajusteuses de machines Ambulanciers/ambulancières et autre personnel paramédical Analystes de bases de données et administrateurs/administratrices de données Analystes et consultants/consultantes en informatique Analystes financiers/analystes financières et analystes en placements Animateurs/animatrices et responsables de programmes de sports et de loisirs Annonceurs/annonceures et autres communicateurs/communicatrices de la radio et de la télévision Arbitres et officiels/officielles de sports Architectes Architectes paysagistes Archivistes Arpenteurs-géomètres/arpenteuses-géomètres Artisans/artisanes Assembleurs/assembleuses, contrôleurs/contrôleuses et vérificateurs/vérificatrices de véhicules automobiles Assembleurs/assembleuses et ajusteurs/ajusteuses de plaques et de charpentes métalliques Assembleurs/assembleuses, finisseurs/finisseuses et contrôleurs/contrôleuses de produits en plastique Assembleurs/assembleuses, monteurs/monteuses, contrôleurs/contrôleuses et vérificateurs/vérificatrices de matériel électronique Assembleurs/assembleuses, monteurs/monteuses et contrôleurs/contrôleuses dans la fabrication de transformateurs et de moteurs électriques industriels Assistants/assistantes d'enseignement et de recherche au niveau postsecondaire Assistants/assistantes dentaires Assureurs/assureures Athlètes Audiologistes et orthophonistes Auteurs/auteures, rédacteurs/rédactrices et écrivains/écrivaines
+Le marché du travail dans la région du Saguenay - Lac-Saint-Jean
+Perspectives d’emploi par profession 2011-2015 Autre personnel de services de protection Autre personnel de soutien des services de santé Autre personnel des soins personnalisés Autre personnel élémentaire de la vente Autre personnel élémentaire de services personnels Autre personnel relié à la religion Autre personnel spécialisé des métiers Autre personnel technique en thérapie et en diagnostic Autre personnel technique et personnel de coordination du cinéma, de la radiotélédiffusion et des arts de la scène Autres agents financiers/agentes financières Autres artistes de spectacle Autres gestionnaires de la fonction publique Autres ingénieurs/ingénieures, n.c.a. Autres instructeurs/instructrices Autres manœuvres des services de transformation, de fabrication et d'utilité publique Autres manœuvres et aides de soutien de métiers Autres monteurs/monteuses et contrôleurs/contrôleuses Autres opérateurs/opératrices de machines dans la transformation du bois Autres préposés/préposées en hébergement et en voyage Autres professionnels/professionnelles des sciences physiques Autres professionnels/professionnelles des sciences sociales Autres professionnels/professionnelles en diagnostic et en traitement de la santé Autres professionnels/professionnelles en thérapie et en évaluation Autres réparateurs/réparatrices Autres technologues et techniciens/techniciennes des sciences de la santé (sauf soins dentaires) Avocats/avocates (partout au Canada) et notaires (au Québec)
+B Barmans/barmaids Bibliothécaires
+Le marché du travail dans la région du Saguenay - Lac-Saint-Jean
+Perspectives d’emploi par profession 2011-2015 Bijoutiers/bijoutières, horlogers-rhabilleurs/horlogères-rhabilleuses et personnel assimilé Biologistes et autres scientifiques Bouchers/bouchères et coupeurs/coupeuses de viandes – commerce de gros ou de détail Bouchers industriels/bouchères industrielles, dépeceurs-découpeurs/dépeceuses-découpeuses de viande, préparateurs/préparatrices de volaille et personnel assimilé Boulangers-pâtissiers/boulangères-pâtissières Briqueteurs-maçons/briqueteuses-maçonnes
+C Cadres supérieurs/cadres supérieures – administration publique Cadres supérieurs/cadres supérieures – commerce, radiotélédiffusion et autres services, n.c.a. Cadres supérieurs/cadres supérieures – production de biens, services d'utilité publique, transport et construction Cadres supérieurs/cadres supérieures – santé, enseignement, services communautaires et sociaux et associations mutuelles Cadres supérieurs/cadres supérieures – services financiers, communications et autres services aux entreprises Cadreurs/cadreuses de films et cadreurs/cadreuses vidéo Caissiers/caissières Calorifugeurs/calorifugeuses Capitaines et officiers/officières de bateaux de pêche Carreleurs/carreleuses Charpentiers-menuisiers/charpentières-menuisières Chasseurs/chasseuses et trappeurs/trappeuses Chaudronniers/chaudronnières Chauffeurs/chauffeuses de taxi, chauffeurs/chauffeuses de limousine et chauffeurs/chauffeuses Chauffeurs-livreurs/chauffeuses-livreuses – services de livraison et de messagerie Chefs Chefs de train et serre-freins Chefs d'orchestre, compositeurs/compositrices et arrangeurs/arrangeuses Chefs et officiers supérieurs/officières supérieures des services d'incendie Chimistes Chiropraticiens/chiropraticiennes Classeurs/classeuses de bois d'œuvre et autres vérificateurs/vérificatrices et classeurs/classeuses dans la transformation du bois
+Le marché du travail dans la région du Saguenay - Lac-Saint-Jean
+Perspectives d’emploi par profession 2011-2015 Coiffeurs/coiffeuses et barbiers/barbières Commis à la comptabilité et personnel assimilé Commis à la paye Commis à la production Commis à la saisie de données Commis au classement et à la gestion des documents Commis au courrier et aux services postaux et personnel assimilé Commis aux achats et à l'inventaire Commis aux services à la clientèle, commis à l'information et personnel assimilé Commis de banque, d'assurance et d'autres services financiers Commis de bibliothèque Commis de bureau généraux/commis de bureau générales Commis d'épicerie et autres garnisseurs/garnisseuses de tablettes – commerce de détail Commis de soutien administratif Commis des services du personnel Commis des services judiciaires Commissaires et agents/agentes de bord Concepteurs/conceptrices et développeurs/développeuses Web Concierges et concierges d'immeubles Conducteurs/conductrices d'autobus et opérateurs/opératrices de métro et autres transports en commun Conducteurs/conductrices de camions Conducteurs/conductrices de machinerie d'entretien public Conducteurs/conductrices de machines d'abattage Conducteurs/conductrices d'équipement lourd (sauf les grues) Conducteurs/conductrices de scies à chaîne et d'engins de débardage Conseillers/conseillères d'orientation et conseillers/conseillères en information scolaire et professionnelle Conseillers/conseillères en emploi Conseillers/conseillères en voyages Conseillers/conseillères imagistes, conseillers mondains/conseillères mondaines et autres conseillers/conseillères en soins personnalisés Conseillers familiaux/conseillères familiales, conseillers matrimoniaux/conseillères matrimoniales et personnel assimilé
+Le marché du travail dans la région du Saguenay - Lac-Saint-Jean
+Perspectives d’emploi par profession 2011-2015 Constructeurs/constructrices et mécaniciens/mécaniciennes d'ascenseurs Constructeurs/constructrices et rénovateurs/rénovatrices en construction domiciliaire Contremaîtres/contremaîtresses des machinistes et du personnel assimilé Contrôleurs/contrôleuses de la circulation ferroviaire et régulateurs/régulatrices de la circulation maritime Contrôleurs/contrôleuses de la qualité, trieurs/trieuses et échantillonneurs/échantillonneuses de produits textiles Contrôleurs/contrôleuses et essayeurs/essayeuses dans la confection d'articles en tissu, en cuir et en fourrure Contrôleurs/contrôleuses et essayeurs/essayeuses dans la transformation des métaux et des minerais Cordonniers/cordonnières et fabricants/fabricantes de chaussures Correspondanciers/correspondancières, commis aux publications et personnel assimilé Coupeurs/coupeuses de tissu, de fourrure et de cuir Courtiers/courtières en douanes, courtiers/courtières maritimes et autres courtiers/courtières Couvreurs/couvreuses et poseurs/poseuses de bardeaux Cuisiniers/cuisinières
+D Danseurs/danseuses Débardeurs/débardeuses Débosseleurs/débosseleuses et réparateurs/réparatrices de carrosserie Dentistes Denturologistes Designers d'intérieur Designers graphiques et illustrateurs/illustratrices Designers industriels/designers industrielles Développeurs/développeuses de films et de photographies Diététistes et nutritionnistes Directeurs/directrices – commerce de détail Directeurs/directrices d'autres services Directeurs/directrices d'autres services administratifs Directeurs/directrices d'autres services aux entreprises Directeurs/directrices de banque, du crédit et d'autres services de placements
+Le marché du travail dans la région du Saguenay - Lac-Saint-Jean
+Perspectives d’emploi par profession 2011-2015 Directeurs/directrices de bibliothèque, d'archives, de musée et de galerie d'art Directeurs/directrices d'école et administrateurs/administratrices de programmes d'enseignement aux niveaux primaire et secondaire Directeurs/directrices de funérailles et embaumeurs/embaumeuses Directeurs/directrices de la construction Directeurs/directrices de la fabrication Directeurs/directrices de la production primaire (sauf l'agriculture) Directeurs/directrices de la restauration et des services alimentaires Directeurs/directrices de la transmission des télécommunications Directeurs/directrices de l'exploitation et de l'entretien d'immeubles Directeurs/directrices de programmes et de services de sports et de loisirs Directeurs/directrices des achats Directeurs/directrices des assurances, de l'immobilier et du courtage financier Directeurs/directrices de services d'architecture et de sciences Directeurs/directrices de services d'hébergement Directeurs/directrices des ressources humaines Directeurs/directrices des services de génie Directeurs/directrices des services d'utilité publique Directeurs/directrices des services postaux et de messageries Directeurs/directrices des services sociaux, communautaires et correctionnels Directeurs/directrices des soins de santé Directeurs/directrices des transports Directeurs/directrices des ventes, du marketing et de la publicité Directeurs/directrices – édition, cinéma, radiotélédiffusion et arts de la scène Directeurs financiers/directrices financières
+E Ébénistes Échantillonneurs/échantillonneuses et trieurs/trieuses dans la transformation des aliments et des boissons Économistes, recherchistes et analystes des politiques économiques Éducateurs/éducatrices et aides-éducateurs/aides-éducatrices de la petite enfance
+Le marché du travail dans la région du Saguenay - Lac-Saint-Jean
+Perspectives d’emploi par profession 2011-2015 Éducateurs spécialisés/éducatrices spécialisées Électriciens/électriciennes de réseaux électriques Électriciens/électriciennes (sauf électriciens industriels et de réseaux électriques) Électriciens industriels/électriciennes industrielles Électromécaniciens/électromécaniciennes Électroniciens/électroniciennes d'entretien (biens de consommation) Enseignants/enseignantes au niveau collégial et dans les écoles de formation professionnelle Enseignants/enseignantes au niveau secondaire Enseignants/enseignantes aux niveaux primaire et préscolaire Ensembliers/ensemblières de théâtre, dessinateurs/dessinatrices de mode, concepteurs/conceptrices d'expositions et autres concepteurs/conceptrices artistiques Entraîneurs/entraîneuses Entrepreneurs/entrepreneuses et contremaîtres/contremaîtresses des autres métiers de la construction et des services de réparation et d'installation Entrepreneurs/entrepreneuses et contremaîtres/contremaîtresses des équipes de construction lourde Entrepreneurs/entrepreneuses et contremaîtres/contremaîtresses du formage, façonnage et montage des métaux Entrepreneurs/entrepreneuses et contremaîtres/contremaîtresses en charpenterie Entrepreneurs/entrepreneuses et contremaîtres/contremaîtresses en électricité et en télécommunications Entrepreneurs/entrepreneuses et contremaîtres/contremaîtresses en mécanique Entrepreneurs/entrepreneuses et contremaîtres/contremaîtresses en tuyauterie Entrepreneurs/entrepreneuses et gestionnaires de l'aménagement paysager et de l'entretien des terrains Entrepreneurs/entrepreneuses et gestionnaires des services agricoles Ergothérapeutes Esthéticiens/esthéticiennes, électrolystes et personnel assimilé Estimateurs/estimatrices en construction Estimateurs/estimatrices et évaluateurs/évaluatrices Évaluateurs/évaluatrices de logiciels et de systèmes informatiques Expéditeurs/expéditrices et réceptionnaires Experts/expertes en sinistres et rédacteurs/rédactrices sinistres Exploitants/exploitantes agricoles et gestionnaires d'exploitations agricoles Exploitants/exploitantes de silos à grains
+Le marché du travail dans la région du Saguenay - Lac-Saint-Jean
+Perspectives d’emploi par profession 2011-2015
+F Facteurs/factrices Finisseurs/finisseuses de béton Foreurs/foreuses de puits d'eau Foreurs/foreuses et dynamiteurs/dynamiteuses des mines à ciel ouvert, des carrières et des chantiers de construction Foreurs/foreuses et personnel de mise à l'essai et des autres services relatifs à l'extraction de pétrole et de gaz Forgerons/forgeronnes et monteurs/monteuses de matrices Fumigateurs/fumigatrices et préposés/préposées au contrôle de la vermine
+G Gardiens/gardiennes d'enfants, gouvernants/gouvernantes et aides aux parents Gardiens/gardiennes de sécurité et personnel assimilé Géologues, géochimistes et géophysiciens/géophysiciennes Gestionnaires de la fonction publique – analyse économique, élaboration de politiques et administration de programmes Gestionnaires de la fonction publique – élaboration de politiques et administration de programmes d'enseignement Gestionnaires de la fonction publique – élaboration de politiques et administration de programmes sociaux et de santé Gestionnaires de systèmes informatiques Gouvernants principaux/gouvernantes principales d'hôtel ou d'établissement Grutiers/grutières Guides d'activités récréatives et sportives de plein air Guides touristiques et guides itinérants/guides itinérantes
+H Horairistes de trajets et préposés/préposées à l'affectation des équipages Hygiénistes et thérapeutes dentaires
+I Infirmiers autorisés/infirmières autorisées Infirmiers auxiliaires/infirmières auxiliaires Infirmiers/infirmières en chef et superviseurs/superviseures
+Le marché du travail dans la région du Saguenay - Lac-Saint-Jean
+Perspectives d’emploi par profession 2011-2015 Ingénieurs chimistes/ingénieures chimistes Ingénieurs civils/ingénieures civiles Ingénieurs électriciens et électroniciens/ingénieures électriciennes et électroniciennes Ingénieurs géologues/ingénieures géologues Ingénieurs informaticiens/ingénieures informaticiennes (sauf ingénieurs/ingénieures en logiciel) Ingénieurs/ingénieures de l'extraction et du raffinage du pétrole Ingénieurs/ingénieures d'industrie et de fabrication Ingénieurs/ingénieures en aérospatiale Ingénieurs/ingénieures en logiciel Ingénieurs/ingénieures métallurgistes et des matériaux Ingénieurs mécaniciens/ingénieures mécaniciennes Ingénieurs miniers/ingénieures minières Inhalothérapeutes, perfusionnistes cardio-vasculaires et technologues cardio-pulmonaires Inspecteurs/inspectrices de la santé publique, de l'environnement et de l'hygiène et de la sécurité au travail Inspecteurs/inspectrices des produits agricoles et de la pêche Inspecteurs/inspectrices d'ingénierie et officiers/officières de réglementation Inspecteurs/inspectrices en construction Installateurs/installatrices de brûleurs à l'huile et à combustibles solides Installateurs/installatrices et réparateurs/réparatrices de matériel de télécommunications Intervieweurs/intervieweuses pour enquêtes et commis aux statistiques
+J Journalistes Juges Juges de paix et officiers/officières de justice
+M Machinistes et vérificateurs/vérificatrices d'usinage et d'outillage Magasiniers/magasinières et commis aux pièces Maîtres d'hôtel et hôtes/hôtesses
+Le marché du travail dans la région du Saguenay - Lac-Saint-Jean
+Perspectives d’emploi par profession 2011-2015 Manœuvres agricoles Manœuvres à l'entretien des travaux publics Manœuvres dans la fabrication des produits en caoutchouc et en plastique Manœuvres dans la transformation des aliments, des boissons et du tabac Manœuvres dans la transformation du poisson Manœuvres dans le traitement des métaux et des minerais Manœuvres dans le traitement des pâtes et papiers et la transformation du bois Manœuvres dans le traitement des produits chimiques et les services d'utilité publique Manœuvres dans le transport ferroviaire et routier Manœuvres de forage et d'entretien des puits de pétrole et de gaz Manœuvres de l'aquiculture et de la mariculture Manœuvres de l'exploitation forestière Manœuvres des mines Manœuvres des produits du textile Manœuvres en aménagement paysager et en entretien des terrains Manœuvres en métallurgie Manutentionnaires Matelots de pont du transport par voies navigables Matelots de pont sur les bateaux de pêche Matelots de salle des machines du transport par voies navigables Mathématiciens/mathématiciennes, statisticiens/statisticiennes et actuaires Mécaniciens/mécaniciennes de chantier et mécaniciens industriels/mécaniciennes industrielles (sauf l'industrie du textile) Mécaniciens/mécaniciennes de gare de triage du transport ferroviaire Mécaniciens/mécaniciennes de locomotive et de cour de triage Mécaniciens/mécaniciennes de machines fixes et opérateurs/opératrices de machines auxiliaires Mécaniciens/mécaniciennes de motocyclettes et personnel assimilé Mécaniciens/mécaniciennes de petits moteurs et autres équipements Mécaniciens/mécaniciennes d'équipement lourd Mécaniciens/mécaniciennes en réfrigération et en climatisation Mécaniciens/mécaniciennes et contrôleurs/contrôleuses d'aéronefs
+Le marché du travail dans la région du Saguenay - Lac-Saint-Jean
+Perspectives d’emploi par profession 2011-2015 Mécaniciens/mécaniciennes et monteurs/monteuses de machines dans l'industrie du textile Mécaniciens/mécaniciennes et réparateurs/réparatrices de véhicules automobiles, de camions et d'autobus Mécaniciens/mécaniciennes, techniciens/techniciennes et contrôleurs/contrôleuses d'avionique et d'instruments et d'appareillages électriques d'aéronefs Médecins spécialistes Membres des corps législatifs Messagers/messagères et distributeurs/distributrices porte-à-porte Météorologistes Mineurs/mineuses d'extraction et de préparation, mines souterraines Ministres du culte Monteurs/monteuses d'aéronefs et contrôleurs/contrôleuses de montage d'aéronefs Monteurs/monteuses de bateaux et contrôleurs/contrôleuses de montage de bateaux Monteurs/monteuses de charpentes métalliques Monteurs/monteuses de lignes électriques et de câbles Monteurs/monteuses de lignes et de câbles de télécommunications Monteurs/monteuses d'installations au gaz Monteurs/monteuses et contrôleurs/contrôleuses dans la fabrication de matériel, d'appareils et d'accessoires électriques Monteurs/monteuses et contrôleurs/contrôleuses d'autres produits en bois Monteurs/monteuses et contrôleurs/contrôleuses de matériel mécanique Monteurs/monteuses et contrôleurs/contrôleuses de meubles et d'accessoires Mouleurs/mouleuses, noyauteurs/noyauteuses et fondeurs/fondeuses de métaux dans les aciéries Musiciens/musiciennes et chanteurs/chanteuses
+N Nettoyeurs spécialisés/nettoyeuses spécialisées
+O Officiers mécaniciens/officières mécaniciennes du transport par voies navigables Officiers/officières de direction des Forces armées Officiers/officières de direction des services de police Officiers/officières de pont du transport par voies navigables Omnipraticiens/omnipraticiennes et médecins en médecine familiale
+Le marché du travail dans la région du Saguenay - Lac-Saint-Jean
+Perspectives d’emploi par profession 2011-2015 Opérateurs/opératrices au contrôle de la fabrication du papier et du couchage Opérateurs/opératrices au contrôle de la réduction en pâte des pâtes et papiers Opérateurs/opératrices de centrales et de réseaux électriques Opérateurs/opératrices de machines à coudre industrielles Opérateurs/opératrices de machines à fabriquer des produits divers Opérateurs/opératrices de machines à façonner le papier Opérateurs/opératrices de machines à former et à finir le verre et coupeurs/coupeuses de verre Opérateurs/opératrices de machines à imprimer Opérateurs/opératrices de machines à relier et de finition Opérateurs/opératrices de machines à scier dans les scieries Opérateurs/opératrices de machines à travailler le bois Opérateurs/opératrices de machines à travailler les métaux légers et lourds Opérateurs/opératrices de machines dans la fabrication et finition du papier Opérateurs/opératrices de machines dans le façonnage et la finition des produits en béton, en argile ou en pierre Opérateurs/opératrices de machines dans les usines de pâte à papier Opérateurs/opératrices de machines dans le traitement des métaux et des minerais Opérateurs/opératrices de machines dans le traitement du tabac Opérateurs/opératrices de machines d'autres produits métalliques Opérateurs/opératrices de machines de formage Opérateurs/opératrices de machines de préparation de fibres textiles et de filés Opérateurs/opératrices de machines de traitement des matières plastiques Opérateurs/opératrices de machines de transformation du caoutchouc et personnel assimilé Opérateurs/opératrices de machines d'usinage Opérateurs/opératrices de machines et contrôleurs/contrôleuses dans la fabrication d'appareils électriques Opérateurs/opératrices de machines et de procédés industriels dans la transformation des aliments et des boissons Opérateurs/opératrices de poste central de contrôle et de conduite de procédés industriels dans le traitement des métaux et des minerais Opérateurs/opératrices de presse à imprimer Opérateurs/opératrices d'équipement d'éditique et personnel assimilé Opérateurs/opératrices d'équipement de métallisation et de galvanisation et personnel assimilé Opérateurs/opératrices de salle de commande centrale dans le raffinage du pétrole et le traitement du gaz et des produits chimiques
+Le marché du travail dans la région du Saguenay - Lac-Saint-Jean
+Perspectives d’emploi par profession 2011-2015 Opérateurs/opératrices d'installation de traitement des produits chimiques Opérateurs/opératrices d'installations de l'assainissement de l'eau et du traitement des déchets Opérateurs/opératrices en informatique, opérateurs/opératrices réseau et techniciens/techniciennes Web Opérateurs/opératrices et préposés/préposées aux sports, aux loisirs et dans les parcs d'attractions Opticiens/opticiennes d'ordonnances Optométristes Outilleurs-ajusteurs/outilleuses-ajusteuses Ouvriers/ouvrières agricoles Ouvriers/ouvrières à l'entretien de la voie ferrée Ouvriers/ouvrières dans les usines de conditionnement du poisson Ouvriers/ouvrières de pépinières et de serres Ouvriers/ouvrières en sylviculture et en exploitation forestière Ouvriers spécialisés/ouvrières spécialisées dans le traitement du cuir et des peaux
+P Patronniers/patronnières de produits textiles, d'articles en cuir et en fourrure Patrons/patronnes de bateaux de pêche et pêcheurs indépendants/pêcheuses indépendantes Peintres et décorateurs/décoratrices Peintres et enduiseurs/enduiseuses – secteur industriel Peintres, sculpteurs/sculpteures et autres artistes des arts visuels Personnel de blanchisseries et d'établissements de nettoyage à sec Personnel d'entretien des canalisations d'eau et de gaz Personnel d'entretien et de soutien des mines souterraines Personnel des écluses et des bacs à câble Personnel de soutien du cinéma, de la radiotélédiffusion et des arts de la scène Personnel d'installation, d'entretien et de réparation d'équipement résidentiel et commercial Personnel du forage et de l'entretien des puits de pétrole et de gaz Personnel exclusif aux Forces armées Personnel préposé au jeu dans les casinos Personnel technique des musées et des galeries d'art
+Le marché du travail dans la région du Saguenay - Lac-Saint-Jean
+Perspectives d’emploi par profession 2011-2015 Pharmaciens/pharmaciennes Photographes Photograveurs-clicheurs/photograveuses-clicheuses, photograveurs-reporteurs/photograveuses-reporteuses et autre personnel de pré-mise en train Physiciens/physiciennes et astronomes Physiothérapeutes Pilotes, navigateurs/navigatrices et instructeurs/instructrices de pilotage du transport aérien Planificateurs/planificatrices de congrès et d'événements Plâtriers/plâtrières, latteurs/latteuses et poseurs/poseuses de systèmes intérieurs Plombiers/plombières Policiers/policières (sauf cadres supérieurs) Pompiers/pompières Poseurs/poseuses de revêtements d'intérieur Préposés/préposées à la pose et à l'entretien des pièces mécaniques d'automobiles Préposés/préposées à l'entretien ménager et au nettoyage – travaux légers Préposés/préposées de stations-service Producteurs/productrices, réalisateurs/réalisatrices, chorégraphes et personnel assimilé Professeurs/professeures d'université Professionnels/professionnelles des relations publiques et des communications Professionnels/professionnelles des sciences forestières Professionnels/professionnelles des services aux entreprises de gestion Programmeurs/programmeuses et développeurs/développeuses en médias interactifs Propriétaires-exploitants/propriétaires-exploitantes de bateau à moteur Propriétaires-exploitants/propriétaires-exploitantes d'entreprises aquicoles Propriétaires-exploitants/propriétaires-exploitantes et gestionnaires de pépinières et de serres Psychologues
+R Rapporteurs/rapporteuses judiciaires et transcripteurs médicaux/transcriptrices médicales Réceptionnistes d'hôtel Réceptionnistes et standardistes
+Le marché du travail dans la région du Saguenay - Lac-Saint-Jean
+Perspectives d’emploi par profession 2011-2015 Réparateurs/réparatrices d'appareils électroménagers Réparateurs/réparatrices de wagons Répartiteurs/répartitrices et opérateurs radio/opératrices radio Repasseurs/repasseuses, presseurs/presseuses et finisseurs/finisseuses Représentants/représentantes au service à la clientèle – services financiers Représentants/représentantes des ventes non techniques – commerce de gros Restaurateurs/restauratrices et conservateurs/conservatrices Réviseurs/réviseures, rédacteurs-réviseurs/rédactrices-réviseures et chefs du service des nouvelles
+S Sages-femmes et praticiens/praticiennes des médecines douces Scaphandriers/scaphandrières Secrétaires (sauf domaines juridique et médical) Secrétaires juridiques Secrétaires médicaux/secrétaires médicales Serveurs/serveuses au comptoir, aides de cuisine et personnel assimilé Serveurs/serveuses d'aliments et de boissons Shérifs et huissiers/huissières de justice Soigneurs/soigneuses d'animaux et travailleurs/travailleuses en soins des animaux Soudeurs/soudeuses et opérateurs/opératrices de machines à souder et à braser Spécialistes des ressources humaines Spécialistes des ventes techniques – commerce de gros Spécialistes du contrôle de la circulation aérienne et personnel assimilé Superviseurs/superviseures – commerce de détail Superviseurs/superviseures de commis à la transcription, à la distribution et aux horaires Superviseurs/superviseures de commis de bibliothèque, de correspondanciers/correspondancières et d'autres commis à l'information Superviseurs/superviseures de commis de bureau et de soutien administratif Superviseurs/superviseures de commis de finance et d'assurance Superviseurs/superviseures des services alimentaires Superviseurs/superviseures et experts-conseils/expertes-conseils en programmes de sports, de loisirs et de conditionnement physique
+Le marché du travail dans la région du Saguenay - Lac-Saint-Jean
+Perspectives d’emploi par profession 2011-2015 Surveillants/surveillantes dans la confection d'articles en tissu, en cuir et en fourrure Surveillants/surveillantes dans la fabrication d'appareils électriques Surveillants/surveillantes dans la fabrication d'autres produits métalliques et de pièces mécaniques Surveillants/surveillantes dans la fabrication de meubles et d'accessoires Surveillants/surveillantes dans la fabrication de produits en caoutchouc et en plastique Surveillants/surveillantes dans la fabrication de véhicules automobiles Surveillants/surveillantes dans la fabrication du matériel électronique Surveillants/surveillantes dans la fabrication et le montage de produits divers Surveillants/surveillantes dans la transformation des aliments, des boissons et du tabac Surveillants/surveillantes dans la transformation des métaux et des minerais Surveillants/surveillantes dans la transformation des produits forestiers Surveillants/surveillantes dans la transformation des produits textiles Surveillants/surveillantes dans le raffinage du pétrole, le traitement du gaz et des produits chimiques et les services d'utilité publique Surveillants/surveillantes de l'aménagement paysager et de l'horticulture Surveillants/surveillantes de l'exploitation des mines et des carrières Surveillants/surveillantes de l'exploitation forestière Surveillants/surveillantes de l'imprimerie et du personnel assimilé Surveillants/surveillantes des autres services Surveillants/surveillantes de services postaux et de messageries Surveillants/surveillantes des opérations du transport ferroviaire Surveillants/surveillantes des services de nettoyage Surveillants/surveillantes d'exploitations agricoles et ouvriers spécialisés/ouvrières spécialisées dans l'élevage du bétail Surveillants/surveillantes du blanchissage et du nettoyage à sec Surveillants/surveillantes du forage et des services reliés à l'extraction de pétrole et de gaz Surveillants/surveillantes du transport routier et du transport en commun
+T Tailleurs/tailleuses, couturiers/couturières, fourreurs/fourreuses et modistes Tapissiers-garnisseurs/tapissières-garnisseuses Techniciens/techniciennes de laboratoire médical
+Le marché du travail dans la région du Saguenay - Lac-Saint-Jean
+Perspectives d’emploi par profession 2011-2015 Techniciens/techniciennes du milieu naturel et de la pêche Techniciens/techniciennes en enregistrement audio et vidéo Techniciens/techniciennes en graphisme Techniciens/techniciennes en météorologie Techniciens/techniciennes en montage et en entretien d'installations de câblodistribution Techniciens/techniciennes en radiotélédiffusion Techniciens/techniciennes et assistants/assistantes dans les bibliothèques et les services d'archives Techniciens/techniciennes et mécaniciens/mécaniciennes d'instruments industriels Techniciens/techniciennes et spécialistes de l'aménagement paysager et de l'horticulture Techniciens/techniciennes juridiques et personnel assimilé Technologues en cardiologie Technologues en échographie Technologues en électroencéphalographie et autres technologues du diagnostic, n.c.a. Technologues en radiation médicale Technologues et techniciens/techniciennes dentaires et auxiliaires dans les laboratoires dentaires Technologues et techniciens/techniciennes en architecture Technologues et techniciens/techniciennes en arpentage et en techniques géodésiques Technologues et techniciens/techniciennes en biologie Technologues et techniciens/techniciennes en cartographie et personnel assimilé Technologues et techniciens/techniciennes en chimie Technologues et techniciens/techniciennes en dessin Technologues et techniciens/techniciennes en génie civil Technologues et techniciens/techniciennes en génie électronique et électrique Technologues et techniciens/techniciennes en génie industriel et en génie de fabrication Technologues et techniciens/techniciennes en génie mécanique Technologues et techniciens/techniciennes en géologie et en minéralogie Technologues et techniciens/techniciennes en santé animale Technologues et techniciens/techniciennes en sciences forestières
+Le marché du travail dans la région du Saguenay - Lac-Saint-Jean
+Perspectives d’emploi par profession 2011-2015 Technologues médicaux/technologues médicales et assistants/assistantes en anatomopathologie Teinturiers/teinturières et finisseurs/finisseuses de produits textiles Téléphonistes Teneurs/teneuses de livres Tisseurs/tisseuses, tricoteurs/tricoteuses et autres opérateurs/opératrices de machines textiles Tôliers/tôlières Traducteurs/traductrices, terminologues et interprètes Travailleurs sociaux/travailleuses sociales Travailleurs/travailleuses des services communautaires et sociaux Tuyauteurs/tuyauteuses, monteurs/monteuses d'appareils de chauffage et monteurs/monteuses de gicleurs
+U Urbanistes et planificateurs/planificatrices de l'utilisation des sols
+V Vendeurs/vendeuses et commis-vendeurs/commis-vendeuses – commerce de détail Vérificateurs/vérificatrices et comptables Vérificateurs/vérificatrices et essayeurs/essayeuses des essais non destructifs Vernisseurs/vernisseuses en finition et en réparation de meubles Vétérinaires Vitriers/vitrières
+F- ()

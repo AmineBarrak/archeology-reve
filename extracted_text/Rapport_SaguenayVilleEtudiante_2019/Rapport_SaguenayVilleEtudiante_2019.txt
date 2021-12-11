@@ -22,9 +22,9 @@ Référence suggérée : Blackburn, M.-È., Bikie Bi Nguema, N., Gaudreault, M. 
 Pour obtenir des renseignements supplémentaires : ÉCOBES – Recherche et transfert
 Cégep de Jonquière
 Pavillon Manicouagan, 6e étage, rue Saint-Hubert
-Jonquière (Québec) G7X 7W2 ecobes@cegepjonquiere.ca http://ecobes.cegepjonquiere.ca/
+Jonquière (Québec) G7X 7W2 ecobes@cegepjonquiere.ca
 © ÉCOBES – Recherche et transfert 2019. Tous droits réservés
-Projet financé par : mailto:ecobes@cegepjonquiere.ca http://ecobes.cegepjonquiere.ca/v TABLE DES MATIÈRES
+Projet financé par : mailto:ecobes@cegepjonquiere.ca v TABLE DES MATIÈRES
 MISE EN CONTEXTE GÉNÉRALE ............................................................................................................... 1
 VOLET 1 : BESOINS ET ATTENTES DE LA POPULATION ÉTUDIANTE ACTUELLE ET
 FUTURE ........................................................................................................................................................ 5.1 Mise en contexte et méthodologie ..................................................................................................................... 7.2 Formation ........................................................................................................................................................... 10. Évolution de la population étudiante ................................................................................................................ 10. Offre de formation............................................................................................................................................ 12. Accès aux études supérieures ........................................................................................................................ 13. Diplomation au secondaire, au cégep et à l’université .................................................................................... 15. Aspirations scolaires des collégiens ................................................................................................................ 19. Manière dont les étudiants ont entendu parler de leur programme d’études collégiales ................................. 21.3 Vie étudiante ...................................................................................................................................................... 22. Valeurs des étudiants ...................................................................................................................................... 23. Utilisation prévue des services et des installations du collège ........................................................................ 25. Activités auxquelles les étudiants prévoient participer au cégep ..................................................................... 27.4 Cadre de vie ....................................................................................................................................................... 29. Raisons d’avoir choisi de venir étudier dans ce collège ................................................................................ 29. Désir d’enracinement dans la région du Saguenay–Lac-Saint-Jean ............................................................. 31. Milieu de vie des collégiens ........................................................................................................................... 33.5 Emploi et économie ........................................................................................................................................... 34. Emploi rémunéré durant l’année scolaire ...................................................................................................... 35. Raisons d’avoir choisi son programme d’études collégiales.......................................................................... 37. Financement des études et précarité financière ............................................................................................ 39.6 Éléments à retenir et recommandations ......................................................................................................... 41
@@ -1932,30 +1932,32 @@ Bikie Bi Nguema, N., Gallais, B., Arbour, N., Gaudreault, M. et Murray, N. (2019
 Bérubé, F., Bourassa-Dansereau, C., Frozzini, J., Gélinas-Proulx, A. et Rugira, J.-M. (2018). Les étudiants internationaux dans le réseau des universités du Québec : pour une meilleure connaissance des interactions en contexte interculturel. FODAR-DI 2019-2019.
 Bonin, S. et Girard, S. (2015). Conditions de vie, motivations et engagement des étudiants étrangers. Selon les enquêtes ICOPE et NSSE 2011. Québec : Direction de la recherche institutionnelle, Université du Québec.
 Bureau de coopération interuniversitaire – BCI. (2018). Données préliminaires relatives aux inscriptions au trimestre d’automne 2018.
-Bureau canadien de l’éducation internationale. (2016). Un monde à apprendre. Résultats et potentiel du Canada en matière d’éducation international. Consulté le 8 novembre 2019 http://cbie.ca/wp-content/uploads/2017/07/
+Bureau canadien de l’éducation internationale. (2016). Un monde à apprendre. Résultats et potentiel du Canada en matière d’éducation international. Consulté le 8 novembre 2019 
 Un-monde-a-apprendre-HI-RES-2016.pdf.
 CAPRES. (2019). Étudiants internationaux en enseignement supérieur. En ligne. www.capres.ca/dossiers/ etudiantsinternationaux/
 Conseil régional des élus de Montréal (CRÉ). (2006). Intensifier les efforts pour attirer et retenir les meilleurs étudiants internationaux à Montréal. Montréal : CRÉ.
 Corbière, M. et Larivière, N. (2014). Méthodes qualitatives, quantitatives et mixtes. Dans la recherche en sciences humaines, sociales et de la santé. Québec : Presse de l’Université du Québec. Établissements scolaires du Saguenay–Lac-Saint-Jean. (2019). Renseignements obtenus en consultant les sites internet ou en communiquant directement avec les établissements scolaires de la ville de Saguenay, soit les commissions scolaires De La Jonquière et des Rives-du-Saguenay, les cégeps de Jonquière et de
 Chicoutimi, ainsi que l’Université du Québec à Chicoutimi.
 Fédération des Cégeps. (2014). Portrait des activités internationales des cégeps. Montréal : Fédération des cégeps.
-Gaudet, E. et Loslier, S. (2011). Les difficultés de réussite des étudiants immigrants dans les stages des programmes techniques au collégial. Consulté le 8 novembre 2017. https://cdc.qc.ca/actes_sic/2011/actes_colloque_.pdf
+Gaudet, E. et Loslier, S. (2011). Les difficultés de réussite des étudiants immigrants dans les stages des programmes techniques au collégial. Consulté le 8 novembre 2017. .pdf
 Gaudreault, M. M. (2012). Analyses statistiques portant sur les étudiants collégiens provenant de l’extérieur de la région du Saguenay–Lac-Saint-Jean à l’automne 2010. Jonquière : ÉCOBES – Recherche et transfert,
 Cégep de Jonquière, 143 pages.
 Gaudreault, M. M. (2019). Analyses secondaires des données du SPEC 2016 en fonction du statut de migrant au
 Saguenay–Lac-Saint-Jean effectuées pour les besoins du présent rapport. Jonquière, ÉCOBES –
-Recherche et transfert, Cégep de Jonquière. http://cbie.ca/wp-content/uploads/2017/07/%20Un-monde-a-apprendre-HI-RES-2016.pdf http://cbie.ca/wp-content/uploads/2017/07/%20Un-monde-a-apprendre-HI-RES-2016.pdf http://www.capres.ca/dossiers/%20etudiants-internationaux/ http://www.capres.ca/dossiers/%20etudiants-internationaux/ https://cdc.qc.ca/actes_sic/2011/actes_colloque_%202011.pdf https://cdc.qc.ca/actes_sic/2011/actes_colloque_%202011.pdf ÉCOBES – Recherche et transfert, Cégep de Jonquière
+Recherche et transfert, Cégep de Jonquière. ÉCOBES – Recherche et transfert, Cégep de Jonquière
 Gaudreault, M. M. et Normandeau, S.-K. avec la collaboration de Jean-Venturoli, H. et J. St-Amour. (2018).
 Caractéristiques de la population étudiante collégiale : valeurs, besoins, intérêts, occupations, aspirations,choix de carrière. Données provenant du Sondage provincial sur les étudiants des cégeps (SPEC) administré aux étudiants nouvellement admis aux études collégiales à l’automne 2016. Jonquière, ÉCOBES – Recherche et transfert, Cégep de Jonquière, 133 pages.
-Gouvernement du Canada. (2014). Stratégie du Canada en matière d’éducation internationale. Utiliser notre avantage du savoir comme moteur de l’innovation et de la prospérité. Consulté le 23 novembre 2017. http://international.gc.ca/global-markets-marches mondiaux/assets/pdfs/overview-apercu-fra.pdf
+Gouvernement du Canada. (2014). Stratégie du Canada en matière d’éducation internationale. Utiliser notre avantage du savoir comme moteur de l’innovation et de la prospérité. Consulté le 23 novembre 2017.
+ mondiaux/assets/pdfs/overview-apercu-fra.pdf
 Guével, M.-R. et Pommier, J. (2012). Recherche par les méthodes mixtes en santé publique : enjeux et illustration.
 Santé publique, 24(1), 23-38.
 Hébert, M. (2011). L’accueil des étudiants immigrants dans le programme de Soins infirmiers au cégep de Saint-
-Laurent. Consulté le 8 novembre 2017. https://cdc.qc.ca/actes_sic/2011/actes_colloque_2011.pdf
+Laurent. Consulté le 8 novembre 2017. 
 Institut de la Statistique du Québec. (2018). Enquête québécoise sur la santé des jeunes au secondaire 2016-2017.
 Résultats de la deuxième édition. La santé physique et les habitudes de vie des jeunes (tome 3). Québec :
 Gouvernement du Québec, Institut de la statistique du Québec, 305 pages.
-Le Devoir. (2018). Le Québec attire de plus en plus d’étudiants internationaux. Consulté le 9 décembre 2018. https://www.ledevoir.com/societe/education/518369/le-quebec-attire-de-plus-en-plus-d-etudiantsinternationaux
+Le Devoir. (2018). Le Québec attire de plus en plus d’étudiants internationaux. Consulté le 9 décembre 2018.
+ internationaux
 Loslier, S. (2015). La situation d’apprentissage des étudiants québécois issus de l’immigration : de la théorie au stage professionnel. Montréal : Cégep Édouard-Montpetit et GRIÉS.
 Maïnich, S. (2015). Les expériences sociales et universitaires d’étudiants internationaux au Québec, le cas de l’Université de Montréal : Comprendre leur persévérance aux études. [Thèse inédite de maîtrise]. Montréal :
 Université de Montréal.
@@ -1965,15 +1967,15 @@ Ministère de l’Éducation et de l’Enseignement supérieur, sur le site Inte
 Ministère de l’Éducation et de l’Enseignement supérieur, Direction générale des statistiques, des études et de la géomatique, Direction des indicateurs et des statistiques. (2017). CSE Indicateurs Cheminement collégial
 (version 2016).
 Ministère de l’Éducation et de l’Enseignement supérieur dans la Banque e données des statistiques officielles sur le
-Québec (BDSO). (2017). Consulté le 15 mai 2019. http://www.education.gouv.qc.ca/references/indicateurset-statistiques/statistiques/frequentation-scolaire/
+Québec (BDSO). (2017). Consulté le 15 mai 2019.  et-statistiques/statistiques/frequentation-scolaire/
 Ministère de l’Éducation et de l’Enseignement supérieur. (2019). Taux de diplomation et qualification par commission scolaire au Québec – Édition 2018. 24 pages.
 Ministère de l’Immigration et des Communautés culturelle (MICC). (2012). Portraits statistiques – L’immigration permanente au Québec selon les catégories d’immigration et quelques composantes – 2006-2010. Québec :
-Gouvernement du Québec. http://international.gc.ca/global-markets-marches%20mondiaux/assets/pdfs/overview-apercu-fra.pdf https://cdc.qc.ca/actes_sic/2011/actes_colloque_2011.pdf https://www.ledevoir.com/societe/education/518369/le-quebec-attire-de-plus-en-plus-d-etudiants-internationaux https://www.ledevoir.com/societe/education/518369/le-quebec-attire-de-plus-en-plus-d-etudiants-internationaux
+Gouvernement du Québec.
 Bibliographie
 Ndjambou, P. et Fromage, A. (2009). Rapport de recherche sur l’évaluation des services de support offerts par l’UQAC aux étudiants internationaux en matière de recrutement, d’accueil et d’intégration. Chicoutimi :
 MAGE-UQAC.
 Ouédraogo, A., E. (2011). L’intégration scolaire des étudiants immigrants et étrangers dans les cégeps du Québec.
-Consulté le 8 novembre 2017. https://cdc.qc.ca/actes_sic/2011/actes_colloque_2011.pdf
+Consulté le 8 novembre 2017. 
 Paillé, P. et Mucchielli, A. (2012). L’analyse qualitative en sciences humaines et sociales. Paris : Armand Colin.
 Perron, M. et Blackburn, M.-È. (2007). L’image du Saguenay–Lac-Saint-Jean. Rapport final. Groupe ÉCOBES,
 Cégep de Jonquière, 100 pages.
@@ -1982,8 +1984,9 @@ Richard, É. et Mareschal, J. (2014). Migration pour études, défis d’adaptat
 Ross, F., Childs, S. et Wismer, A. (2011). Groupes sous-représentés à des études postsecondaires : Éléments probants extraits de l’Enquête auprès des jeunes en transition. Toronto : Conseil ontarien de la qualité de l’enseignement supérieur (COQES), 65 pages.
 Séguin, D. (2011). Étudiants internationaux : Parcours et réussite. Rapport de recherche. Programme d’aide à la recherche sur l’enseignement et l’apprentissage (PAREA), Recherche subventionnée par le ministère de l’éducation, du Loisir et du Sport (MELS).
 Statistique Canada. (2016). Les étudiants internationaux dans les universités canadiennes, 2004-2005 à 2013-2014.
-Consulté le 15 novembre 2017. https://www150.statcan.gc.ca/n1/fr/pub/81-599-x/81-599-x2016011fra.pdf?st=KsVnbp2q
-Université du Québec. Système de suivi des cohortes étudiantes. Direction de la recherche institutionnelle. (2018). https://cdc.qc.ca/actes_sic/2011/actes_colloque_2011.pdf https://www150.statcan.gc.ca/n1/fr/pub/81-599-x/81-599-x2016011-fra.pdf?st=KsVnbp2q https://www150.statcan.gc.ca/n1/fr/pub/81-599-x/81-599-x2016011-fra.pdf?st=KsVnbp2q
+Consulté le 15 novembre 2017.  fra.pdf?st=KsVnbp2q
+Université du Québec. Système de suivi des cohortes étudiantes. Direction de la recherche institutionnelle. (2018).
+
 ANNEXE 1 :
 OFFRE DE PROGRAMMES D’ÉTUDES À LA FORMATION
 PROFESSIONNELLE, À LA FORMATION COLLÉGIALE ET À L’UNIVERSITÉ À VILLE DE SAGUENAY PAR SECTEURS

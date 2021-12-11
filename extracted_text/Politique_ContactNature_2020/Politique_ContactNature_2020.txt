@@ -38,7 +38,7 @@ Le rapport Brundtland de 1987 définit le développement durable comme « un dé
 Trois dimensions Un grand défi
 Le développement durable devient le grand défi de notre société. Il reste unenotion très large et ne réfère pas seulement à la protection de l environnement.
 Il doit intégrer indissociablement trois dimensions : environnementale,sociale et économique.
-Il doit être à la fois économiquement efficace, socialement équitable et écologiquement tolérable. Le social doi re n objec if, l conomie n mo en e l en ironnemen ne condition.1 http://www.3-0.fr/doc-dd/qu-est-ce-que-le-dd/les-3-piliers-du-developpement-durable http://www.3-0.fr/doc-dd/qu-est-ce-que-le-dd/les-3-piliers-du-developpement-durable
+Il doit être à la fois économiquement efficace, socialement équitable et écologiquement tolérable. Le social doi re n objec if, l conomie n mo en e l en ironnemen ne condition.1 
 Figure 1. Représentation des trois dimensions et des quatre caractéristiques d'un développement durable.
 Source : adaptée de Jacobs et Sadler (1990).
 Bien que les trois dimensions du développement durable soient étroitement liées, le faitde les définir de façon isolée peut aider à trouver des moyens d'action concrets pour cheminer vers une durabilité globale (Goodland, 1995; Rigby et al., 2001).
@@ -49,7 +49,7 @@ Considérer les conséquences sociales de nos activités, les problèmes des in�
 Dimension économique
 Concilier la viabilité de notre organisation avec des principes éthiques tels quela o ec ion de l en i onnemen , la od c ion et la consommation responsable.
 Principes de développement durable
-La loi sur le développement durable du Québec2 e ba e ce 16 principes. Santé et qualité de vie Équité et solidarité sociale P o ec ion de l en i onnemen Efficacité économique Participation et engagement Accès au savoir Subsidiarité Partenariat et coopération Prévention Précaution Protection du patrimoine culturel Préservation de la biodiversité Respect de la capacité de support des écosystèmes Production et consommation écoresponsable Pollueur payeur Internalisation des coûts http://www.environnement.gouv.qc.ca/developpement/principe.htm http://www.environnement.gouv.qc.ca/developpement/principe.htm
+La loi sur le développement durable du Québec2 e ba e ce 16 principes. Santé et qualité de vie Équité et solidarité sociale P o ec ion de l en i onnemen Efficacité économique Participation et engagement Accès au savoir Subsidiarité Partenariat et coopération Prévention Précaution Protection du patrimoine culturel Préservation de la biodiversité Respect de la capacité de support des écosystèmes Production et consommation écoresponsable Pollueur payeur Internalisation des coûts 
 Engagement
 Volet environnemental Protéger
 Optimisation des ressources P i il gie l ili a ion des ressources renouvelables (animales, végétales, énergétiques, etc.) et des matériaux recyclables et compostables. Sensibiliser les employés aux mesures qui permettent de réduire lacon omma ion d ne gie. Ex. Demander aux employés de fermer lesa a eil lo il ne on a ili ( c an d o dina e , le lumières, etc.) Optimiser les outils technologiques pour réduire les déplacements professionnels (vidéoconférence, télétravail, etc.)
@@ -122,7 +122,7 @@ Nutrinor, rue St-Judes est Alma
 (Québec) G8B 3L3 668-3051 www.nutrinor.com
 Aliment
 Propane
-Quincailleriex http://www.nutrinor.com/
+Quincailleriex 
 Fournisseur Produits Local Bio Vrac Équitable
 Boulangerie du Royaume, rue Alexis-Le-Trotteur,
 Jonquière-695-7246 boulangerieduroyaume@vIdeotron
@@ -211,6 +211,8 @@ Jean-Pierre REVÉRET et Corinne GENDRON, « Le développement durable : unslogan
 P.JACOBS et B. SADLER (1990), Développement durable et évaluationen i onnemen ale : e ec i e de lanifica ion d n a enir commun,doc men d Con eil de la eche che l al a ion en i onnemen ale
 (CCREE) Hull, Québec, p. 3-35., 4
 UNESCO, Base de données : Éducation.
-(http://portal.unesco.org/education/fr/ev.php-
 URLID=8084&URL_DO=DO_Topic&URL_section=201.html)
-Entreprise Québec Outils de développement durable : https://www2.gouv.qc.ca/entreprises/portail/quebec/developpementDurable? lang=fr&d=developpementDurable&e=4014309844 http://portal.unesco.org/education/fr/ev.php-URLID=8084&URL_DO=DO_Topic&URL_section=201.html http://portal.unesco.org/education/fr/ev.php-URLID=8084&URL_DO=DO_Topic&URL_section=201.html https://www2.gouv.qc.ca/entreprises/portail/quebec/developpementDurable?lang=fr&d=developpementDurable&e=4014309844 https://www2.gouv.qc.ca/entreprises/portail/quebec/developpementDurable?lang=fr&d=developpementDurable&e=4014309844
+Entreprise Québec Outils de développement durable :
+ lang=fr&d=developpementDurable&e=4014309844
+
+

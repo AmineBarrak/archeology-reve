@@ -865,7 +865,7 @@ Peinture 5
 Batteries de véhicules 58
 Huiles usées 73
 Total 297
-Comme ce sont plus de 90 % des matières apportées qui sont gérées selon le principeRV, voilà une autre bonne raison d’aller aux écocentres. La figure suivante présente lemode de disposition des différentes matières apportées aux écocentres. Cette figure se retrouve dans le dépliant remis aux citoyens lors de leur visite aux écocentres et qui peut être consulté par le biais du lien suivant : http://ville.saguenay.ca/fr/media/viewst/environnement/ecocentre_tri_global.pdf http://ville.saguenay.ca/fr/media/viewst/environnement/ecocentre_tri_global.pdf 59
+Comme ce sont plus de 90 % des matières apportées qui sont gérées selon le principeRV, voilà une autre bonne raison d’aller aux écocentres. La figure suivante présente lemode de disposition des différentes matières apportées aux écocentres. Cette figure se retrouve dans le dépliant remis aux citoyens lors de leur visite aux écocentres et qui peut être consulté par le biais du lien suivant :
 Figure 6 : Mode de disposition des différentes matières apportées aux écocentres 60
 Le bois provenant des écocentres est valorisé énergétiquement par les entreprises
 Cascades, Produits forestiers Résolu et Récupère Sol. Les branches et les résidus verts sont à 100 % valorisés et utilisés par Cascades, Newalta et Produits forestiers Résolu. Le cartonest envoyé au Centre de tri où il est vendu. Les métaux sont récupérés par l’entreprise E.J.
@@ -2418,7 +2418,7 @@ Chicoutimi G7H 1S8
 Téléphone : 418 545-9245 eureko@eureko.ca www.eureko.ca www.facebook.com/EurekoQc
 Organisme communautaire,
 OBNL
-Réduction à la source, information, sensibilisation, éducation mailto:eureko@eureko.ca http://www.eureko.ca/ https://fr-ca.facebook.com/EurekoQc 163
+Réduction à la source, information, sensibilisation, éducation mailto:eureko@eureko.ca
 Conseil régional de l'environnement et du développement durable du Saguenay – Lac-Saint-
 Jean, rue Sacré-Coeur Ouest, bureau 7
 Alma G8B 1M2
@@ -2463,7 +2463,7 @@ Terrassement Saint-Louis, rue de l’Énergie CP 2037
 Jonquière G7X 7X6
 Téléphone : 418 542-3749
 Télécopieur : 418 542-1747
-Entreprise privée Transport, entreposage, valorisation mailto:secretariat@creddsaglac.com http://zipsaguenaycharlevoix.ca/ 164
+Entreprise privée Transport, entreposage, valorisation mailto:secretariat@creddsaglac.com
 Services Matrec inc., boulevard Talbot
 Chicoutimi G7H 5B1
 Téléphone : 418 549-8074 poste 240

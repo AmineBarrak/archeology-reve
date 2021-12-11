@@ -1,4 +1,4 @@
- https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/agriculture-pecheries-alimentation/agriculture/industrie-agricole/regions/FS_profilregionalbioalimentaire_complet_MAPAQ.pdf?1606235922
+
 ESTIMATIONS POUR L'ANNÉE 2019
 PROFIL RÉGIONAL DE L’INDUSTRIE
 BIOALIMENTAIRE AU QUÉBEC
@@ -1992,7 +1992,7 @@ Ce terme réfère à la fabrication d’aliments (SCIAN 311) et à la fabricatio
 Fabrication d’aliments
 Elle regroupe les établissements dont l’activité principale est la production d’aliments pour la consommation humaine ou animale.
 Fabrication de boissons et de produits du tabac
-LISTE DES SOURCES http://www.mapaq.gouv.qc.caPROFIL RÉGIONAL DE L’INDUSTRIE BIOALIMENTAIRE AU QUÉBEC | ESTIMATIONS POUR L’ANNÉE 2019 Ì Tableau 32-10-0365-01 — Superficie, production et valeur à la ferme des légumes commercialisés. Ì Tableau 32-10-0456-01 — Production et valeur des légumes de serre. Ì Tableau 33-10-0222-01 - Nombre d’entreprises canadiennes, avec employés, décembre 2019. Ì Tableau 33-10-0223-01 - Nombre d’entreprises canadiennes, sans employés, décembre 2019. Ì Tableau 34-10-0035-01 — Dépenses en immobilisation et réparations, actifs corporels non résidentiels, par industrie selon la géographie (x 1 000 000). Ì Tableau 36-10-0096-01 — Flux et stocks de capital fixe non résidentiel, selon l’industrie et le type d’actif, Canada, provinces et territoires (x 1 000 000). Ì Tableau 36-10-0402-01 — Produit intérieur brut (PIB) aux prix de base, par industries, provinces et territoires (x 1 000 000). Ì Compilations sur demande.
+LISTE DES SOURCESPROFIL RÉGIONAL DE L’INDUSTRIE BIOALIMENTAIRE AU QUÉBEC | ESTIMATIONS POUR L’ANNÉE 2019 Ì Tableau 32-10-0365-01 — Superficie, production et valeur à la ferme des légumes commercialisés. Ì Tableau 32-10-0456-01 — Production et valeur des légumes de serre. Ì Tableau 33-10-0222-01 - Nombre d’entreprises canadiennes, avec employés, décembre 2019. Ì Tableau 33-10-0223-01 - Nombre d’entreprises canadiennes, sans employés, décembre 2019. Ì Tableau 34-10-0035-01 — Dépenses en immobilisation et réparations, actifs corporels non résidentiels, par industrie selon la géographie (x 1 000 000). Ì Tableau 36-10-0096-01 — Flux et stocks de capital fixe non résidentiel, selon l’industrie et le type d’actif, Canada, provinces et territoires (x 1 000 000). Ì Tableau 36-10-0402-01 — Produit intérieur brut (PIB) aux prix de base, par industries, provinces et territoires (x 1 000 000). Ì Compilations sur demande.
 RÉALISATION
 Ministère de l’Agriculture, des Pêcheries et de l’Alimentation
 Sous-ministériat à la transformation et aux politiques bioalimentaires
@@ -2016,4 +2016,4 @@ Dépôt légal 2020
 Bibliothèque et Archives nationales du Québec
 Bibliothèque et Archives Canada
 ISBN 978-2-550-88124-7 (imprimé)
-ISBN 978-2-550-88125-4 (PDF) http://www.mapaq.gouv.qc.ca/fr/md/statistiques/Pages/donneesregionales.aspx
+ISBN 978-2-550-88125-4 (PDF)

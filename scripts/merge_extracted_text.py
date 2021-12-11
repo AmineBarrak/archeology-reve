@@ -52,13 +52,15 @@ def text_process(text):
 
     return [stemmer.lemmatize(word) for word in nopunc]
 
-
-
-def main():
+def merge():
     PATH="../extracted_text/"
     my_df = merge_dataset(PATH)
 
-    # my_df.to_csv('../all_dataset.csv', index=False)
+    my_df.to_csv('../all_dataset.csv', index=False)
+    return my_df
+
+def main():
+    my_df = merge()
 
 
 
@@ -112,4 +114,4 @@ def main():
         plt.show()
 
 if __name__ == '__main__':
-    main()
+    m = merge()

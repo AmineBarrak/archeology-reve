@@ -8,12 +8,9 @@ import os
 
 
 def rotate(pdf_path_imput, pdf_path_output, list_pages):
-    
-
     pdfIn = open(pdf_path_imput, 'rb') 
     pdfReader = PyPDF2.PdfFileReader(pdfIn)
     pdfWriter = PyPDF2.PdfFileWriter()
-
     for pageNum in range(pdfReader.numPages):
         page = pdfReader.getPage(pageNum)
         if pageNum in list_pages:

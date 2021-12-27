@@ -1,26 +1,8 @@
-import PyPDF2
-import pdfplumber
-from pdfminer.pdfpage import PDFPage
 import os
-from tika import parser
-import pytesseract
-from pdfminer3.layout import LAParams, LTTextBox
-from pdfminer3.pdfpage import PDFPage
-from pdfminer3.pdfinterp import PDFResourceManager
-from pdfminer3.pdfinterp import PDFPageInterpreter
-from pdfminer3.converter import PDFPageAggregator
-from pdfminer3.converter import TextConverter
 from pathlib import Path
 import io
-from pdf2image import convert_from_path
-import easyocr
 import numpy as np
-import PIL
-from PIL import ImageDraw
-import spacy
 import regex as re
-import fitz
-from PIL import Image
 
 
 def clean_text(rgx_match, text):
@@ -267,9 +249,38 @@ def count_loss_percentages():
 	print("*********** Loss words usage {:.2f} *******************".format((percentage_usage/nbr_total_files)*100))
 	print("*********** Loss words dictionnaire {:.2f} *******************".format((percentage_dict/nbr_total_files)*100))
 
+def median_word():
+	PATH="../../dataset/straight/"
+	RES_PATH="../../extracted_text/"
+	files_paths = [os.path.join(dp, f) for dp, dn, filenames in os.walk(PATH) for f in filenames if os.path.splitext(f)[1] == '.pdf']
+	
+	nbr_caracter_moyen_usage = 5.13
+	nbr_caracter_moyen_dict = 10.09
+
+	nbr_total_files = len (files_paths)
+	percentage_usage = 0
+	percentage_dict = 0
+	for file_path in files_paths:
+		filename = Path(file_path).stem
+		# print(filename)
+		# file_extract_path = RES_PATH+filename
+		# Path(file_extract_path).mkdir(parents=True, exist_ok=True)
+
+		# text_extracted = tika(filename, file_path)
+		file = open(file_path, 'r', encoding='latin-1')
+		read_data = file.read()
+		per_word = read_data.split()
+
+		percentage_usage += len(per_word)
+	
+	median = percentage_usage  / nbr_total_files
+	print("*********** median words is {:.2f} *******************".format(median))
+	
+
 if __name__ == '__main__':
-	main()
+	# main()
 	# count_loss_percentages()
+	median_word()
 
 	
 
